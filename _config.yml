@@ -1,3 +1,7 @@
 theme: jekyll-theme-minimal
-title: Tyler H. McCormick
-description: University of Washington
+title : 
+author :
+  name : Tyler H. McCormick
+  email : tylermc@uw.edu
+  github : thmccormick
+  twitter : tylermccormick
