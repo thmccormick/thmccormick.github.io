@@ -1,6 +1,8 @@
+![photo of tyler][tylerpic]
 
-	 <img style="width: 300px;"; alt="Picture of Tyler" BORDER="0" src="http://www.stat.washington.edu/~tylermc/website_pic.jpg";/>
-	Selfies and (<a href="http://faculty.washington.edu/rmheath/" target="_blank">economist</a>) photobombs are cool now, right?
+[tylerpic]: http://www.stat.washington.edu/~tylermc/website_pic.jpg "tyler"
+
+Selfies and [economist](http://faculty.washington.edu/rmheath/) photobombs are cool now, right?
 
 
 ## Welcome
