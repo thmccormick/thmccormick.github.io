@@ -9,7 +9,7 @@ Selfies and [economist](http://faculty.washington.edu/rmheath/) photobombs are c
 
 Please see [here](http://www.stat.uw.edu/~tylermc) for my current webpage or [arXiv](https://arxiv.org/find/stat/1/au:+McCormick_T/0/1/0/all/0/1) for working papers.
 
-# Current technical reports and working papers
+# Technical reports and working papers
 
 + [Bayesian factor models for probabilistic cause of death assessment with verbal autopsies](https://arxiv.org/abs/1803.01327)
 + [Quantifying the contributions of training data and algorithm logic to the performance of automated cause-assignment algorithms for verbal autopsy](https://arxiv.org/abs/1803.07141)
