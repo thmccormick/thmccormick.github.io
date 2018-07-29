@@ -2,6 +2,8 @@
 
 [tylerpic]: http://www.stat.washington.edu/~tylermc/website_pic.jpg "tyler"
 
+<img src="http://www.stat.washington.edu/~tylermc/website_pic.jpg" alt="alt text" width="250" height="250">
+
 Selfies and [economist](http://faculty.washington.edu/rmheath/) photobombs are cool now, right?
 
 
@@ -11,6 +13,8 @@ Please see [here](http://www.stat.uw.edu/~tylermc) for my current webpage or [ar
 
 # Technical reports and working papers
 
++ [Modeling the social media relationships of Irish politicians using a generalized latent space stochastic blockmodel](https://arxiv.org/abs/1807.06063)
++ [Bayesian Joint Spike-and-Slab Graphical Lasso](https://arxiv.org/abs/1805.07051)
 + [Bayesian factor models for probabilistic cause of death assessment with verbal autopsies](https://arxiv.org/abs/1803.01327)
 + [Quantifying the contributions of training data and algorithm logic to the performance of automated cause-assignment algorithms for verbal autopsy](https://arxiv.org/abs/1803.07141)
 + [Bayesian latent Gaussian graphical models for mixed data with marginal prior information](https://arxiv.org/abs/1711.00877) 
