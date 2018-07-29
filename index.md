@@ -2,7 +2,7 @@
 
 [tylerpic]: http://www.stat.washington.edu/~tylermc/website_pic.jpg "tyler"
 
-<img src="http://www.stat.washington.edu/~tylermc/website_pic.jpg" alt="alt text" width="250" height="250">
+<img src="http://www.stat.washington.edu/~tylermc/website_pic.jpg" alt="alt text" width="533" height="400">
 
 Selfies and [economist](http://faculty.washington.edu/rmheath/) photobombs are cool now, right?
 
