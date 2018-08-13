@@ -2,32 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Homes on Tyler H. McCormick</title>
-    <link>https://thmccormick.github.io/home/</link>
+    <link>/home/</link>
     <description>Recent content in Homes on Tyler H. McCormick</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Wed, 20 Apr 2016 00:00:00 -0700</lastBuildDate>
     
-	<atom:link href="https://thmccormick.github.io/home/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/home/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>https://thmccormick.github.io/home/about/</link>
+      <link>/home/about/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
       
-      <guid>https://thmccormick.github.io/home/about/</guid>
+      <guid>/home/about/</guid>
       <description>This website is under construction. My current website is here. I&amp;rsquo;m working from the awesome Academic Theme and modifying content gradually. 
 I&amp;rsquo;m currently an Associate Professor of Statistics and Sociology at the University of Washington. I&amp;rsquo;m also a core faculty member in the Center for Statistics and the Social Sciences and a Senior Data Science Fellow at the eScience Institute. I&amp;rsquo;m also the Editor-elect for the Journal of Computational and Graphical Statistics.</description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>https://thmccormick.github.io/home/contact/</link>
+      <link>/home/contact/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
       
-      <guid>https://thmccormick.github.io/home/contact/</guid>
+      <guid>/home/contact/</guid>
       <description></description>
     </item>
     
