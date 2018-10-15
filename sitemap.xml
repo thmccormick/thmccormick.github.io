@@ -4,15 +4,85 @@
     
     <url>
     
-      <loc>/privacy/</loc>
-      <lastmod>2018-06-28T00:00:00-07:00</lastmod>
+      <loc>https://thmccormick.github.io/publications/publications/</loc>
     </url>
     
   
     
     <url>
     
-      <loc>/talk/example-talk/</loc>
+      <loc>https://thmccormick.github.io/teaching/teaching/</loc>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://thmccormick.github.io/software/insilicova/</loc>
+      <lastmod>2018-09-09T00:00:00-07:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://thmccormick.github.io/software/interva/</loc>
+      <lastmod>2018-09-09T00:00:00-07:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://thmccormick.github.io/software/nsum/</loc>
+      <lastmod>2018-09-09T00:00:00-07:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://thmccormick.github.io/software/openva/</loc>
+      <lastmod>2018-09-09T00:00:00-07:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://thmccormick.github.io/software/rdstreeboot/</loc>
+      <lastmod>2018-09-09T00:00:00-07:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://thmccormick.github.io/software/</loc>
+      <lastmod>2018-09-09T00:00:00-07:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://thmccormick.github.io/software/dma/</loc>
+      <lastmod>2018-09-09T00:00:00-07:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://thmccormick.github.io/software/netregr/</loc>
+      <lastmod>2018-09-09T00:00:00-07:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://thmccormick.github.io/post/</loc>
       <lastmod>2017-01-01T00:00:00-08:00</lastmod>
     </url>
     
@@ -20,7 +90,7 @@
     
     <url>
     
-      <loc>/post/</loc>
+      <loc>https://thmccormick.github.io/publications/</loc>
       <lastmod>2017-01-01T00:00:00-08:00</lastmod>
     </url>
     
@@ -28,7 +98,7 @@
     
     <url>
     
-      <loc>/publication/</loc>
+      <loc>https://thmccormick.github.io/talk/</loc>
       <lastmod>2017-01-01T00:00:00-08:00</lastmod>
     </url>
     
@@ -36,56 +106,7 @@
     
     <url>
     
-      <loc>/talk/</loc>
-      <lastmod>2017-01-01T00:00:00-08:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/project/deep-learning/</loc>
-      <lastmod>2016-04-27T00:00:00-07:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/project/example-external-project/</loc>
-      <lastmod>2016-04-27T00:00:00-07:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/post/getting-started/</loc>
-      <lastmod>2018-01-13T00:00:00-08:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/publication/person-re-identification/</loc>
-      <lastmod>2015-09-01T00:00:00-07:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/publication/clothing-search/</loc>
-      <lastmod>2013-07-01T00:00:00-07:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/publication_types/1/</loc>
-      <lastmod>2013-07-01T00:00:00-07:00</lastmod>
+      <loc>https://thmccormick.github.io/categories/</loc>
       <priority>0</priority>
     </url>
     
@@ -93,8 +114,7 @@
     
     <url>
     
-      <loc>/publication_types/2/</loc>
-      <lastmod>2015-09-01T00:00:00-07:00</lastmod>
+      <loc>https://thmccormick.github.io/publication_types/</loc>
       <priority>0</priority>
     </url>
     
@@ -102,8 +122,7 @@
     
     <url>
     
-      <loc>/tags/academic/</loc>
-      <lastmod>2018-01-13T00:00:00-08:00</lastmod>
+      <loc>https://thmccormick.github.io/tags/</loc>
       <priority>0</priority>
     </url>
     
@@ -111,7 +130,7 @@
     
     <url>
     
-      <loc>/categories/</loc>
+      <loc>https://thmccormick.github.io/teaching/</loc>
       <priority>0</priority>
     </url>
     
@@ -119,52 +138,7 @@
     
     <url>
     
-      <loc>/tags/deep-learning/</loc>
-      <lastmod>2016-04-27T00:00:00-07:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/demo/</loc>
-      <lastmod>2016-04-27T00:00:00-07:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/project/</loc>
-      <lastmod>2016-04-27T00:00:00-07:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/publication_types/</loc>
-      <lastmod>2013-07-01T00:00:00-07:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/</loc>
-      <lastmod>2018-01-13T00:00:00-08:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/</loc>
+      <loc>https://thmccormick.github.io/</loc>
       <lastmod>2016-04-20T00:00:00-07:00</lastmod>
       <priority>0</priority>
     </url>
