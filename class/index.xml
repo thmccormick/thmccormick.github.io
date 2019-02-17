@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Classes on Tyler H. McCormick</title>
+    <link>https://thmccormick.github.io/class/</link>
+    <description>Recent content in Classes on Tyler H. McCormick</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    
+	<atom:link href="https://thmccormick.github.io/class/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>(Preliminary) Course schedule</title>
+      <link>https://thmccormick.github.io/class/567_sp19_schedule/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://thmccormick.github.io/class/567_sp19_schedule/</guid>
+      <description>Stat/CSSS 566 Spring 2019, University of Washington Main page
+Textbooks: Kolaczyk, Eric D. 2009. Statistical Analysis of Network Data (SAND). and Kolaczyk, Eric D. and Csárdi, G. 2014. Statistical Analysis of Network Data (SANDr). Both are available as pdf from the UW Library website.
+Week 1 Overview  SAND chapter 3 Readings:  Borgatti, S.P et al “Network Analysis in the Social Sciences” Science 323, 892 (2009). Butts, Carter T.</description>
+    </item>
+    
+    <item>
+      <title>Statistical analysis of social network data</title>
+      <link>https://thmccormick.github.io/class/567_sp19/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://thmccormick.github.io/class/567_sp19/</guid>
+      <description>Tentative syllabus, subject to change (Updated 17-Feb-2019) Stat/CSSS 566 Spring 2019, University of Washington Course schedule
+Logistics Instructor: Tyler McCormick; Email: tylermc@uw.edu; Office Hours: TBD
+TA: TBD Course meetings: T/Th 11:30-12:50pm (Guggenheim 218) &amp;amp; F 1:30-2:20 (Savery 264) Overview &amp;amp; objectives This course is a practical, hands-on introduction to design and analysis of social network data, set against a backdrop of theory from sociology, economics, and other disciplines.
+Course components &amp;amp; grading    Component % Grade     Approx 5 HWs 40   In-class presentation 15   Final project &amp;amp; poster 45    In-class presentation: In weeks 3-9, Tuesday lectures will present statistical methods and Thursday lectures will be student presentations of social science papers that use the method.</description>
+    </item>
+    
+  </channel>
+</rss>

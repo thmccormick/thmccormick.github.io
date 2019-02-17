@@ -66,14 +66,6 @@
     
     <url>
     
-      <loc>https://thmccormick.github.io/software/dma/</loc>
-      <lastmod>2018-09-09T00:00:00-04:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>https://thmccormick.github.io/software/netregr/</loc>
       <lastmod>2018-09-09T00:00:00-04:00</lastmod>
     </url>
@@ -106,7 +98,22 @@
     
     <url>
     
+      <loc>https://thmccormick.github.io/class/567_sp19_schedule/</loc>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://thmccormick.github.io/categories/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://thmccormick.github.io/class/</loc>
       <priority>0</priority>
     </url>
     
@@ -116,6 +123,13 @@
     
       <loc>https://thmccormick.github.io/publication_types/</loc>
       <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://thmccormick.github.io/class/567_sp19/</loc>
     </url>
     
   

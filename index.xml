@@ -128,23 +128,22 @@ Statistical Meetings&lt;/em&gt;, Salt Lake City, Utah.&lt;/p&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.stat.washington.edu/people/wtlee/&#34; target=&#34;_blank&#34;&gt;Wesley Lee&lt;/a&gt;, current statistics Ph.D. student&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h4 id=&#34;masters-and-undergraduate-students&#34;&gt;Masters and Undergraduate students&lt;/h4&gt;
+&lt;h4 id=&#34;masters-and-undergraduate-students&#34;&gt;Masters and undergraduate students&lt;/h4&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://soc.ucla.edu/grads/alina-arseniev-koehler&#34; target=&#34;_blank&#34;&gt;Alina Arseniev-Koehler&lt;/a&gt;, UW Sociology undergraduate thesis, now Ph.D. candidate at UCLA Sociology.&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.hsph.harvard.edu/biostatistics/tag/harrison-reeder/&#34; target=&#34;_blank&#34;&gt;Harrison Reeder&lt;/a&gt;, Carleton summer undergraduate visitor, now Ph.D. candidate at Harvard Biostatistics&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h4 id=&#34;courses&#34;&gt;Courses&lt;/h4&gt;
+&lt;h4 id=&#34;selected-courses&#34;&gt;Selected courses&lt;/h4&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Stat/Soc/CSSS 221 &lt;a href=&#34;https://docs.google.com/document/d/1wLRowIehGM1w-i4l4qaMerYgEhL0wpS__r_fbvwHeww/edit?usp=sharing&#34; target=&#34;_blank&#34;&gt;Introduction to statistics for social sciences&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Soc 506/CSSS 507 &lt;a href=&#34;http://www.stat.washington.edu/~tylermc/soc506sp15/schedule_2015.htm&#34; target=&#34;_blank&#34;&gt;Quantitative methods in sociology&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Stat/Soc/CSSS 321 &lt;a href=&#34;http://www.stat.washington.edu/~tylermc/syllabus_321aut13.pdf&#34; target=&#34;_blank&#34;&gt;Case-based social statistics&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Stat/Soc/CSSS 536 &lt;a href=&#34;http://www.stat.washington.edu/~tylermc/syllabus_536_f13.pdf&#34; target=&#34;_blank&#34;&gt;Categorical data analysis&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Stat 302 Statistical Software and Its Applications&lt;/li&gt;
 &lt;li&gt;Stat/CSSS 502 Applied statistics and experimental design (graduate and undergraduate)&lt;/li&gt;
-&lt;li&gt;Introductory Statistics (at Columbia University)&lt;/li&gt;
-&lt;li&gt;Introductory Statistics (at the University of Connecticut)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
@@ -159,7 +158,7 @@ Statistical Meetings&lt;/em&gt;, Salt Lake City, Utah.&lt;/p&gt;&lt;/li&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://cran.r-project.org/web/packages/InSilicoVA/index.html&#34; target=&#34;_blank&#34;&gt;CRAN&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://richardli.github.io/InSilicoVA/&#34; target=&#34;_blank&#34;&gt;Website&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://openva.net/&#34; target=&#34;_blank&#34;&gt;Website&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
@@ -203,7 +202,7 @@ Statistical Meetings&lt;/em&gt;, Salt Lake City, Utah.&lt;/p&gt;&lt;/li&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://cran.r-project.org/web/packages/openVA/index.htm&#34; target=&#34;_blank&#34;&gt;CRAN&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://openva.net/openVA.html&#34; target=&#34;_blank&#34;&gt;Website&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://openva.net/&#34; target=&#34;_blank&#34;&gt;Website&lt;/a&gt;.&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://zehangli.com/talks/openVA-slides.html&#34; target=&#34;_blank&#34;&gt;Slides&lt;/a&gt; from WHO VA Working Group.&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://zehangli.com/openVA/openVA-vignette_2017.pdf&#34; target=&#34;_blank&#34;&gt;Vignette&lt;/a&gt;.&lt;/li&gt;
 &lt;/ul&gt;
@@ -225,20 +224,6 @@ Statistical Meetings&lt;/em&gt;, Salt Lake City, Utah.&lt;/p&gt;&lt;/li&gt;
     </item>
     
     <item>
-      <title>dma</title>
-      <link>https://thmccormick.github.io/software/dma/</link>
-      <pubDate>Sun, 09 Sep 2018 00:00:00 -0400</pubDate>
-      
-      <guid>https://thmccormick.github.io/software/dma/</guid>
-      <description>&lt;p&gt;This package implements dynamic Bayesian model averaging as described for continuous outcomes in Raftery et al. (2010, Technometrics) and for binary outcomes in &lt;a href=&#34;http://www.stat.washington.edu/~tylermc/pubs/mccormick_dma.pdf&#34; target=&#34;_blank&#34;&gt;McCormick et al. (2012, Biometrics)&lt;/a&gt;.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://cran.stat.ucla.edu/web/packages/dma/&#34; target=&#34;_blank&#34;&gt;CRAN&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
       <title>netregR</title>
       <link>https://thmccormick.github.io/software/netregr/</link>
       <pubDate>Sun, 09 Sep 2018 00:00:00 -0400</pubDate>
@@ -249,6 +234,285 @@ Statistical Meetings&lt;/em&gt;, Salt Lake City, Utah.&lt;/p&gt;&lt;/li&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://cran.r-project.org/web/packages/netregR/index.html&#34; target=&#34;_blank&#34;&gt;CRAN&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>(Preliminary) Course schedule</title>
+      <link>https://thmccormick.github.io/class/567_sp19_schedule/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://thmccormick.github.io/class/567_sp19_schedule/</guid>
+      <description>
+
+&lt;h2 id=&#34;stat-csss-566&#34;&gt;Stat/CSSS 566&lt;/h2&gt;
+
+&lt;h2 id=&#34;spring-2019-university-of-washington&#34;&gt;Spring 2019, University of Washington&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://thmccormick.github.io/class/567_sp19/&#34; target=&#34;_blank&#34;&gt;Main page&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Textbooks:&lt;/strong&gt; Kolaczyk, Eric D. 2009. &lt;em&gt;Statistical Analysis of Network Data&lt;/em&gt; (SAND).  and Kolaczyk, Eric D. and Csárdi, G. 2014. &lt;em&gt;Statistical Analysis of Network Data&lt;/em&gt; (SANDr).  Both are available as pdf from the UW Library website.&lt;/p&gt;
+
+&lt;h4 id=&#34;week-1-overview&#34;&gt;Week 1 Overview&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;SAND chapter 3&lt;/li&gt;
+&lt;li&gt;Readings:
+
+&lt;ul&gt;
+&lt;li&gt;Borgatti, S.P et al “&lt;a href=&#34;http://science.sciencemag.org/content/323/5916/892&#34; target=&#34;_blank&#34;&gt;Network Analysis in the Social Sciences&lt;/a&gt;” Science 323, 892 (2009).&lt;/li&gt;
+&lt;li&gt;Butts, Carter T. “&lt;a href=&#34;http://science.sciencemag.org/content/325/5939/414&#34; target=&#34;_blank&#34;&gt;Revisiting the Foundations of Network Analysis&lt;/a&gt;” Science 325, 414 (2009)&lt;/li&gt;
+&lt;li&gt;Conley, T. G., &amp;amp; Udry, C. R. (2010). &lt;a href=&#34;https://www.jstor.org/stable/pdf/27804921.pdf?casa_token=Tjs-7lpqldUAAAAA:T5itha2WoXup1wGjhpamll1awHGCb-wLQmB20ln4cDiCEfx6niTqPrNxYpsnBolEwbyq_joVLun5Gh58mCmd6cTuJyKuVWnNTeBg0lCA9sjiS4WMTpf3&#34; target=&#34;_blank&#34;&gt;Learning about a new technology: Pineapple in Ghana&lt;/a&gt;. American economic review, 100(1), 35-69.&lt;/li&gt;
+&lt;li&gt;Banerjee, A., Chandrasekhar, A. G., Duflo, E., &amp;amp; Jackson, M. O. (2013). &lt;a href=&#34;http://science.sciencemag.org/content/sci/341/6144/1236498.full.pdf?casa_token=wA3lB4lXlAkAAAAA:Jl202GMlCQgE4YaugZw0sOXZMriffYMfMasIn00lakZWnRwqXQFnKNtD-nyYDpmQQ6uo-0OSqHuJrYU&#34; target=&#34;_blank&#34;&gt;The diffusion of microfinance&lt;/a&gt;. Science, 341(6144), 1236498.&lt;/li&gt;
+&lt;li&gt;Kadushin, C. “Who benefits from network analysis: ethics of social network
+research” Social Networks p139-153&lt;/li&gt;
+&lt;li&gt;Butts. 2003. “Network inference, error and informant (in)accuracy: a Bayesian
+approach,” Social Networks 25:2: 103-140.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Lab: Introduction to RStudio; SANDr chapter 4 (Descriptive Analysis of Network Graph Characteristics)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;week-2-local-global-properties-of-graphs&#34;&gt;Week 2 Local &amp;amp; global properties of graphs&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;SAND chapter 4&lt;/li&gt;
+&lt;li&gt;Readings:
+
+&lt;ul&gt;
+&lt;li&gt;Smith, S. (2005). &amp;ldquo;&lt;a href=&#34;https://www.jstor.org/stable/pdf/10.1086/428814.pdf?casa_token=6v7XlxCtw34AAAAA:6sfa6kOGwfuAcGI_-sMY_8g42SJ-Dg4LPoeG98YloHwf9thJpH5j88nJDeTd_eoMw5hzZ57BpsAUOLpYf1sZnWlMgC7BEyzTCfuhhFyyDfMNJEAcpsnj&#34; target=&#34;_blank&#34;&gt;Don&amp;rsquo;t put my name on it&amp;rdquo;: Social capital activation and job-finding assistance among the black urban poor&lt;/a&gt;. American Journal of Sociology, 111(1), 1-57.&lt;/li&gt;
+&lt;li&gt;McPherson, M., Smith-Lovin, L., and Brashears, M.E. (2006). &lt;a href=&#34;https://journals.sagepub.com/doi/pdf/10.1177/000312240607100301?casa_token=C__UbXgoiGUAAAAA:-g-NXKwloNrx0SvznxC1EDBZiX2ZOKJ3DBXIBbqsREIS1etVcqcd4Xq-eM9A4qqmCw2fgKlBRM7Wqw&#34; target=&#34;_blank&#34;&gt;Social isolation in America: Changes in core discussion networks over two decades&lt;/a&gt;. American Sociological Review, 71(3):353-375.&lt;/li&gt;
+&lt;li&gt;Granovetter, M. (1973). The strength of weak ties. American Journal of Sociology, 78(6), 1360-1380.&lt;/li&gt;
+&lt;li&gt;Centola, D., &amp;amp; Macy, M. (2007). &lt;a href=&#34;https://www.jstor.org/stable/pdf/10.1086/521848.pdf?casa_token=cGAVAX2u2RsAAAAA:LW6m-mbhqMf5tqOH4BhMQNNLyTKh0f9P-uzs-uWYWs0dPxv2Unn5s77QSATA7aUL-b8ndEJG-jHEV_ToN-rOJjZWRlr-Nm5QHWDo23E1JcpXa8tfoqLi&#34; target=&#34;_blank&#34;&gt;Complex contagions and the weakness of long ties&lt;/a&gt;. American journal of Sociology, 113(3), 702-734.&lt;/li&gt;
+&lt;li&gt;Victor, B. (2011). &lt;a href=&#34;http://worrydream.com/ScientificCommunicationAsSequentialArt/&#34; target=&#34;_blank&#34;&gt;Scientific Communication As Sequential Art&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Lee, H., McCormick, T. H., Wildeman, C., and Hicken, M. (2015). Racial inequalities in connectedness to imprisoned individuals in the United States. Du Bois Review: Social Science Research on Race, 12: 269-282.&lt;/li&gt;
+&lt;li&gt;McPherson, Miller, Lynn Smith-Lovin, and James M. Cook. 2001. ‘‘&lt;a href=&#34;http://www.annualreviews.org/doi/pdf/10.1146/annurev.soc.27.1.415&#34; target=&#34;_blank&#34;&gt;Birds of a
+Feather: Homophily in Social Networks&lt;/a&gt;.’’ Annual Review of Sociology 27:415-44&lt;/li&gt;
+&lt;li&gt;Resnick, P., Zeckhauser, R., Swanson, J., and Lockwood, K. (2006). &lt;a href=&#34;http://dx.doi.org/10.1007/s10683-006-4309-2&#34; target=&#34;_blank&#34;&gt;The value of reputation on eBay: A controlled experiment&lt;/a&gt;. Experimental Economics, 9:79-101.&lt;/li&gt;
+&lt;li&gt;Shalizi, C. R., &amp;amp; Thomas, A. C. (2011). &lt;a href=&#34;https://journals.sagepub.com/doi/pdf/10.1177/0049124111404820?casa_token=veVI9RKPQkcAAAAA:nruKYkLoX_pNpsLpcoY-pdNp04rz-5uAv9WDmNjf12K2I1Dc1Jokv2GsWMFaSYaZidtwEx9NFcL9OQ&#34; target=&#34;_blank&#34;&gt;Homophily and contagion are generically confounded in observational social network studies&lt;/a&gt;. Sociological methods &amp;amp; research, 40(2), 211-239.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Lab: RStudio &amp;amp; Github; SANDr chapter 4 (Descriptive Analysis of Network Graph Characteristics)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;week-3-modeling-connections&#34;&gt;Week 3 Modeling connections&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;SAND chapter 6&lt;/li&gt;
+&lt;li&gt;Reading
+
+&lt;ul&gt;
+&lt;li&gt;Holland, Paul W., Kathryn Blackmond Laskey, and Samuel Leinhardt. “Stochastic blockmodels: First steps.” Social networks 5, no. 2 (1983): 109-137.&lt;/li&gt;
+&lt;li&gt;Snijders, Tom AB, and Krzysztof Nowicki. “Estimation and prediction for stochastic blockmodels for graphs with latent block structure.” Journal of classification 14, no. 1 (1997): 75-100.&lt;/li&gt;
+&lt;li&gt;Hoff, Raftery and Handcock (2002). ``Latent space approaches to social network analysis’’. JASA&lt;/li&gt;
+&lt;li&gt;Hoff (2005). ``Bilinear mixed effects models for dyadic data’’&lt;/li&gt;
+&lt;li&gt;Hoff (2007). ``Modeling homophily and stochastic equivalence in symmetric relational data’’&lt;/li&gt;
+&lt;li&gt;Holland, Paul W., Kathryn Blackmond Laskey, and Samuel Leinhardt. “Stochastic blockmodels: First steps.” Social networks 5, no. 2 (1983): 109-137.&lt;/li&gt;
+&lt;li&gt;Snijders, Tom AB, and Krzysztof Nowicki. “Estimation and prediction for stochastic blockmodels for graphs with latent block structure.” Journal of classification 14, no. 1 (1997): 75-100.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Lab: SANDr chapter 6 (Statistical Models for Network Graphs)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;week-4-modeling-connections&#34;&gt;Week 4 Modeling connections&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;SAND chapter 6&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Reading&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Airoldi, E. M., Blei, D. M., Fienberg, S. E., &amp;amp; Xing, E. P. (2008). &lt;a href=&#34;http://www.jmlr.org/papers/v9/airoldi08a.html&#34; target=&#34;_blank&#34;&gt;Mixed membership stochastic blockmodels&lt;/a&gt;. Journal of Machine Learning Research, 9(Sep), 1981-2014.&lt;/li&gt;
+&lt;li&gt;Steven M. Goodreau, James A. Kitts and Martina Morris, &amp;ldquo;&lt;a href=&#34;http://dx.doi.org/10.1353/dem.0.0045&#34; target=&#34;_blank&#34;&gt;Birds of a Feather, Or Friend of a Friend?: Using Exponential Random Graph Models to Investigate Adolescent Social Networks&lt;/a&gt;&amp;rdquo;, Demography 46 (2009): 103&amp;ndash;125&lt;/li&gt;
+&lt;li&gt;Snijders, Tom A. B. 2011. “&lt;a href=&#34;http://www.annualreviews.org/doi/pdf/10.1146/annurev-soc-081309-150106&#34; target=&#34;_blank&#34;&gt;Statistical Models for Social Networks&lt;/a&gt;” Annual Review
+of Sociology 37:131-153&lt;/li&gt;
+&lt;li&gt;Robins, G. et al (2006) “&lt;a href=&#34;https://www.sciencedirect.com/science/article/pii/S0378873306000372&#34; target=&#34;_blank&#34;&gt;An introduction to exponential random graph (p*) models for social networks&lt;/a&gt;” Social Networks p173-191&lt;/li&gt;
+&lt;li&gt;Hunter, D. R., Krivitsky, P. N., &amp;amp; Schweinberger, M. (2012). &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3697157/&#34; target=&#34;_blank&#34;&gt;Computational statistical methods for social network models&lt;/a&gt;. Journal of Computational and Graphical Statistics, 21(4), 856-882.&lt;/li&gt;
+&lt;li&gt;Schweinberger, M. (2011). &lt;a href=&#34;https://www.tandfonline.com/doi/pdf/10.1198/jasa.2011.tm10747?casa_token=TmWjfZ5tS8oAAAAA:hVu1S_m4A9XzPC35RAkJCLCDFynEv9TbIf1AYSOrZEmlDUF_wtDFgauKOBKyILwfORDg6wkUeBt_yA&#34; target=&#34;_blank&#34;&gt;Instability, sensitivity, and degeneracy of discrete exponential families&lt;/a&gt;. Journal of the American Statistical Association, 106(496), 1361-1370.&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Shalizi, C. R., &amp;amp; Rinaldo, A. (2013). &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4498414/&#34; target=&#34;_blank&#34;&gt;Consistency under sampling of exponential random graph models&lt;/a&gt;. Annals of statistics, 41(2), 508.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Lab: Hoff (2016). “&lt;a href=&#34;https://arxiv.org/pdf/1506.08237.pdf&#34; target=&#34;_blank&#34;&gt;Dyadic data analysis with amen&lt;/a&gt;”&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;week-5-modeling-connections&#34;&gt;Week 5 Modeling connections&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Readings:
+
+&lt;ul&gt;
+&lt;li&gt;D Krackhardt (1988). ``Predicting with networks: Nonparametric multiple regression analysis of dyadic data.’’&lt;/li&gt;
+&lt;li&gt;Fafchamps, M., &amp;amp; Gubert, F. (2007). Risk sharing and network formation. American Economic Review, 97(2), 75-79.&lt;/li&gt;
+&lt;li&gt;Marrs, F. W., Fosdick, B. K., &amp;amp; McCormick, T. H. (2017). Standard errors for regression on relational data with exchangeable errors. arXiv preprint arXiv:1701.05530.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Lab: Continue SANDr chapter 6 (Statistical Models for Network Graphs)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;week-6-peer-influence-spillovers&#34;&gt;Week 6 Peer influence &amp;amp; spillovers&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Readings
+
+&lt;ul&gt;
+&lt;li&gt;Manski, C. F. (1993). Identification of endogenous social effects: The reflection problem. The Review of Economic Studies, 60(3):531–542&lt;/li&gt;
+&lt;li&gt;Sacerdote, B. (2001). Peer effects with random assignment: Results for Dartmouth roommates. The Quarterly Journal of Economics, 116(2):681–704&lt;/li&gt;
+&lt;li&gt;Peter M. Aronow and Cyrus Samii. &lt;a href=&#34;http://arxiv.org/abs/1305.6156&#34; target=&#34;_blank&#34;&gt;Estimating Average Causal Effects Under General Interference, with Application to a Social Network Experiment&lt;/a&gt;. Annals of Applied Statistics, 2017.&lt;/li&gt;
+&lt;li&gt;Johan Ugander, Brian Karrer, Lars Backstrom, and Jon Kleinberg. &lt;a href=&#34;http://arxiv.org/abs/1305.6979&#34; target=&#34;_blank&#34;&gt;Graph cluster randomization: network exposure to multiple universes&lt;/a&gt;. 2013.&lt;/li&gt;
+&lt;li&gt;Goldsmith-Pinkham, P., &amp;amp; Imbens, G. W. (2013). &lt;a href=&#34;https://amstat.tandfonline.com/doi/abs/10.1080/07350015.2013.801251?casa_token=-oIjWyG6XjgAAAAA:1dP4ReLG3SqU59Nd_Iv9DuuWU7pJhFJyz2c5c6QOSe23UKvL3LxQTEla4NYV20ZvBEMjw5htff3czg#.XGk_Zc9Kh24&#34; target=&#34;_blank&#34;&gt;Social networks and the identification of peer effects&lt;/a&gt;. Journal of Business &amp;amp; Economic Statistics, 31(3), 253-264.&lt;/li&gt;
+&lt;li&gt;Hardy, M., Lee, W. T., &amp;amp; McCormick, T. H. (2019). Estimating Spillovers Using Imprecisely Measured Networks.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Lab: Continue SANDr chapter 6 (Statistical Models for Network Graphs)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;week-7-peer-influence-spillovers&#34;&gt;Week 7 Peer influence &amp;amp; spillovers&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Readings
+
+&lt;ul&gt;
+&lt;li&gt;Angrist, J. D. (2014). &lt;a href=&#34;https://www.sciencedirect.com/science/article/abs/pii/S0927537114000712&#34; target=&#34;_blank&#34;&gt;The perils of peer effects&lt;/a&gt;. Labour Economics, 30, 98-108.&lt;/li&gt;
+&lt;li&gt;Yann Bramoull ́e, Habiba Djebbari, and Bernard Fortin. Identification of peer effects through social networks. Journal of Econometrics, 150(1):41–55, 2009. ISSN 03044076. doi: 10.1016/j.jeconom. 2008.12.021.&lt;/li&gt;
+&lt;li&gt;Heath, Rachel. 2018. &lt;a href=&#34;https://www.dropbox.com/s/4veybxr0jjh2ktl/referrals_Heath.pdf?dl=0&#34; target=&#34;_blank&#34;&gt;&amp;ldquo;Why do Firms Hire Using Referrals? Evidence from Bangladeshi Garment Factories.&amp;rdquo;&lt;/a&gt; &lt;em&gt;Journal of Political Economy&lt;/em&gt;. 126(4): 1691-1746.&lt;/li&gt;
+&lt;li&gt;Miguel, E., &amp;amp; Kremer, M. (2004). Worms: identifying impacts on education and health in the presence of treatment externalities. Econometrica, 72(1), 159-217.&lt;/li&gt;
+&lt;li&gt;Nickerson, D. W. (2008). Is voting contagious? Evidence from two field experiments. &lt;em&gt;American Political Science Review&lt;/em&gt;, 102(01):49–57&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Lab: Fitting the linear in means model&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;week-8-collecting-network-data&#34;&gt;Week 8 Collecting network data&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;SAND chapter 5&lt;/li&gt;
+&lt;li&gt;Readings
+
+&lt;ul&gt;
+&lt;li&gt;Mouw, T., &amp;amp; Verdery, A. M. (2012). Network sampling with memory: a proposal for more efficient sampling from social networks. Sociological methodology, 42(1), 206-256.&lt;/li&gt;
+&lt;li&gt;Breza, E., Chandrasekhar, A. G., McCormick, T. H., &amp;amp; Pan, M. (2017). Using aggregated relational data to feasibly identify network structure without network data (No. w23491). National Bureau of Economic Research.&lt;/li&gt;
+&lt;li&gt;Goel, S., &amp;amp; Salganik, M. J. (2010). Assessing respondent-driven sampling. Proceedings of the National Academy of Sciences, 107(15), 6743-6747.&lt;/li&gt;
+&lt;li&gt;Merli, M. G., Moody, J., Smith, J., Li, J., Weir, S., &amp;amp; Chen, X. (2015). Challenges to recruiting population representative samples of female sex workers in China using Respondent Driven Sampling. Social Science &amp;amp; Medicine, 125, 79-93.&lt;/li&gt;
+&lt;li&gt;Chandrasekhar, A., &amp;amp; Lewis, R. (2011). Econometrics of sampled networks.&lt;/li&gt;
+&lt;li&gt;David C. Bell, Benedetta Belli-McQueen, and Ali Haider. Partner Naming and Forgetting: Recall of Network Members. Social Networks, 29(2):279–299, 2007. ISSN 15378276. doi: 10.1080/ 10810730902873927.&lt;/li&gt;
+&lt;li&gt;Mark S. Handcock and Krista J. Gile. Modeling Social Networks From Sampled Data. Annals of Applied Statistics, 4(1):5–25, 2010. ISSN 0036-8075. doi: 10.&lt;sup&gt;1214&lt;/sup&gt;&amp;frasl;&lt;sub&gt;08&lt;/sub&gt;-AOAS221.&lt;/li&gt;
+&lt;li&gt;Diprete, T. D., Gelman, A., McCormick, T. H., Teitler, J., and Zheng, T. (2011). &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/pubmed/21648251&#34; target=&#34;_blank&#34;&gt;Segregation in social networks based on acquaintanceship and trust&lt;/a&gt;. American Journal of Sociology, 116, 1234-83.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Lab: Exploring missing data &amp;amp; egocentric graphs&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;week-9-network-models-in-the-era-of-big-data&#34;&gt;Week 9 Network models in the era of &amp;ldquo;big data&amp;rdquo;&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Readings:
+
+&lt;ul&gt;
+&lt;li&gt;Dodds, P. S., Muhamad, R., and Watts, D. J. (2003). &lt;a href=&#34;http://dx.doi.org/10.1126/science.1081058&#34; target=&#34;_blank&#34;&gt;An experimental study of search in global social networks&lt;/a&gt;. Science, 301:827-829&lt;/li&gt;
+&lt;li&gt;Salganik, M.J., Dodds, P.S., Watts, D.J. (2006). &lt;a href=&#34;http://dx.doi.org/10.1126/science.1121066&#34; target=&#34;_blank&#34;&gt;Experimental study of inequality and unpredictability in an artificial cultural market&lt;/a&gt;. Science, 311:854-856 (also read supporting online materials).&lt;/li&gt;
+&lt;li&gt;Butler D. (2007). &lt;a href=&#34;http://dx.doi.org/10.1038/449644a&#34; target=&#34;_blank&#34;&gt;Data sharing threatens privacy&lt;/a&gt;. Nature, 449:644-645.&lt;/li&gt;
+&lt;li&gt;Slater, M. et al. (2006). &lt;a href=&#34;http://dx.doi.org/10.1371/journal.pone.0000039&#34; target=&#34;_blank&#34;&gt;A virtual reprise of the Stanley Milgram obedience experiments&lt;/a&gt;. PLOS ONE, 1:e39.&lt;/li&gt;
+&lt;li&gt;Cesare, N., Lee, H., McCormick, T. H., Spiro, E., and Zagheni, E. (2018+). Promises and pitfalls of using digital traces for demographic research. To appear, Demography.&lt;/li&gt;
+&lt;li&gt;Goel, S., Watts, D. J., &amp;amp; Goldstein, D. G. (2012, June). The structure of online diffusion networks. In Proceedings of the 13th ACM conference on electronic commerce (pp. 623-638). ACM.&lt;/li&gt;
+&lt;li&gt;Eagle, N. A. Pentland, and D. Lazer (2009), &amp;ldquo;Inferring Social Network Structure
+using Mobile Phone Data&amp;rdquo;, Proceedings of the National Academy of Sciences
+(PNAS).&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Lab: scrape some data&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;week-10-project-presentations&#34;&gt;Week 10 Project presentations&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Info about printing posters&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Statistical analysis of social network data</title>
+      <link>https://thmccormick.github.io/class/567_sp19/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://thmccormick.github.io/class/567_sp19/</guid>
+      <description>
+
+&lt;p&gt;&lt;img src = &#34;/img/network.png&#34;, width = &#34;850&#34;&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;tentative-syllabus-subject-to-change-updated-17-feb-2019&#34;&gt;Tentative syllabus, subject to change (Updated 17-Feb-2019)&lt;/h2&gt;
+
+&lt;h2 id=&#34;stat-csss-566&#34;&gt;Stat/CSSS 566&lt;/h2&gt;
+
+&lt;h2 id=&#34;spring-2019-university-of-washington&#34;&gt;Spring 2019, University of Washington&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://thmccormick.github.io/class/567_sp19_schedule/&#34; target=&#34;_blank&#34;&gt;Course schedule&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;logistics&#34;&gt;Logistics&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;Instructor:&lt;/strong&gt; Tyler McCormick; Email: tylermc@uw.edu; Office Hours: TBD&lt;br&gt;
+&lt;strong&gt;TA:&lt;/strong&gt; TBD &lt;br&gt;
+&lt;strong&gt;Course meetings:&lt;/strong&gt; T/Th 11:30-12:50pm (Guggenheim 218) &amp;amp; F 1:30-2:20 (Savery 264) &lt;br&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;overview-objectives&#34;&gt;Overview &amp;amp; objectives&lt;/h3&gt;
+
+&lt;p&gt;This course is a practical, hands-on introduction to design and analysis of social network data, set against a backdrop of theory from sociology, economics, and other disciplines.&lt;/p&gt;
+
+&lt;h3 id=&#34;course-components-grading&#34;&gt;Course components &amp;amp; grading&lt;/h3&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Component&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;% Grade&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Approx 5 HWs&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;40&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;In-class presentation&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;15&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Final project &amp;amp; poster&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;45&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;strong&gt;In-class presentation:&lt;/strong&gt;
+In weeks 3-9, Tuesday lectures will present statistical methods and Thursday lectures will be student presentations of social science papers that use the method.  Presentations will be in small groups and be approx 20 minutes.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Final project:&lt;/strong&gt;
+Final group project, more details to come.  If you have data from your own research, you&amp;rsquo;re welcome to use it.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Lab:&lt;/strong&gt;
+Hands on practice with network data.  Labs count as part of homeworks.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Collaborative work:&lt;/strong&gt; Working together is highly encouraged!  Each student must, however, turn in their own homework using Github (see below).  Writing must be your own, or appropriately cited.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Policies:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Only assignments turned in through &lt;a href=&#34;https://github.com/&#34; target=&#34;_blank&#34;&gt;Github&lt;/a&gt; will count for credit. More info below.&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;All empirical assignments must also include code.  More info below.&lt;/li&gt;
+&lt;li&gt;Late assignments accepted with at 10% per day penalty.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;In-class:&lt;/strong&gt; I highly discourage the use of laptops during lecture, as I find them very distracting for me and for other students.  If you need to use your phone or are otherwise feeling distracted, please step outside.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Submitting code:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;You must sign up for a Github account.  I recommend applying for an &lt;a href=&#34;https://education.github.com/&#34; target=&#34;_blank&#34;&gt;educational discount&lt;/a&gt;.  All assignments must be submitted through Github.&lt;/li&gt;
+&lt;li&gt;Your code should stand alone.  More information &lt;a href=&#34;https://www.tidyverse.org/articles/2017/12/workflow-vs-script/&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;I suggest following the &lt;a href=&#34;https://style.tidyverse.org/&#34; target=&#34;_blank&#34;&gt;tidyverse&lt;/a&gt; style guide.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Academic accommodations:&lt;/strong&gt;
+To request academic accommodations due to disability, please contact Disabled Student Services, 448 Schmitz Hall, (206) 543-8924.  Myself and your TA will be happy to provide academic accommodations if you have a letter requesting such from Disability Resources for Students (DRS).  Please feel free to see me during office hours to discuss this.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Related courses:&lt;/strong&gt; There are many great social network methods courses.  This course is inspired by a few of them, including Matthew Salganik&amp;rsquo;s &lt;a href=&#34;http://www.princeton.edu/~mjs3/soc596_sp08.shtml&#34; target=&#34;_blank&#34;&gt;Soc 596&lt;/a&gt; at Princeton; James Moody&amp;rsquo;s &lt;a href=&#34;http://www.soc.duke.edu/~jmoody77/s884/syllabus_s15.pdf&#34; target=&#34;_blank&#34;&gt;Seminar on Social Networks&lt;/a&gt; at Duke; and previous UW versions of this course taught by, among others, Peter Hoff &amp;amp;
+Miruna Petrescu-Prahova.&lt;/p&gt;
 </description>
     </item>
     

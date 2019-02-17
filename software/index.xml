@@ -62,16 +62,6 @@
     </item>
     
     <item>
-      <title>dma</title>
-      <link>https://thmccormick.github.io/software/dma/</link>
-      <pubDate>Sun, 09 Sep 2018 00:00:00 -0400</pubDate>
-      
-      <guid>https://thmccormick.github.io/software/dma/</guid>
-      <description>This package implements dynamic Bayesian model averaging as described for continuous outcomes in Raftery et al. (2010, Technometrics) and for binary outcomes in McCormick et al. (2012, Biometrics).
- CRAN  </description>
-    </item>
-    
-    <item>
       <title>netregR</title>
       <link>https://thmccormick.github.io/software/netregr/</link>
       <pubDate>Sun, 09 Sep 2018 00:00:00 -0400</pubDate>
