@@ -98,13 +98,6 @@
     
     <url>
     
-      <loc>https://thmccormick.github.io/class/567_sp19_schedule/</loc>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>https://thmccormick.github.io/categories/</loc>
       <priority>0</priority>
     </url>
@@ -115,6 +108,13 @@
     
       <loc>https://thmccormick.github.io/class/</loc>
       <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://thmccormick.github.io/class/567_sp19_schedule/</loc>
     </url>
     
   
