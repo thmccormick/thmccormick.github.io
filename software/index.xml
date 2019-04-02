@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sun, 09 Sep 2018 00:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 09 Sep 2018 00:00:00 -0700</lastBuildDate>
     
 	<atom:link href="https://thmccormick.github.io/software/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>InSilicoVA</title>
       <link>https://thmccormick.github.io/software/insilicova/</link>
-      <pubDate>Sun, 09 Sep 2018 00:00:00 -0400</pubDate>
+      <pubDate>Sun, 09 Sep 2018 00:00:00 -0700</pubDate>
       
       <guid>https://thmccormick.github.io/software/insilicova/</guid>
       <description>Computes individual causes of death and population cause-specific mortality fractions using the &amp;lsquo;InSilicoVA&amp;rsquo; algorithm from McCormick et al. (2016). It uses data derived from verbal autopsy (VA) interviews, in a format similar to the input of the widely used &amp;lsquo;InterVA4&amp;rsquo; method. This package provides general model fitting and customization for the &amp;lsquo;InSilicoVA&amp;rsquo; algorithm and basic graphical visualization of the output.
@@ -25,7 +25,7 @@
     <item>
       <title>InterVA</title>
       <link>https://thmccormick.github.io/software/interva/</link>
-      <pubDate>Sun, 09 Sep 2018 00:00:00 -0400</pubDate>
+      <pubDate>Sun, 09 Sep 2018 00:00:00 -0700</pubDate>
       
       <guid>https://thmccormick.github.io/software/interva/</guid>
       <description>Provides an R version of the &amp;lsquo;InterVA&amp;rsquo; software for coding cause of death from verbal autopsies. It also provides simple graphical representation of individual and population level statistics. Implementations are available for both InterVA version 4 and InterVA version 5.
@@ -35,7 +35,7 @@
     <item>
       <title>NSUM</title>
       <link>https://thmccormick.github.io/software/nsum/</link>
-      <pubDate>Sun, 09 Sep 2018 00:00:00 -0400</pubDate>
+      <pubDate>Sun, 09 Sep 2018 00:00:00 -0700</pubDate>
       
       <guid>https://thmccormick.github.io/software/nsum/</guid>
       <description>A Bayesian framework for population group size estimation using the Network Scale Up Method (NSUM). Size estimates are based on a random degree model and include options to adjust for barrier and transmission effects.
@@ -45,7 +45,7 @@
     <item>
       <title>OpenVA</title>
       <link>https://thmccormick.github.io/software/openva/</link>
-      <pubDate>Sun, 09 Sep 2018 00:00:00 -0400</pubDate>
+      <pubDate>Sun, 09 Sep 2018 00:00:00 -0700</pubDate>
       
       <guid>https://thmccormick.github.io/software/openva/</guid>
       <description>Verbal autopsy (VA) is a survey-based tool widely used to infer cause of death (COD) in regions without complete-coverage civil registration and vital statistics systems. In such settings, many deaths happen outside of medical facilities and are not officially documented by a medical professional. VA surveys, consisting of signs and symptoms reported by a person close to the decedent, are used to infer the cause of death for an individual, and to estimate and monitor the cause of death distribution in the population.</description>
@@ -54,7 +54,7 @@
     <item>
       <title>RDStreeboot</title>
       <link>https://thmccormick.github.io/software/rdstreeboot/</link>
-      <pubDate>Sun, 09 Sep 2018 00:00:00 -0400</pubDate>
+      <pubDate>Sun, 09 Sep 2018 00:00:00 -0700</pubDate>
       
       <guid>https://thmccormick.github.io/software/rdstreeboot/</guid>
       <description>A tree bootstrap method for estimating uncertainty in respondent-driven samples (RDS). Quantiles are estimated by multilevel resampling in such a way that preserves the dependencies of and accounts for the high variability of the RDS process.
@@ -64,7 +64,7 @@
     <item>
       <title>netregR</title>
       <link>https://thmccormick.github.io/software/netregr/</link>
-      <pubDate>Sun, 09 Sep 2018 00:00:00 -0400</pubDate>
+      <pubDate>Sun, 09 Sep 2018 00:00:00 -0700</pubDate>
       
       <guid>https://thmccormick.github.io/software/netregr/</guid>
       <description>Regress network responses (both directed and undirected) onto covariates of interest that may be actor-, relation-, or network-valued. In addition, compute principled variance estimates of the coefficients assuming that the errors are jointly exchangeable. Missing data is accommodated. Additionally implements building and inversion of covariance matrices under joint exchangeability, and generates random covariance matrices from this class. For more detail on methods, see Marrs, Fosdick, and McCormick (2017).

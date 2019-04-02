@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 -0800</lastBuildDate>
     
 	<atom:link href="https://thmccormick.github.io/publications/index.xml" rel="self" type="application/rss+xml" />
     
@@ -19,8 +19,8 @@
       
       <guid>https://thmccormick.github.io/publications/publications/</guid>
       <description>Kunihama, T., Li, Z. R., Clark, S. J., &amp;amp; McCormick, T. H. (2019+). Bayesian factor models for probabilistic cause of death assessment with verbal autopsies. To appear, Annals of Applied Statistics. code
- Fosdick, B., McCormick, T. H., Murphy, T. B., Ng, T. L., and Westling, T. (2018+). Multiresolution network models. To appear, Journal of Computational and Graphical Statistics. code slides
- Cesare, N., Lee, H., McCormick, T. H., Spiro, E.</description>
+ Eadie, G., Huppenkothen, D., Springford, E., &amp;amp; McCormick, T. H. (2019+). Introducing Bayesian Analysis with m&amp;amp;m’s: an active-learning exercise for undergraduates. To appear, Journal of Statistics Education. code
+ Fosdick, B., McCormick, T. H., Murphy, T. B.</description>
     </item>
     
   </channel>
