@@ -26,7 +26,7 @@ github.com/richardli/EMGS&#34; target=&#34;_blank&#34;&gt;code&lt;/a&gt;&lt;/p&g
 
 &lt;li&gt;&lt;p&gt;Westling, T., &amp;amp; McCormick, T. H. (2019+). &lt;a href=&#34;http://arxiv.org/abs/1510.08151&#34; target=&#34;_blank&#34;&gt;Beyond prediction: A framework for inference with variational approximations in mixture models&lt;/a&gt;. To appear, &lt;em&gt;Journal of Computational and Graphical Statistics&lt;/em&gt;. &lt;a href=&#34;https://github.com/tedwestling/variational_asymptotics&#34; target=&#34;_blank&#34;&gt;code&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
 
-&lt;li&gt;&lt;p&gt;Eadie, G., Huppenkothen, D., Springford, E., &amp;amp; McCormick, T. H. (2019+). Introducing Bayesian Analysis with m&amp;amp;m’s: an active-learning exercise for undergraduates. To appear, &lt;em&gt;Journal of Statistics Education&lt;/em&gt;. &lt;a href=&#34;https://github.com/gweneadie/BayesianMandMs&#34; target=&#34;_blank&#34;&gt;code&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Eadie, G., Huppenkothen, D., Springford, E., &amp;amp; McCormick, T. H. (2019+). &lt;a href=&#34;https://arxiv.org/abs/1904.11006&#34; target=&#34;_blank&#34;&gt;Introducing Bayesian Analysis with m&amp;amp;m’s: an active-learning exercise for undergraduates&lt;/a&gt;. To appear, &lt;em&gt;Journal of Statistics Education&lt;/em&gt;. &lt;a href=&#34;https://github.com/gweneadie/BayesianMandMs&#34; target=&#34;_blank&#34;&gt;code&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
 
 &lt;li&gt;&lt;p&gt;Fosdick, B., McCormick, T. H., Murphy, T. B., Ng, T. L., and Westling, T. (2018+). &lt;a href=&#34;http://arxiv.org/abs/1608.07618&#34; target=&#34;_blank&#34;&gt;Multiresolution network models&lt;/a&gt;. To appear, &lt;em&gt;Journal of Computational and Graphical Statistics&lt;/em&gt;. &lt;a href=&#34;https://github.com/tedwestling/multiresolution_networks&#34; target=&#34;_blank&#34;&gt;code&lt;/a&gt; &lt;a href=&#34;https://www.newton.ac.uk/files/seminar/20160726133014001-740146.pdf&#34; target=&#34;_blank&#34;&gt;slides&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
 
@@ -351,7 +351,7 @@ https://web.stanford.edu/~arungc/CL.pdf&#34; target=&#34;_blank&#34;&gt;Economet
 &lt;li&gt;Barberá, P. (2015). &lt;a href=&#34;https://www.cambridge.org/core/journals/political-analysis/article/birds-of-the-same-feather-tweet-together-bayesian-ideal-point-estimation-using-twitter-data/91E37205F69AEA32EF27F12563DC2A0A&#34; target=&#34;_blank&#34;&gt;Birds of the same feather tweet together: Bayesian ideal point estimation using Twitter data&lt;/a&gt;. &lt;em&gt;Political Analysis&lt;/em&gt;, 23(1), 76-91.&lt;/li&gt;
 &lt;li&gt;Airoldi, E. M., Blei, D. M., Fienberg, S. E., &amp;amp; Xing, E. P. (2008). &lt;a href=&#34;http://www.jmlr.org/papers/v9/airoldi08a.html&#34; target=&#34;_blank&#34;&gt;Mixed membership stochastic blockmodels&lt;/a&gt;. Journal of Machine Learning Research, 9(Sep), 1981-2014.&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;Lab: Continue SANDr chapter 5 (Mathematical models for graphs)&lt;/li&gt;
+&lt;li&gt;Lab: Latent variable models for graphs with &lt;em&gt;latentnet&lt;/em&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h4 id=&#34;week-5-modeling-connections-week-of-apr-29&#34;&gt;Week 5 Modeling connections (Week of Apr 29)&lt;/h4&gt;
@@ -372,7 +372,7 @@ https://web.stanford.edu/~arungc/CL.pdf&#34; target=&#34;_blank&#34;&gt;Economet
 &lt;li&gt;Shalizi, C. R., &amp;amp; Rinaldo, A. (2013). &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4498414/&#34; target=&#34;_blank&#34;&gt;Consistency under sampling of exponential random graph models&lt;/a&gt;. &lt;em&gt;Annals of Statistics&lt;/em&gt;, 41(2), 508. &lt;em&gt;Note&lt;/em&gt;: This is a more technical reading.&lt;/li&gt;
 &lt;li&gt;Mouw, T., &amp;amp; Entwisle, B. (2006). &lt;a href=&#34;https://www.jstor.org/stable/pdf/10.1086/506415.pdf?casa_token=mLKLA4FwpxcAAAAA:ij-xIBnuqM4Boi1Nwe436HQ5QZyyreeCS-eZN6S8vu0KHFAVU7m5u4u0JXOKpTdIWNw2heSPGe1CTNQZ6N3i0Ezm5axLIh-7HXOvbRnwHfyH91YyEQ&#34; target=&#34;_blank&#34;&gt;Residential segregation and interracial friendship in schools&lt;/a&gt;. &lt;em&gt;American Journal of Sociology&lt;/em&gt;, 112(2), 394-441.&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;Lab: SANDr chapter 6 (Statistical Models for Network Graphs)&lt;/li&gt;
+&lt;li&gt;Lab: SANDr chapter 6 (Statistical Models for Network Graphs, ERGMs)&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h4 id=&#34;week-6-peer-influence-spillovers-week-of-may-6&#34;&gt;Week 6 Peer influence &amp;amp; spillovers (Week of May 6)&lt;/h4&gt;
@@ -461,7 +461,7 @@ https://web.stanford.edu/~arungc/CL.pdf&#34; target=&#34;_blank&#34;&gt;Economet
 &lt;li&gt;Eagle, N., Pentland, A. S., &amp;amp; Lazer, D. (2009). &lt;a href=&#34;https://www.pnas.org/content/106/36/15274&#34; target=&#34;_blank&#34;&gt;Inferring friendship network structure by using mobile phone data&lt;/a&gt;. &lt;em&gt;Proceedings of the National Academy of Sciences&lt;/em&gt;, 106(36), 15274-15278.&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
 &lt;li&gt;Presentation readings: &lt;strong&gt;No Class on May 30.&lt;/strong&gt;  We will do presentations Tuesday, June 4.&lt;/li&gt;
-&lt;li&gt;Lab: Scrape some data&lt;/li&gt;
+&lt;li&gt;Lab: Scrape data using &lt;a href=&#34;https://rtweet.info/&#34; target=&#34;_blank&#34;&gt;&lt;em&gt;rtweet&lt;/em&gt;&lt;/a&gt;.&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h4 id=&#34;week-10-week-of-june-3&#34;&gt;Week 10 (Week of June 3)&lt;/h4&gt;
@@ -475,7 +475,7 @@ https://web.stanford.edu/~arungc/CL.pdf&#34; target=&#34;_blank&#34;&gt;Economet
 &lt;li&gt;Salganik, M.J., Dodds, P.S., Watts, D.J. (2006). &lt;a href=&#34;http://dx.doi.org/10.1126/science.1121066&#34; target=&#34;_blank&#34;&gt;Experimental study of inequality and unpredictability in an artificial cultural market&lt;/a&gt;. Science, 311:854-856 (also read supporting online materials).&lt;/li&gt;
 &lt;li&gt;Kossinets, G., &amp;amp; Watts, D. J. (2009). &lt;a href=&#34;https://www.jstor.org/stable/pdf/10.1086/599247.pdf?casa_token=2y9LjAaHFAAAAAAA:t8ODqKWOPyg7Af53eMB0zS32LxU_pe1VgUgZGy1K-5ZjA-l4yJ8uOoOQuuartWbOYAUR6KDpMkrb92w3619xulnJmW1EcO404mUXF8r-WlZZyK7ATQ&#34; target=&#34;_blank&#34;&gt;Origins of homophily in an evolving social network&lt;/a&gt;. &lt;em&gt;American Journal of Sociology&lt;/em&gt;, 115(2), 405-450.&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;Thursday: No class; attend Stat/CSSS poster session.&lt;/li&gt;
+&lt;li&gt;Thursday: Final poster session.&lt;/li&gt;
 &lt;li&gt;No lab.&lt;/li&gt;
 &lt;li&gt;Info about printing posters (to be added)&lt;/li&gt;
 &lt;/ul&gt;
