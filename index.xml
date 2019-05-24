@@ -453,19 +453,15 @@ https://web.stanford.edu/~arungc/CL.pdf&#34; target=&#34;_blank&#34;&gt;Economet
 
 &lt;h4 id=&#34;week-9-network-models-in-the-era-of-big-data-week-of-may-27&#34;&gt;Week 9 Network models in the era of &amp;ldquo;big data&amp;rdquo; (Week of May 27)&lt;/h4&gt;
 
-&lt;ul&gt;
-&lt;li&gt;Class readings:
-
-&lt;ul&gt;
-&lt;li&gt;Butler D. (2007). &lt;a href=&#34;http://dx.doi.org/10.1038/449644a&#34; target=&#34;_blank&#34;&gt;Data sharing threatens privacy&lt;/a&gt;. Nature, 449:644-645.&lt;/li&gt;
-&lt;li&gt;Slater, M. et al. (2006). &lt;a href=&#34;http://dx.doi.org/10.1371/journal.pone.0000039&#34; target=&#34;_blank&#34;&gt;A virtual reprise of the Stanley Milgram obedience experiments&lt;/a&gt;. PLOS ONE, 1:e39.&lt;/li&gt;
-&lt;li&gt;Cesare, N., Lee, H., McCormick, T. H., Spiro, E., and Zagheni, E. (2018+). &lt;a href=&#34;https://link.springer.com/article/10.1007/s13524-018-0715-2&#34; target=&#34;_blank&#34;&gt;Promises and pitfalls of using digital traces for demographic research&lt;/a&gt;. To appear, &lt;em&gt;Demography&lt;/em&gt;.&lt;/li&gt;
-&lt;li&gt;Goel, S., Watts, D. J., &amp;amp; Goldstein, D. G. (2012, June). &lt;a href=&#34;https://dl.acm.org/citation.cfm?id=2229058&#34; target=&#34;_blank&#34;&gt;The structure of online diffusion networks&lt;/a&gt;. In &lt;em&gt;Proceedings of the 13th ACM conference on electronic commerce&lt;/em&gt; (pp. 623-638). ACM.&lt;/li&gt;
-&lt;li&gt;Eagle, N., Pentland, A. S., &amp;amp; Lazer, D. (2009). &lt;a href=&#34;https://www.pnas.org/content/106/36/15274&#34; target=&#34;_blank&#34;&gt;Inferring friendship network structure by using mobile phone data&lt;/a&gt;. &lt;em&gt;Proceedings of the National Academy of Sciences&lt;/em&gt;, 106(36), 15274-15278.&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;Presentation readings: &lt;strong&gt;No Class on May 30.&lt;/strong&gt;  We will do presentations Tuesday, June 4.&lt;/li&gt;
-&lt;li&gt;Lab: Scrape data using &lt;a href=&#34;https://rtweet.info/&#34; target=&#34;_blank&#34;&gt;&lt;em&gt;rtweet&lt;/em&gt;&lt;/a&gt;.&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;+&lt;a href=&#34;https://docs.google.com/presentation/d/1IuaKE4ns3udxUx9j86EWeRAbgkaiWkrgXuexkKy8JTs/edit?usp=sharing&#34; target=&#34;_blank&#34;&gt;Slides&lt;/a&gt;
++ Class readings:
+    + Butler D. (2007). &lt;a href=&#34;http://dx.doi.org/10.1038/449644a&#34; target=&#34;_blank&#34;&gt;Data sharing threatens privacy&lt;/a&gt;. Nature, 449:644-645.
+    + Slater, M. et al. (2006). &lt;a href=&#34;http://dx.doi.org/10.1371/journal.pone.0000039&#34; target=&#34;_blank&#34;&gt;A virtual reprise of the Stanley Milgram obedience experiments&lt;/a&gt;. PLOS ONE, 1:e39.
+    + Cesare, N., Lee, H., McCormick, T. H., Spiro, E., and Zagheni, E. (2018+). &lt;a href=&#34;https://link.springer.com/article/10.1007/s13524-018-0715-2&#34; target=&#34;_blank&#34;&gt;Promises and pitfalls of using digital traces for demographic research&lt;/a&gt;. To appear, &lt;em&gt;Demography&lt;/em&gt;.
+    + Goel, S., Watts, D. J., &amp;amp; Goldstein, D. G. (2012, June). &lt;a href=&#34;https://dl.acm.org/citation.cfm?id=2229058&#34; target=&#34;_blank&#34;&gt;The structure of online diffusion networks&lt;/a&gt;. In &lt;em&gt;Proceedings of the 13th ACM conference on electronic commerce&lt;/em&gt; (pp. 623-638). ACM.
+    + Eagle, N., Pentland, A. S., &amp;amp; Lazer, D. (2009). &lt;a href=&#34;https://www.pnas.org/content/106/36/15274&#34; target=&#34;_blank&#34;&gt;Inferring friendship network structure by using mobile phone data&lt;/a&gt;. &lt;em&gt;Proceedings of the National Academy of Sciences&lt;/em&gt;, 106(36), 15274-15278.
++ Presentation readings: &lt;strong&gt;No Class on May 30.&lt;/strong&gt;  We will do presentations Tuesday, June 4.
++ Lab: Scrape data using &lt;a href=&#34;https://rtweet.info/&#34; target=&#34;_blank&#34;&gt;&lt;em&gt;rtweet&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
 
 &lt;h4 id=&#34;week-10-week-of-june-3&#34;&gt;Week 10 (Week of June 3)&lt;/h4&gt;
 
