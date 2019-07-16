@@ -17,16 +17,20 @@
       
       <guid>https://thmccormick.github.io/publications/publications/</guid>
       <description>&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Li, Z. R., McCormick, T. H., and Clark, S. J. (2019+).&lt;a href=&#34;https://arxiv.org/abs/1711.00877&#34; target=&#34;_blank&#34;&gt;Using Bayesian latent Gaussian graphical models to infer symptom associations in verbal autopsies&lt;/a&gt;. To appear, &lt;em&gt;Bayesian Analysis&lt;/em&gt;. &lt;a href=&#34;https://github.com/richardli/LGGM&#34; target=&#34;_blank&#34;&gt;code&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Green, A., McCormick, T. H., &amp;amp; Raftery, A. E. (2019+). Consistency for the tree bootstrap in respondent-driven sampling. To appear, &lt;em&gt;Biometrika (Miscellanea)&lt;/em&gt;.  (pdf coming soon!)&lt;/p&gt;&lt;/li&gt;
+
 &lt;li&gt;&lt;p&gt;Li, Z. R., McCormick, T. H., and Clark, S. J. (2019). &lt;a href=&#34;https://arxiv.org/abs/1805.07051&#34; target=&#34;_blank&#34;&gt;Bayesian Joint Spike-and-Slab Graphical Lasso&lt;/a&gt; In &lt;em&gt;Proceedings of the 35th International Conference on Machine Learning (ICML)&lt;/em&gt;.&lt;/p&gt;&lt;/li&gt;
 
 &lt;li&gt;&lt;p&gt;Li, Z. R., &amp;amp; McCormick, T. H. (2019+). &lt;a href=&#34;https://arxiv.org/abs/1709.06970&#34; target=&#34;_blank&#34;&gt;An Expectation Conditional Maximization approach for Gaussian graphical models&lt;/a&gt;. To appear, &lt;em&gt;Journal of Computational and Graphical Statistics&lt;/em&gt;. &lt;a href=&#34;https://
 github.com/richardli/EMGS&#34; target=&#34;_blank&#34;&gt;code&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
 
+&lt;li&gt;&lt;p&gt;Eadie, G., Huppenkothen, D., Springford, E., &amp;amp; McCormick, T. H. (2019+). &lt;a href=&#34;https://arxiv.org/abs/1904.11006&#34; target=&#34;_blank&#34;&gt;Introducing Bayesian Analysis with m&amp;amp;m’s: an active-learning exercise for undergraduates&lt;/a&gt;. To appear, &lt;em&gt;Journal of Statistics Education&lt;/em&gt;. &lt;a href=&#34;https://github.com/gweneadie/BayesianMandMs&#34; target=&#34;_blank&#34;&gt;code&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
 &lt;li&gt;&lt;p&gt;Kunihama, T., Li, Z. R., Clark, S. J., &amp;amp; McCormick, T. H. (2019+). &lt;a href=&#34;https://arxiv.org/abs/1803.01327&#34; target=&#34;_blank&#34;&gt;Bayesian factor models for probabilistic cause of death assessment with verbal autopsies&lt;/a&gt;. To appear, &lt;em&gt;Annals of Applied Statistics&lt;/em&gt;. &lt;a href=&#34;https://github.com/kunihama/VA-code&#34; target=&#34;_blank&#34;&gt;code&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
 
 &lt;li&gt;&lt;p&gt;Westling, T., &amp;amp; McCormick, T. H. (2019+). &lt;a href=&#34;http://arxiv.org/abs/1510.08151&#34; target=&#34;_blank&#34;&gt;Beyond prediction: A framework for inference with variational approximations in mixture models&lt;/a&gt;. To appear, &lt;em&gt;Journal of Computational and Graphical Statistics&lt;/em&gt;. &lt;a href=&#34;https://github.com/tedwestling/variational_asymptotics&#34; target=&#34;_blank&#34;&gt;code&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Eadie, G., Huppenkothen, D., Springford, E., &amp;amp; McCormick, T. H. (2019+). &lt;a href=&#34;https://arxiv.org/abs/1904.11006&#34; target=&#34;_blank&#34;&gt;Introducing Bayesian Analysis with m&amp;amp;m’s: an active-learning exercise for undergraduates&lt;/a&gt;. To appear, &lt;em&gt;Journal of Statistics Education&lt;/em&gt;. &lt;a href=&#34;https://github.com/gweneadie/BayesianMandMs&#34; target=&#34;_blank&#34;&gt;code&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
 
 &lt;li&gt;&lt;p&gt;Fosdick, B., McCormick, T. H., Murphy, T. B., Ng, T. L., and Westling, T. (2018+). &lt;a href=&#34;http://arxiv.org/abs/1608.07618&#34; target=&#34;_blank&#34;&gt;Multiresolution network models&lt;/a&gt;. To appear, &lt;em&gt;Journal of Computational and Graphical Statistics&lt;/em&gt;. &lt;a href=&#34;https://github.com/tedwestling/multiresolution_networks&#34; target=&#34;_blank&#34;&gt;code&lt;/a&gt; &lt;a href=&#34;https://www.newton.ac.uk/files/seminar/20160726133014001-740146.pdf&#34; target=&#34;_blank&#34;&gt;slides&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
 

@@ -18,9 +18,9 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://thmccormick.github.io/publications/publications/</guid>
-      <description>Li, Z. R., McCormick, T. H., and Clark, S. J. (2019). Bayesian Joint Spike-and-Slab Graphical Lasso In Proceedings of the 35th International Conference on Machine Learning (ICML).
- Li, Z. R., &amp;amp; McCormick, T. H. (2019+). An Expectation Conditional Maximization approach for Gaussian graphical models. To appear, Journal of Computational and Graphical Statistics. code
- Kunihama, T., Li, Z. R., Clark, S. J., &amp;amp; McCormick, T. H. (2019+). Bayesian factor models for probabilistic cause of death assessment with verbal autopsies.</description>
+      <description>Li, Z. R., McCormick, T. H., and Clark, S. J. (2019+).Using Bayesian latent Gaussian graphical models to infer symptom associations in verbal autopsies. To appear, Bayesian Analysis. code
+ Green, A., McCormick, T. H., &amp;amp; Raftery, A. E. (2019+). Consistency for the tree bootstrap in respondent-driven sampling. To appear, Biometrika (Miscellanea). (pdf coming soon!)
+ Li, Z. R., McCormick, T. H., and Clark, S. J. (2019). Bayesian Joint Spike-and-Slab Graphical Lasso In Proceedings of the 35th International Conference on Machine Learning (ICML).</description>
     </item>
     
   </channel>
