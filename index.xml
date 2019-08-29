@@ -17,6 +17,15 @@
       
       <guid>https://thmccormick.github.io/publications/publications/</guid>
       <description>&lt;ul&gt;
+&lt;li&gt;Breza, E., Chandrasekhar, A. G., McCormick, T. H., and Pan, M. (2019+) &lt;a href=&#34;https://arxiv.org/abs/1703.04157&#34; target=&#34;_blank&#34;&gt;Using Aggregated Relational Data to feasibly identify network structure without network data&lt;/a&gt; (conditionally accepted, &lt;em&gt;American Economic Review&lt;/em&gt;).
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/ url?q=https%3A%2F%2Fgithub.com%2FMengjiePan%2FBCMP&amp;amp;sa=D&amp;amp;sntz=1&amp;amp;usg=AFQjCNHiZ-Ep-uQ2oX5Eo5SlKDuEtMoMOQ&#34; target=&#34;_blank&#34;&gt;code&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/url?q=https%3A%2F%2Fweb.stanford.edu%2F~arungc%2FBCMP_PseudoCode&amp;amp;sa=D&amp;amp;sntz=1&amp;amp;usg=AFQjCNEDrTdVGutzYUAZtdKt9TJ04R03qQ&#34; target=&#34;_blank&#34;&gt;model fitting instructions/pseudocode&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/url?q=https%3A%2F%2Fweb.stanford.edu%2F~arungc%2FBCMP_Surveys&amp;amp;sa=D&amp;amp;sntz=1&amp;amp;usg=AFQjCNEPnoPWZQ64o1XurVblMmM-vIY_1w&#34; target=&#34;_blank&#34;&gt;implementation instructions and survey instruments&lt;/a&gt;
+&lt;br&gt; &lt;br&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
 &lt;li&gt;&lt;p&gt;Li, Z. R., McCormick, T. H., and Clark, S. J. (2019+).&lt;a href=&#34;https://arxiv.org/abs/1711.00877&#34; target=&#34;_blank&#34;&gt;Using Bayesian latent Gaussian graphical models to infer symptom associations in verbal autopsies&lt;/a&gt;. To appear, &lt;em&gt;Bayesian Analysis&lt;/em&gt;. &lt;a href=&#34;https://github.com/richardli/LGGM&#34; target=&#34;_blank&#34;&gt;code&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
 
 &lt;li&gt;&lt;p&gt;Green, A., McCormick, T. H., &amp;amp; Raftery, A. E. (2019+). Consistency for the tree bootstrap in respondent-driven sampling. To appear, &lt;em&gt;Biometrika (Miscellanea)&lt;/em&gt;.  (pdf coming soon!)&lt;/p&gt;&lt;/li&gt;
@@ -32,13 +41,18 @@ github.com/richardli/EMGS&#34; target=&#34;_blank&#34;&gt;code&lt;/a&gt;&lt;/p&g
 
 &lt;li&gt;&lt;p&gt;Westling, T., &amp;amp; McCormick, T. H. (2019+). &lt;a href=&#34;http://arxiv.org/abs/1510.08151&#34; target=&#34;_blank&#34;&gt;Beyond prediction: A framework for inference with variational approximations in mixture models&lt;/a&gt;. To appear, &lt;em&gt;Journal of Computational and Graphical Statistics&lt;/em&gt;. &lt;a href=&#34;https://github.com/tedwestling/variational_asymptotics&#34; target=&#34;_blank&#34;&gt;code&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
 
-&lt;li&gt;&lt;p&gt;Fosdick, B., McCormick, T. H., Murphy, T. B., Ng, T. L., and Westling, T. (2018+). &lt;a href=&#34;http://arxiv.org/abs/1608.07618&#34; target=&#34;_blank&#34;&gt;Multiresolution network models&lt;/a&gt;. To appear, &lt;em&gt;Journal of Computational and Graphical Statistics&lt;/em&gt;. &lt;a href=&#34;https://github.com/tedwestling/multiresolution_networks&#34; target=&#34;_blank&#34;&gt;code&lt;/a&gt; &lt;a href=&#34;https://www.newton.ac.uk/files/seminar/20160726133014001-740146.pdf&#34; target=&#34;_blank&#34;&gt;slides&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Li, Z. R., McCormick, T. H., &amp;amp; Clark, S. J. (2019+) Non-confirming Replication of ``Performance of InSilicoVA for Assigning Causes of Death to Verbal Autopsies: Multisite Validation Study using Clinical Diagnostic Gold Standards&amp;rdquo;, BMC Medicine 2018; 16:56. To appear, &lt;em&gt;BMC Medicine.&lt;/em&gt;&lt;/p&gt;&lt;/li&gt;
 
-&lt;li&gt;&lt;p&gt;Cesare, N., Lee, H., McCormick, T. H., Spiro, E., and Zagheni, E. (2018+). &lt;a href=&#34;http://ssrn.com/abstract=2839585&#34; target=&#34;_blank&#34;&gt;Promises and pitfalls of using digital traces for demographic research&lt;/a&gt;. To appear, &lt;em&gt;Demography.&lt;/em&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Jha, P., Kumar, D., Dikshit, R., Budukh, A., Begum, R., Sati, P., Kolpak, P., Wen, R., Raithatha, S.J., Shah, U., Li, Z.R.,
+Aleksandrowicz, L., Shah, P., Piyasena, K., McCormick, T. H., Gelband, H. &amp;amp; Clark, S. J. (2019) &lt;a href=&#34;https://bmcmedicine.biomedcentral.com/articles/10.1186/s12916-019-1353-2&#34; target=&#34;_blank&#34;&gt;Automated versus physician assignment of cause of death for verbal autopsies: randomized trial of 9374 deaths in 117 villages in India&lt;/a&gt;. &lt;em&gt;BMC Medicine&lt;/em&gt;, 17, 116.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Fosdick, B., McCormick, T. H., Murphy, T. B., Ng, T. L., and Westling, T. (2018). &lt;a href=&#34;http://arxiv.org/abs/1608.07618&#34; target=&#34;_blank&#34;&gt;Multiresolution network models&lt;/a&gt;. &lt;em&gt;Journal of Computational and Graphical Statistics&lt;/em&gt;, , 28, 185-196. &lt;a href=&#34;https://github.com/tedwestling/multiresolution_networks&#34; target=&#34;_blank&#34;&gt;code&lt;/a&gt; &lt;a href=&#34;https://www.newton.ac.uk/files/seminar/20160726133014001-740146.pdf&#34; target=&#34;_blank&#34;&gt;slides&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Cesare, N., Lee, H., McCormick, T. H., Spiro, E., and Zagheni, E. (2018). &lt;a href=&#34;http://ssrn.com/abstract=2839585&#34; target=&#34;_blank&#34;&gt;Promises and pitfalls of using digital traces for demographic research&lt;/a&gt;. &lt;em&gt;Demography,&lt;/em&gt; 55, 1979-1999.&lt;/p&gt;&lt;/li&gt;
 
 &lt;li&gt;&lt;p&gt;Wang, F., McCormick, T. H., Rudin, C., and Gore, J. (2018+). &lt;a href=&#34;http://arxiv.org/abs/1504.06964&#34; target=&#34;_blank&#34;&gt;Modeling recovery curves with application to Prostatectomy&lt;/a&gt;. To appear, &lt;em&gt;Biostatistics.&lt;/em&gt; &lt;a href=&#34;https://github.com/fultonwang/recovery_curve&#34; target=&#34;_blank&#34;&gt;code&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
 
-&lt;li&gt;&lt;p&gt;Lee, W., Fosdick, B., and McCormick, T. H. (2018+). &lt;a href=&#34;http://arxiv.org/abs/1609.02629&#34; target=&#34;_blank&#34;&gt;Inferring social structure from continuous-time interaction data&lt;/a&gt;. Discussion paper. To appear, &lt;em&gt;Applied Stochastic Models in Business and Industry&lt;/em&gt;. &lt;a href=&#34;https://github.com/wesleytlee/relational-event-networks&#34; target=&#34;_blank&#34;&gt;code&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Lee, W., Fosdick, B., and McCormick, T. H. (2018). &lt;a href=&#34;http://arxiv.org/abs/1609.02629&#34; target=&#34;_blank&#34;&gt;Inferring social structure from continuous-time interaction data&lt;/a&gt;. Discussion paper. &lt;em&gt;Applied Stochastic Models in Business and Industry&lt;/em&gt;, 34, 87-104. &lt;a href=&#34;https://github.com/wesleytlee/relational-event-networks&#34; target=&#34;_blank&#34;&gt;code&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
 
 &lt;li&gt;&lt;p&gt;Clark, S., Wakefield, J, McCormick, T. H., and Ross, M. (2018+). &lt;a href=&#34;https://arxiv.org/abs/1504.02124&#34; target=&#34;_blank&#34;&gt;Hyak mortality monitoring system: Innovative sampling and estimation methods&lt;/a&gt;. To appear, &lt;em&gt;Global Health, Epidemiology and Genomics&lt;/em&gt;.&lt;/p&gt;&lt;/li&gt;
 
@@ -132,18 +146,17 @@ Statistical Meetings&lt;/em&gt;, Salt Lake City, Utah.&lt;/p&gt;&lt;/li&gt;
 &lt;h4 id=&#34;postdoctoral-scholars&#34;&gt;Postdoctoral scholars&lt;/h4&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.physics.mcmaster.ca/~eadiegm/cover.html&#34; target=&#34;_blank&#34;&gt;Gwen Eadie&lt;/a&gt;, 2017-&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://timathomas.github.io/&#34; target=&#34;_blank&#34;&gt;Tim Thomas&lt;/a&gt;, 2017-&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://sites.google.com/site/tsuyoshikunihama/&#34; target=&#34;_blank&#34;&gt;Tsuyoshi Kunihama&lt;/a&gt; (2016-2017), now Assistant Professor in the Department of Economics at Kwansei Gakuin University&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://timathomas.github.io/&#34; target=&#34;_blank&#34;&gt;Tim Thomas&lt;/a&gt; (2017-2019), now at the Berkeley Urban Displacement Project.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.physics.mcmaster.ca/~eadiegm/cover.html&#34; target=&#34;_blank&#34;&gt;Gwen Eadie&lt;/a&gt; (2017-2019), now Assistant Professor of Statistics &amp;amp; Astronomy at the University of Toronto.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://sites.google.com/site/tsuyoshikunihama/&#34; target=&#34;_blank&#34;&gt;Tsuyoshi Kunihama&lt;/a&gt; (2016-2017), now Assistant Professor in the Department of Economics at Kwansei Gakuin University.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h4 id=&#34;ph-d-students&#34;&gt;Ph.D. Students&lt;/h4&gt;
+&lt;h4 id=&#34;ph-d-students-committee-chair&#34;&gt;Ph.D. Students (committee chair)&lt;/h4&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;http://zehangli.com/&#34; target=&#34;_blank&#34;&gt;Zehang (Richard) Li, Ph.D.&lt;/a&gt; (2018, currently postdoctoral scholar at Yale Biostatistics)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.stat.washington.edu/~mpan1/&#34; target=&#34;_blank&#34;&gt;Mengjie Pan&lt;/a&gt;, current statistics Ph.D. student&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://students.washington.edu/aeschuma/&#34; target=&#34;_blank&#34;&gt;Austin Schumacher&lt;/a&gt;, current biostatistics Ph.D. student&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.stat.washington.edu/people/wtlee/&#34; target=&#34;_blank&#34;&gt;Wesley Lee&lt;/a&gt;, current statistics Ph.D. student&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.stat.washington.edu/~mpan1/&#34; target=&#34;_blank&#34;&gt;Mengjie Pan&lt;/a&gt; (2019, currently at Facebook)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.stat.washington.edu/people/wtlee/&#34; target=&#34;_blank&#34;&gt;Wesley Lee&lt;/a&gt; (2019, currently at Facebook)&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h4 id=&#34;masters-and-undergraduate-students&#34;&gt;Masters and undergraduate students&lt;/h4&gt;
@@ -156,6 +169,7 @@ Statistical Meetings&lt;/em&gt;, Salt Lake City, Utah.&lt;/p&gt;&lt;/li&gt;
 &lt;h4 id=&#34;selected-courses&#34;&gt;Selected courses&lt;/h4&gt;
 
 &lt;ul&gt;
+&lt;li&gt;Stat/CSSS 567 &lt;a href=&#34;https://thmccormick.github.io/class/567_sp19/&#34; target=&#34;_blank&#34;&gt;Social network analysis&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Stat/Soc/CSSS 221 &lt;a href=&#34;https://docs.google.com/document/d/1wLRowIehGM1w-i4l4qaMerYgEhL0wpS__r_fbvwHeww/edit?usp=sharing&#34; target=&#34;_blank&#34;&gt;Introduction to statistics for social sciences&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Soc 506/CSSS 507 &lt;a href=&#34;http://www.stat.washington.edu/~tylermc/soc506sp15/schedule_2015.htm&#34; target=&#34;_blank&#34;&gt;Quantitative methods in sociology&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Stat/Soc/CSSS 321 &lt;a href=&#34;http://www.stat.washington.edu/~tylermc/syllabus_321aut13.pdf&#34; target=&#34;_blank&#34;&gt;Case-based social statistics&lt;/a&gt;&lt;/li&gt;
