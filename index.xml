@@ -46,7 +46,7 @@ github.com/richardli/EMGS&#34; target=&#34;_blank&#34;&gt;code&lt;/a&gt;&lt;/p&g
 &lt;li&gt;&lt;p&gt;Jha, P., Kumar, D., Dikshit, R., Budukh, A., Begum, R., Sati, P., Kolpak, P., Wen, R., Raithatha, S.J., Shah, U., Li, Z.R.,
 Aleksandrowicz, L., Shah, P., Piyasena, K., McCormick, T. H., Gelband, H. &amp;amp; Clark, S. J. (2019) &lt;a href=&#34;https://bmcmedicine.biomedcentral.com/articles/10.1186/s12916-019-1353-2&#34; target=&#34;_blank&#34;&gt;Automated versus physician assignment of cause of death for verbal autopsies: randomized trial of 9374 deaths in 117 villages in India&lt;/a&gt;. &lt;em&gt;BMC Medicine&lt;/em&gt;, 17, 116.&lt;/p&gt;&lt;/li&gt;
 
-&lt;li&gt;&lt;p&gt;Fosdick, B., McCormick, T. H., Murphy, T. B., Ng, T. L., and Westling, T. (2018). &lt;a href=&#34;http://arxiv.org/abs/1608.07618&#34; target=&#34;_blank&#34;&gt;Multiresolution network models&lt;/a&gt;. &lt;em&gt;Journal of Computational and Graphical Statistics&lt;/em&gt;, , 28, 185-196. &lt;a href=&#34;https://github.com/tedwestling/multiresolution_networks&#34; target=&#34;_blank&#34;&gt;code&lt;/a&gt; &lt;a href=&#34;https://www.newton.ac.uk/files/seminar/20160726133014001-740146.pdf&#34; target=&#34;_blank&#34;&gt;slides&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Fosdick, B., McCormick, T. H., Murphy, T. B., Ng, T. L., and Westling, T. (2018). &lt;a href=&#34;http://arxiv.org/abs/1608.07618&#34; target=&#34;_blank&#34;&gt;Multiresolution network models&lt;/a&gt;. &lt;em&gt;Journal of Computational and Graphical Statistics&lt;/em&gt;, 28, 185-196. &lt;a href=&#34;https://github.com/tedwestling/multiresolution_networks&#34; target=&#34;_blank&#34;&gt;code&lt;/a&gt; &lt;a href=&#34;https://www.newton.ac.uk/files/seminar/20160726133014001-740146.pdf&#34; target=&#34;_blank&#34;&gt;slides&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
 
 &lt;li&gt;&lt;p&gt;Cesare, N., Lee, H., McCormick, T. H., Spiro, E., and Zagheni, E. (2018). &lt;a href=&#34;http://ssrn.com/abstract=2839585&#34; target=&#34;_blank&#34;&gt;Promises and pitfalls of using digital traces for demographic research&lt;/a&gt;. &lt;em&gt;Demography,&lt;/em&gt; 55, 1979-1999.&lt;/p&gt;&lt;/li&gt;
 
@@ -267,6 +267,479 @@ Statistical Meetings&lt;/em&gt;, Salt Lake City, Utah.&lt;/p&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://cran.r-project.org/web/packages/netregR/index.html&#34; target=&#34;_blank&#34;&gt;CRAN&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://thmccormick.github.io/project/research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://thmccormick.github.io/project/research/</guid>
+      <description>
+
+&lt;p&gt;&lt;img src = &#34;/img/network.png&#34;, width = &#34;850&#34;&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;social-networks-data-collection-and-analysis&#34;&gt;Social networks: data collection and analysis&lt;/h2&gt;
+
+&lt;h2 id=&#34;cause-of-death-assessment-using-verbal-autopsies&#34;&gt;Cause of death assessment using Verbal Autopsies&lt;/h2&gt;
+
+&lt;h2 id=&#34;stat-csss-567&#34;&gt;Stat/CSSS 567&lt;/h2&gt;
+
+&lt;h2 id=&#34;spring-2019-university-of-washington&#34;&gt;Spring 2019, University of Washington&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://thmccormick.github.io/class/567_sp19_schedule/&#34; target=&#34;_blank&#34;&gt;Course schedule&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;logistics&#34;&gt;Logistics&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;Instructor:&lt;/strong&gt; Tyler McCormick; Email: tylermc@uw.edu; Office Hours: &lt;a href=&#34;https://calendar.google.com/calendar/selfsched?sstoken=UUd2aTl3eEVCaXJ3fGRlZmF1bHR8MzdkZGUwNWNlZGFiMWQwY2RmMGUwMDljZjc3ZDk3ZDI&#34; target=&#34;_blank&#34;&gt;Sign up&lt;/a&gt;&lt;br&gt;
+&lt;strong&gt;TA:&lt;/strong&gt; Mengjie Pan (mpan1@uw.edu); Office Hours: Tues 3-4, Weds 1-2 in the CSSS Conference Room, Padelford Hall &lt;br&gt;
+&lt;strong&gt;Course meetings:&lt;/strong&gt; T/Th 11:30-12:50pm (Guggenheim 218) &amp;amp; F 1:30-2:20 (Savery 264) &lt;br&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;overview-objectives&#34;&gt;Overview &amp;amp; objectives&lt;/h3&gt;
+
+&lt;p&gt;This course is a practical, hands-on introduction to design and analysis of social network data, set against a backdrop of theory from sociology, economics, and other disciplines.&lt;/p&gt;
+
+&lt;h3 id=&#34;course-components-grading&#34;&gt;Course components &amp;amp; grading&lt;/h3&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Component&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;% Grade&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Approx 4 HWs&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;35&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;In-class presentation&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;20&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Final project &amp;amp; poster&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;45&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;strong&gt;In-class presentation:&lt;/strong&gt;
+In weeks 4-9, Tuesday lectures will present statistical methods and Thursday lectures will be student presentations.  Presentations will either highlight social science papers that use the methods discussed on Tuesday or present more advanced statistical techniques.  Presentations will be either individual or in small groups (2-3 students).  Individual presentations should be approx 20 minutes.  Group presentations should discuss several related papers and should be approx (number of students) times 20 minutes.  Papers for presentation are listed on the course schedule.  Please sign up for papers &lt;a href=&#34;https://docs.google.com/document/d/1Su_JYou3SbHnY4Oo2h9ASFV99Mf8Na4x0jOTCvmiS5A/edit?usp=sharing&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.  There are four slots (80 minutes) per class period.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Final project:&lt;/strong&gt;
+The final project should be an in-depth exploration of a question related to social networks using techniques learned during the course.  Projects can also take the form of additional statistical work, but each project must include a substantial data analysis component.  If you have data from your own research, you&amp;rsquo;re welcome to use it.  Group work in teams of 2-3 is highly encouraged.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Deliverables:
+
+&lt;ul&gt;
+&lt;li&gt;A poster of quality acceptable for presentation at an academic conference.  Instructions for printing posters will come later in the quarter.  You should plan to have your poster ready to print in about week 9 of the quarter.&lt;/li&gt;
+&lt;li&gt;A GitHub repository containing all the code and data required to reproduce &lt;em&gt;both&lt;/em&gt; your results and the poster.  If you cannot share your data you should simulate data with similar characteristics.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Grading:
+
+&lt;ul&gt;
+&lt;li&gt;Appropriate and thoughtful use of network analysis techniques.&lt;/li&gt;
+&lt;li&gt;Graphics and visual appeal of the poster.&lt;/li&gt;
+&lt;li&gt;Contribution to social science question and/or statistical methodology.&lt;/li&gt;
+&lt;li&gt;GitHub repo.  As part of grading, someone will download and attempt to run the code in your GitHub repo.  Your code should run beginning to end and be thoroughly documented.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Lab:&lt;/strong&gt;
+Hands on practice with network data.  Labs count as part of homeworks.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Collaborative work:&lt;/strong&gt; Working together is highly encouraged!  Each student must, however, turn in their own homework using Github (see below).  Writing must be your own, or appropriately cited.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Policies:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Only assignments turned in through &lt;a href=&#34;https://github.com/&#34; target=&#34;_blank&#34;&gt;GitHub&lt;/a&gt; will count for credit. More info below.&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;All empirical assignments must also include code.  More info below.&lt;/li&gt;
+&lt;li&gt;Late assignments accepted with at 10% per day penalty.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;In-class:&lt;/strong&gt; I highly discourage the use of laptops during lecture, as I find them very distracting for me and for other students.  If you need to use your phone or are otherwise feeling distracted, please step outside.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Submitting code:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;You must sign up for a Github account.  I recommend applying for an &lt;a href=&#34;https://education.github.com/&#34; target=&#34;_blank&#34;&gt;educational discount&lt;/a&gt;.  All assignments must be submitted through Github. You&amp;rsquo;ll walk through this process in detail in the first lab.&lt;/li&gt;
+&lt;li&gt;Your code should stand alone.  More information &lt;a href=&#34;https://www.tidyverse.org/articles/2017/12/workflow-vs-script/&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.  For each repo you submit you should include a readme file describing the contents of the repo and thoroughly document your code. As part of grading, someone will attempt to run your code.&lt;/li&gt;
+&lt;li&gt;I suggest following the &lt;a href=&#34;https://style.tidyverse.org/&#34; target=&#34;_blank&#34;&gt;tidyverse&lt;/a&gt; style guide.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Academic accommodations:&lt;/strong&gt;
+To request academic accommodations due to disability, please contact Disabled Student Services, 448 Schmitz Hall, (206) 543-8924.  Myself and your TA will be happy to provide academic accommodations if you have a letter requesting such from Disability Resources for Students (DRS).  Please feel free to see me during office hours to discuss this.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Related courses:&lt;/strong&gt; There are many great social network methods courses.  This course is inspired by a few of them, including Matthew Salganik&amp;rsquo;s &lt;a href=&#34;http://www.princeton.edu/~mjs3/soc596_sp08.shtml&#34; target=&#34;_blank&#34;&gt;Soc 596&lt;/a&gt; at Princeton; James Moody&amp;rsquo;s &lt;a href=&#34;http://www.soc.duke.edu/~jmoody77/s884/syllabus_s15.pdf&#34; target=&#34;_blank&#34;&gt;Seminar on Social Networks&lt;/a&gt; at Duke; and previous UW versions of this course taught by, among others, Peter Hoff &amp;amp; Miruna Petrescu-Prahova.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://thmccormick.github.io/project/tresearch/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://thmccormick.github.io/project/tresearch/</guid>
+      <description>&lt;!DOCTYPE html PUBLIC &#34;-//W3C//DTD HTML 4.01//EN&#34;
+&#34;http://www.w3.org/TR/html4/strict.dtd&#34;&gt; &lt;html&gt;
+
+	
+
+	&lt;head&gt; &lt;meta content=&#34;text/html; charset=ISO-8859-1&#34;
+http-equiv=&#34;content-type&#34;&gt; &lt;meta content=&#34;Tyler McCormick&#34;
+name=&#34;author&#34;&gt; &lt;meta content=&#34;Columbia_STAT&#34; name=&#34;description&#34;&gt;
+&lt;meta name=&#34;description&#34; content=&#34;Columbia University Statistics,
+Tyler McCormick&#34; /&gt; &lt;meta name=&#34;keywords&#34; content=&#34;Tyler, Tyler
+McCormick, Tyler McMormick, Tyler McCorMick, Social Network, Network,
+Latent Space Model, Latent Position Model, Aggregated Relational
+Data, Latent Space, The Big Cheese, Good Lift, Columbia Stat, W1111,
+McCormick Intro Stat, Statistics Columbia, Statistics, Stat, How many
+X&#39;s do you know?, Personal Network Size, Network size,
+netwrok,bulk-up man, bulk up man&#34; /&gt; &lt;meta name=&#34;owner&#34;
+content=&#34;Tyler McCormick&#34; /&gt; &lt;meta name=&#34;author&#34; content=&#34;Tyler
+McCormick&#34; /&gt;
+
+	&lt;title&gt;Tyler_McCormick&lt;/title&gt; 
+&lt;!--
+&lt;link rel=&#34;stylesheet&#34;
+type=&#34;text/css&#34;
+href=&#34;http://www.stat.columbia.edu/~tyler/tylerstyle.css&#34;&gt; --&gt;
+&lt;link
+rel=&#34;stylesheet&#34; type=&#34;text/css&#34; href=&#34;tylerstyle.css&#34;&gt; 
+	
+&lt;/head&gt;
+
+
+	&lt;body&gt;
+
+
+	&lt;div id=&#34;header&#34;&gt; &lt;a href=&#34;#&#34;&gt;Tyler H. McCormick&lt;/a&gt; &lt;/div&gt;
+
+&lt;div id=&#34;menu&#34; align=&#34;right&#34;&gt;
+&lt;a href=&#34;http://www.stat.washington.edu/~tylermc/&#34; title=&#34;Tyler&#39;s homepage&#34;&gt;Home&lt;/a&gt; &amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp
+&lt;a href=&#34;http://www.stat.washington.edu/~tylermc/products.html&#34; title=&#34;Link to papers and software&#34;&gt; Papers &amp; Software&lt;/a&gt;&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp
+&lt;a href=&#34;http://www.stat.washington.edu/~tylermc/Research.html&#34; title=&#34;Link to Research&#34;&gt;Research&lt;/a&gt;&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp
+&lt;a href=&#34;http://www.stat.washington.edu/~tylermc/mccormick_cv.pdf&#34; title=&#34;Link to Vita&#34;&gt;Vita&lt;/a&gt; &amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp
+&lt;a href=&#34;http://www.stat.washington.edu/~tylermc/Teaching.html&#34; title=&#34;Link to Teaching Info&#34;&gt;Teaching&lt;/a&gt;&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp
+&lt;/div&gt;
+
+	&lt;div id=&#34;sidebar&#34;&gt; &lt;!--&lt;h1&gt;Contact Info&lt;/h1&gt;--&gt;
+
+		&lt;h2&gt;Mailing Address&lt;/h2&gt; &lt;h3&gt;
+		Department of Statistics&lt;br/&gt;
+		Department of Sociology&lt;br/&gt;
+		University of Washington&lt;br /&gt;
+		Box 354322&lt;br /&gt;
+		Seattle, WA 98195-4322&lt;/h3&gt; &lt;h2&gt;Phone&lt;/h2&gt; &lt;h3&gt;(206)
+	221-6981&lt;br /&gt; (206) 221-6873 (fax) &lt;/h3&gt; &lt;h2&gt;Email&lt;/h2&gt;
+	&lt;h3&gt;tylermc[at]u.washington.edu&lt;br /&gt; &lt;script
+	type=&#34;text/javascript&#34;&gt;
+/*&lt;![CDATA[*/
+
+/*************************
+	**********************
+* Encrypt Email script- Please keep notice
+	intact
+* Tool URL: http://www.dynamicdrive.com/emailriddler/
+*
+	**********************************************/
+&lt;!-- Encrypted
+	version of: tylermc [at] *.**********.*** //--&gt;
+
+var
+	emailriddlerarray=[116,121,108,101,114,109,99,64,117,46,119,97,
+	115,104,105,110,103,116,111,110,46,101,100,117]
+var
+	encryptedemail_id72=&#39;&#39; //variable to contain encrypted email 
+for
+	(var i=0; i&lt;emailriddlerarray.length; i++)
+
+	encryptedemail_id72+=String.fromCharCode(emailriddlerarray[i])
+
+
+	document.write(&#39;&lt;a href=&#34;mailto:&#39;+encryptedemail_id72+&#39;&#34;&gt;Click to
+	email&lt;/a&gt;&#39;)
+
+/*]]&gt;*/
+&lt;/script&gt;&lt;/h3&gt;
+&lt;h2&gt;
+&lt;center&gt;
+&lt;script
+	src=&#34;http://widgets.twimg.com/j/2/widget.js&#34;&gt;&lt;/script&gt;
+&lt;script&gt;
+
+	new TWTR.Widget({
+  version: 2,
+  type: &#39;profile&#39;,
+  rpp: 2,
+ 
+	interval: 6000,
+  width: 180,
+  height: 275,
+  theme: {
+   
+	shell: {
+      background: &#39;#37284F&#39;,
+      color: &#39;#EEE9F8&#39;
+   
+	},
+    tweets: {
+      background: &#39;#EEE9F8&#39;,
+      color:
+	&#39;#000000&#39;,
+      links: &#39;#37284F&#39;
+    }
+  },
+  features: {
+   
+	scrollbar: false,
+    loop: false,
+    live: false,
+    hashtags:
+	true,
+    timestamp: false,
+    avatars: true,
+    behavior:
+	&#39;all&#39;
+ 
+	}
+}).render().setUser(&#39;tylermccormick&#39;).start();
+&lt;/script&gt;
+&lt;/
+	center&gt;
+&lt;/h2&gt;
+&lt;/div&gt;
+
+	&lt;div id=&#34;main&#34;&gt;
+
+
+
+
+&lt;h4&gt;Social networks&lt;/h4&gt;
+
+My work develops statistical models that leverage social network structure to understand the nuances of human behavior.  I&#39;m particularly interested in developing methods for partially observed or sampled network data.  These data take many forms, ranging from questions asked to respondents on traditional surveys to egocentric subgraphs sampled from social media.  Statistical challenges involve modeling the dependence structure introduced through the network and accounting for complex sampling designs or missingness patterns (in both network structure and actor attributes).   
+&lt;P&gt;
+		
+	&lt;font color=#37284F&gt;&lt;b&gt;Selected publications (for a full list see &lt;a
+  href=&#34;http://www.stat.washington.edu/~tylermc/products.html&#34;
+  title=&#34;full publications&#34;&gt;here&lt;/a&gt;):&lt;/b&gt;&lt;/font&gt;
+	&lt;ul&gt;
+			    &lt;li&gt; Using Aggregated Relational Data to feasibly identify network structure without network data (with E. Breza, A. Chandrasekhar and M. Pan). 2017.
+			    	&lt;a
+			    	 	  href=&#34;https://arxiv.org/abs/1703.04157&#34;
+			    	 	  title=&#34;ard&#34;&gt;pdf&lt;/a&gt; 
+	&lt;P&gt;
+
+			    &lt;li&gt; Standard errors for regression on relational data with exchangeable errors (with B. Fosdick and F. Marrs). 2017.
+			    	&lt;a
+			    	 	  href=&#34;https://arxiv.org/abs/1701.05530&#34;
+			    	 	  title=&#34;standard errors&#34;&gt;pdf&lt;/a&gt;  &lt;a
+			    	 	  href=&#34;https://github.com/fmarrs3/netreg_public&#34;
+			    	 	  title=&#34;code&#34;&gt;code&lt;/a&gt; &lt;a href=&#34;https://cran.r-project.org/web/packages/netregR/index.html&#34; title=&#34;netred&#34;&gt;R package&lt;/a&gt;
+	&lt;P&gt;
+		&lt;li&gt;Baraff, A., McCormick, T. H., and Raftery, A. E. (2016) Estimating Uncertainty in Respondent- Driven Sampling Using a Tree Bootstrap Method. &lt;i&gt;Proceedings of the National Academy
+		of Sciences (USA)&lt;/i&gt;, 113: 14668-14673. &lt;a
+					  	 	  href=&#34;http://www.pnas.org/content/early/2016/12/06/1617258113.abstract&#34;
+					  	 	  title=&#34;bootstrap&#34;&gt;pdf&lt;/a&gt;	&lt;a
+					  	 	  href=&#34;https://cran.r-project.org/web/packages/RDStreeboot/index.html&#34;
+					  	 	  title=&#34;bootstrap&#34;&gt;software&lt;/a&gt;
+&lt;P&gt;					  
+				&lt;li&gt;
+						McCormick, T. H. and Zheng, T. (2015).
+						&#34;Latent surface models for networks using Aggregated Relational Data,&#34; &lt;i&gt;Journal of the American
+						Statistical Association&lt;/i&gt;, 110:1684-1695. &lt;a
+						href=&#34;http://www.stat.washington.edu/~tylermc/pubs/mccormick_latentsurface.pdf&#34;
+						title=&#34;latent surface&#34;&gt;pdf&lt;/a&gt;
+		&lt;P&gt;
+		&lt;li&gt;Diprete, T. D., Gelman, A., McCormick, T. H., Teitler, J., and Zheng, T. (2011). Segregation in social networks based on acquaintanceship and trust. &lt;i&gt;American Journal of Sociology&lt;/i&gt;, 116, 1234-83. &lt;a href=&#34;http://www.stat.washington.edu/~tylermc/pubs/mccormick_AJS.pdf&#34;
+		title=&#34;acquaintanceship and trust&#34;&gt;pdf&lt;/a&gt;
+		&lt;P&gt;
+				&lt;li&gt;
+		McCormick, T. H., Salganik, M. J. and Zheng, T. (2010).
+		&#34;How many people do you know?:Efficiently
+		estimating personal network size,&#34; &lt;i&gt;Journal of the American
+		Statistical Association,&lt;/i&gt; 105, 59-70. &lt;a
+		href=&#34;http://www.stat.washington.edu/~tylermc/pubs/mccormick_degree.pdf&#34;
+		title=&#34;estimating degree&#34;&gt;pdf &lt;/a&gt;
+				
+&lt;/ul&gt;  
+
+
+&lt;h4&gt;Estimating vital rates using sparsely sampled data &lt;/h4&gt; In most of
+the developing world, there is massive uncertainty about even the
+most basic population indicators.  These indicators (such as birth rates or disease prevalence) are critical for evaluation and planning of social and public health programs.  My work develops statistical models that leverage limited available information to produce estimates that adequately reflect uncertainty arising from various stages of data collection.   
+
+	&lt;P&gt;&lt;font color=#37284F&gt;&lt;b&gt;Selected publications (for a full list see &lt;a
+  href=&#34;http://www.stat.washington.edu/~tylermc/products.html&#34;
+  title=&#34;full publications&#34;&gt;here&lt;/a&gt;):&lt;/b&gt;&lt;/font&gt;
+&lt;ul&gt;
+	&lt;li&gt; Bayesian Joint Spike-and-Slab Graphical Lasso (with Z. R. Li and S. Clark). 2018.
+    	&lt;a
+    	 	  href=&#34;https://arxiv.org/abs/1805.07051&#34;
+    	 	  title=&#34;bss&#34;&gt;pdf&lt;/a&gt; 
+		&lt;P&gt;
+	&lt;li&gt; Quantifying the Contributions of Training Data and Algorithm Logic to the Performance of Automated Cause-assignment Algorithms for Verbal Autopsy (with Z. R. Li and S. Clark). 2018.
+	    	&lt;a
+	    	 	  href=&#34;https://arxiv.org/abs/1803.07141&#34;
+	    	 	  title=&#34;qu&#34;&gt;pdf&lt;/a&gt;
+		&lt;P&gt;
+	&lt;li&gt; Bayesian factor models for probabilistic cause of death assessment with verbal autopsies (with T. Kunihama, Z. R. Li and S. Clark). 2018.
+	    	&lt;a
+	    	 	  href=&#34;https://arxiv.org/abs/1711.00877&#34;
+	    	 	  title=&#34;factor&#34;&gt;pdf&lt;/a&gt;	
+	  	    	&lt;a
+	  	    	 	  href=&#34;https://github.com/kunihama/VA-code.git&#34;
+	  	    	 	  title=&#34;code&#34;&gt;code&lt;/a&gt;			  
+	&lt;P&gt;	
+	&lt;li&gt; Bayesian latent Gaussian graphical models for mixed data with marginal prior information (with Z. R. Li and S. Clark). 2017.
+    	&lt;a
+    	 	  href=&#34;https://arxiv.org/abs/1711.00877&#34;
+    	 	  title=&#34;lggm&#34;&gt;pdf&lt;/a&gt;
+	      	&lt;a
+	      	 	  href=&#34;https://github.com/richardli/LGGM&#34;
+		      	 	  title=&#34;code&#34;&gt;code&lt;/a&gt;
+		&lt;P&gt;			  
+	&lt;li&gt; McCormick, T. H., Li, Z., Calvert, C., Crampin, A. C., Kahn, K., and Clark, S. J. (2016) Probabilistic Cause-of-death Assignment using Verbal Autopsies. &lt;i&gt;Journal of the American Statistical Association&lt;/i&gt;, 111: 1036-1049. &lt;a
+	 	  href=&#34;http://arxiv.org/abs/1411.3042&#34;
+	 	  title=&#34;va&#34;&gt;pdf&lt;/a&gt;  &lt;a
+	 	  href=&#34;http://www.stat.washington.edu/~tylermc/insilico_supplement_R3.pdf&#34;
+	 	  title=&#34;va&#34;&gt;supplementary material&lt;/a&gt; &lt;a
+	 	  href=&#34;https://cran.r-project.org/web/packages/InSilicoVA/index.html&#34;
+	 	  title=&#34;va&#34;&gt;software&lt;/a&gt;
+		  
+		&lt;P&gt;
+ 	&lt;li&gt;
+ 	McParland, D., Gormley, I. C., McCormick, T. H., Clark, S. J., Kabudula, C., and Collison, M. (2014) Clustering South African households based on their asset status using
+ 	  latent variable models. &lt;i&gt;Annals of Applied Statistics&lt;/i&gt;, 8: 747-776. &lt;a
+ 	  href=&#34;http://arxiv.org/abs/1401.5343&#34;
+ 	  title=&#34;clustering&#34;&gt;pdf&lt;/a&gt; &lt;a
+    href=&#34;https://projecteuclid.org/euclid.aoas/1404229513#supplemental&#34;
+    title=&#34;clustering&#34;&gt;supplement/code&lt;/a&gt;
+	
+	&lt;P&gt;&lt;li&gt;McCormick, T. H., and Zheng, T. (2012) Latent demographic profile estimation in at-risk populations. &lt;i&gt;Annals of Applied Statistics&lt;/i&gt;, 6: 1795-1813. &lt;a
+href=&#34;http://arxiv.org/pdf/1301.2473.pdf&#34; title=&#34;latent profile&#34;&gt; pdf&lt;/a&gt;
+	&lt;/ul&gt;
+
+
+
+&lt;h4&gt;Prediction and inference with unsolicited data&lt;/h4&gt;
+
+Unsolicited, observational data (such as electronic healthcare records, social media data, or cellphone call logs) provide exciting opportunities for data-driven decision making.  These data arise with no survey or other intervention from researchers and, thus, are subject to substantial selection and reporting issues.  My work develops models for prediction and inference that leverage the rich information in these data.
+&lt;!--
+My work focuses mostly on personalized medicine.
+Prediction lies at the heart of personalized medicine and in this
+paper we propose a statistical model for predicting patient-level
+sequences of medical symptoms.--&gt;
+
+	&lt;P&gt;&lt;font color=#37284F&gt;&lt;b&gt;Selected publications (for a full list see &lt;a
+  href=&#34;http://www.stat.washington.edu/~tylermc/products.html&#34;
+  title=&#34;full publications&#34;&gt;here&lt;/a&gt;):&lt;/b&gt;&lt;/font&gt;
+
+&lt;ul&gt;
+	
+	&lt;li&gt;Cesare, N., Lee, H., McCormick, T. H., Spiro, E., and Zagheni, E. (2018+) Promises and pitfalls of using digital traces for demographic research. To appear, &lt;i&gt;Demography.&lt;/i&gt; &lt;a
+	    	 	  href=&#34;http://ssrn.com/abstract=2839585&#34;
+	    	 	  title=&#34;traces&#34;&gt;pdf&lt;/a&gt; 
+	&lt;P&gt;		  
+	&lt;li&gt;Wang, F., McCormick, T. H., Rudin, C., and Gore, J. (2018+) Modeling recovery curves with application to Prostatectomy. To appear, &lt;i&gt;Biostatistics.&lt;/i&gt; &lt;a
+		  	 	  href=&#34;http://arxiv.org/abs/1504.06964&#34;
+		  	 	  title=&#34;prostate&#34;&gt;pdf&lt;/a&gt; &lt;a href=&#34;https://github.com/fultonwang/recovery_curve&#34; title=&#34;code&#34;&gt;code&lt;/a&gt;
+	&lt;P&gt;		  
+	&lt;li&gt; Lee, W., Fosdick, B., and McCormick, T. H. (2018+) Inferring social structure from continuous-time interaction data. Discussion paper. To appear, &lt;i&gt;Applied Stochastic Models in Business and Industry&lt;/i&gt;. &lt;a
+	    	 	  href=&#34;http://arxiv.org/abs/1609.02629&#34;
+	    	 	  title=&#34;interactions&#34;&gt;pdf&lt;/a&gt; &lt;a
+	    	 	  href=&#34;https://github.com/wesleytlee/relational-event-networks&#34;
+	    	 	  title=&#34;code&#34;&gt;code&lt;/a&gt;
+	&lt;P&gt;
+	&lt;li&gt; Arseniev-Koehler, A., Lee, H., McCormick, T. H., and Moreno, M. (2016) #Proana: Pro-Eating Disorder Socialization on Twitter. &lt;i&gt;Journal of Adolescent Health&lt;/i&gt;, 58: 659-664. &lt;a href=&#34;http://www.sciencedirect.com/science/article/pii/S1054139X16000598&#34;&gt;pdf&lt;/a&gt;
+	
+	&lt;P&gt;
+&lt;li&gt; Ertekin, S., Rudin, C, and McCormick, T. H. (2015). Predicting power failures with Reactive Point Processes. &lt;i&gt;Annals of Applied Statistics&lt;/i&gt;,  9: 122-144.
+ &lt;a
+  href=&#34;http://www.e-publications.org/ims/submission/AOAS/user/submissionFile/19650?confirm=93272d67&#34;
+  title=&#34;manholes&#34;&gt;pdf&lt;/a&gt;
+  &lt;a
+   href=&#34;http://projecteuclid.org/euclid.aoas/1430226087#supplemental&#34;
+   title=&#34;manholes&#34;&gt;supplement/replication materials&lt;/a&gt;
+
+&lt;P&gt;
+&lt;li&gt;McCormick, T. H., Rudin, C., and Madigan, D. (2012) A hierarchical model for association rule mining of sequential events: an approach to automated medical symptom prediction. &lt;i&gt;Annals of Applied Statistics&lt;/i&gt;, 6: 652-668. &lt;a
+  href=&#34;http://academiccommons.columbia.edu/catalog/ac:173838&#34;
+  title=&#34;rules&#34;&gt;pdf&lt;/a&gt;
+
+&lt;P&gt;
+&lt;li&gt;McCormick, T. H., Raftery, A. E., Madigan, D., and Burd, R. (2011). Dynamic logistic regression and dynamic model averaging for binary classification. &lt;i&gt;Biometrics&lt;/i&gt;, 68, 23-30. &lt;a
+  href=&#34;http://www.stat.washington.edu/~tylermc/pubs/mccormick_dma.pdf&#34;
+  title=&#34;dma&#34;&gt;pdf&lt;/a&gt;
+
+&lt;/ul&gt;
+
+
+
+&lt;/div&gt;
+
+
+	&lt;div id=&#34;footer&#34;&gt; &lt;img style=&#34;height: 95px;&#34; alt=&#34;image&#34;
+src=&#34;http://www.stat.washington.edu/~tylermc/ranier.jpg&#34;
+align=right/&gt; 
+&lt;!--
+&lt;h3 align=&#34;right&#34;&gt;
+
+&lt;SCRIPT
+LANGUAGE=&#34;JavaScript&#34;&gt;
+
+	&lt;!-- This script and many more are available free online at --&gt;
+&lt;!-- The JavaScript Source!! http://javascript.internet.com --&gt;
+
+	&lt;!-- Begin var days = new Array(8); days[1] = &#34;Sunday&#34;; days[2] =
+&#34;Monday&#34;; days[3] = &#34;Tuesday&#34;; days[4] = &#34;Wednesday&#34;; days[5] =
+&#34;Thursday&#34;; days[6] = &#34;Friday&#34;; days[7] = &#34;Saturday&#34;; var months =
+new Array(13); months[1] = &#34;January&#34;; months[2] = &#34;February&#34;;
+months[3] = &#34;March&#34;; months[4] = &#34;April&#34;; months[5] = &#34;May&#34;;
+months[6] = &#34;June&#34;; months[7] = &#34;July&#34;; months[8] = &#34;August&#34;;
+months[9] = &#34;September&#34;; months[10] = &#34;October&#34;; months[11] =
+&#34;November&#34;; months[12] = &#34;December&#34;; var dateObj = new
+Date(document.lastModified) var wday = days[dateObj.getDay() + 1] var
+lmonth = months[dateObj.getMonth() + 1] var date = dateObj.getDate()
+var fyear = dateObj.getYear() if (fyear &lt; 2000) fyear = fyear + 1900
+document.write(&#34;Page last updated &#34; + wday + &#34;, &#34; + date + &#34; &#34; +
+lmonth + &#34; &#34; + fyear)
+//     End --&gt;
+// 
+	&lt;/SCRIPT&gt;&lt;/h3&gt;
+--&gt; &lt;/div&gt;
+
+	&lt;!-- Start of StatCounter Code --&gt;
+&lt;script
+type=&#34;text/javascript&#34;&gt;
+var sc_project=7121772; 
+var sc_invisible=1;
+
+var sc_security=&#34;7f15f689&#34;; 
+&lt;/script&gt;
+
+&lt;script
+type=&#34;text/javascript&#34;
+src=&#34;http://www.statcounter.com/counter/
+counter.js&#34;&gt;&lt;/script&gt;&lt;noscript&gt;&lt;div
+class=&#34;statcounter&#34;&gt;&lt;a
+title=&#34;tumblr tracker&#34;
+href=&#34;http://statcounter.com/tumblr/&#34;
+target=&#34;_blank&#34;&gt;&lt;img
+class=&#34;statcounter&#34;
+src=&#34;http://c.statcounter.
+com/7121772/0/7f15f689/1/&#34;
+alt=&#34;tumblr tracker&#34;
+&gt;&lt;/a&gt;&lt;/div&gt;&lt;/noscript&gt;
+&lt;!-- End of StatCounter Code --&gt;
+
+	&lt;/body&gt; &lt;/html&gt;</description>
     </item>
     
     <item>
