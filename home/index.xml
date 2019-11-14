@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 -0700</lastBuildDate>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 -0400</lastBuildDate>
     
 	<atom:link href="https://thmccormick.github.io/home/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,11 +15,11 @@
     <item>
       <title></title>
       <link>https://thmccormick.github.io/home/about/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>https://thmccormick.github.io/home/about/</guid>
       <description>I&amp;rsquo;m currently an Associate Professor of Statistics and Sociology at the University of Washington. I&amp;rsquo;m also a core faculty member in the Center for Statistics and the Social Sciences and a Senior Data Science Fellow at the eScience Institute.
-I&amp;rsquo;m the current Editor of the Journal of Computational and Graphical Statistics. My research covers a variety of topics in statistics and data science, typically motivated by scientific questions in global health, economics, demography, and sociology.</description>
+I&amp;rsquo;m the current Editor of the Journal of Computational and Graphical Statistics. This year I&amp;rsquo;m spending time as a visiting facutly member working with Google PAIR. My research covers a variety of topics in statistics and data science, typically motivated by scientific questions in global health, economics, demography, and sociology.</description>
     </item>
     
     <item>
@@ -29,13 +29,13 @@ I&amp;rsquo;m the current Editor of the Journal of Computational and Graphical S
       
       <guid>https://thmccormick.github.io/home/working_papers/</guid>
       <description> Technical reports and working papers Please see arXiv for the most up to date list of working papers.
- Consistently estimating graph statistics using Aggregated Relational Data Estimating spillovers using imprecisely measured networks Modeling the social media relationships of Irish politicians using a generalized latent space stochastic blockmodel Quantifying the contributions of training data and algorithm logic to the performance of automated cause-assignment algorithms for verbal autopsy Standard errors for regression on relational data with exchangeable errors code Examining Racial Segregation in Associative Networks on Twitter Migrants, information, and working conditions in Bangladeshi garment factories  </description>
+ Anomaly Detection in Large Scale Networks with Latent Space Models Consistently estimating graph statistics using Aggregated Relational Data Estimating spillovers using imprecisely measured networks Modeling the social media relationships of Irish politicians using a generalized latent space stochastic blockmodel Quantifying the contributions of training data and algorithm logic to the performance of automated cause-assignment algorithms for verbal autopsy Standard errors for regression on relational data with exchangeable errors code Examining Racial Segregation in Associative Networks on Twitter Migrants, information, and working conditions in Bangladeshi garment factories  </description>
     </item>
     
     <item>
       <title>Contact</title>
       <link>https://thmccormick.github.io/home/contact/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>https://thmccormick.github.io/home/contact/</guid>
       <description></description>
