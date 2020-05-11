@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 -0600</lastBuildDate>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 -0500</lastBuildDate>
     
 	<atom:link href="https://thmccormick.github.io/publications/index.xml" rel="self" type="application/rss+xml" />
     
@@ -18,7 +18,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://thmccormick.github.io/publications/publications/</guid>
-      <description>Breza, E., Chandrasekhar, A. G., McCormick, T. H., and Pan, M. (2019+) Using Aggregated Relational Data to feasibly identify network structure without network data (conditionally accepted, American Economic Review).  code
+      <description>Breza, E., Chandrasekhar, A. G., McCormick, T. H., and Pan, M. (2020+) Using Aggregated Relational Data to feasibly identify network structure without network data (To appear, American Economic Review).  code
  model fitting instructions/pseudocode implementation instructions and survey instruments   Li, Z. R., McCormick, T. H., and Clark, S. J. (2019+).Using Bayesian latent Gaussian graphical models to infer symptom associations in verbal autopsies. To appear, Bayesian Analysis. code</description>
     </item>
     
