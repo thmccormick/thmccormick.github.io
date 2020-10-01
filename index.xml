@@ -752,9 +752,11 @@ alt=&#34;tumblr tracker&#34;
 
 &lt;h2 id=&#34;stat-csss-567&#34;&gt;Stat/CSSS 567&lt;/h2&gt;
 
-&lt;h2 id=&#34;spring-2019-university-of-washington&#34;&gt;Spring 2019, University of Washington&lt;/h2&gt;
+&lt;h2 id=&#34;fall-2020-university-of-washington&#34;&gt;Fall 2020, University of Washington&lt;/h2&gt;
 
-&lt;p&gt;&lt;a href=&#34;https://thmccormick.github.io/class/567_sp19/&#34; target=&#34;_blank&#34;&gt;Main page&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://thmccormick.github.io/class/567_au20/&#34; target=&#34;_blank&#34;&gt;Main page&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.piazza.com/washington/fall2020/csss567&#34; target=&#34;_blank&#34;&gt;Discussion board&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Textbooks:&lt;/strong&gt; Kolaczyk, Eric D. 2009. &lt;em&gt;Statistical Analysis of Network Data&lt;/em&gt; (SAND).  and Kolaczyk, Eric D. and Csárdi, G. 2014. &lt;em&gt;Statistical Analysis of Network Data&lt;/em&gt; (SANDr).  Both are available as pdf from the UW Library website.&lt;/p&gt;
 
@@ -763,7 +765,7 @@ alt=&#34;tumblr tracker&#34;
 &lt;h4 id=&#34;week-1-overview-introductions-week-of-sept-28&#34;&gt;Week 1 Overview &amp;amp; introductions (Week of Sept 28)&lt;/h4&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://docs.google.com/presentation/d/17f22NrGLs0BcbW6CPqJ4azut0s4c-E9txxNm2GSh4G8/edit?usp=sharing&#34; target=&#34;_blank&#34;&gt;Slides&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;[Slides]()&lt;/li&gt;
 &lt;li&gt;SAND chapter 1 &amp;amp; 2&lt;/li&gt;
 &lt;li&gt;Readings:
 
@@ -777,13 +779,13 @@ research&lt;/a&gt;. &lt;em&gt;Social Networks&lt;/em&gt;. 27(2):139-153.&lt;/li&
 approach&lt;/a&gt;. &lt;em&gt;Social Networks&lt;/em&gt;, 25:2:103-140.&lt;/li&gt;
 &lt;li&gt;Shalizi, C. R., &amp;amp; Thomas, A. C. (2011). &lt;a href=&#34;https://journals.sagepub.com/doi/pdf/10.1177/0049124111404820?casa_token=veVI9RKPQkcAAAAA:nruKYkLoX_pNpsLpcoY-pdNp04rz-5uAv9WDmNjf12K2I1Dc1Jokv2GsWMFaSYaZidtwEx9NFcL9OQ&#34; target=&#34;_blank&#34;&gt;Homophily and contagion are generically confounded in observational social network studies&lt;/a&gt;. &lt;em&gt;Sociological methods &amp;amp; research&lt;/em&gt;, 40(2), 211-239.&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;Lab: Introduction to RStudio &amp;amp; Github, SANDr chapter 1&lt;/li&gt;
+&lt;li&gt;Lab: No lab this week; sign up for Github.&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h4 id=&#34;week-2-local-global-properties-of-graphs-week-of-oct-5&#34;&gt;Week 2 Local &amp;amp; global properties of graphs (Week of Oct 5)&lt;/h4&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://docs.google.com/presentation/d/1k1DbYkkCn3wW52WZ4dJ3r9r4_m2edX2HrL_qxN5s_ec/edit?usp=sharing&#34; target=&#34;_blank&#34;&gt;Slides&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;[Slides]()&lt;/li&gt;
 &lt;li&gt;SAND chapter 3 &amp;amp; 4&lt;/li&gt;
 &lt;li&gt;Readings:
 
@@ -798,32 +800,15 @@ approach&lt;/a&gt;. &lt;em&gt;Social Networks&lt;/em&gt;, 25:2:103-140.&lt;/li&g
 Feather: Homophily in Social Networks&lt;/a&gt;.’’ &lt;em&gt;Annual Review of Sociology&lt;/em&gt; 27:415-44&lt;/li&gt;
 &lt;li&gt;Resnick, P., Zeckhauser, R., Swanson, J., and Lockwood, K. (2006). &lt;a href=&#34;http://dx.doi.org/10.1007/s10683-006-4309-2&#34; target=&#34;_blank&#34;&gt;The value of reputation on eBay: A controlled experiment&lt;/a&gt;. Experimental Economics, 9:79-101.&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Lab: Introduction to RStudio &amp;amp; Github, SANDr chapter 1&lt;/li&gt;
 &lt;li&gt;Lab: SANDr chapter 2 &amp;amp; 3 (Graphs &amp;amp; Visualizing graphs)&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h4 id=&#34;week-3-modeling-connections-week-of-oct-12&#34;&gt;Week 3 Modeling connections (Week of Oct 12)&lt;/h4&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://docs.google.com/presentation/d/1oBxN0fl8JEzn0Gk0uGSEoeDG01yFjRdnNzfhPNb4tTE/edit?usp=sharing&#34; target=&#34;_blank&#34;&gt;Slides&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;SAND chapter 6&lt;/li&gt;
-&lt;li&gt;Readings:
-
-&lt;ul&gt;
-&lt;li&gt;D Krackhardt (1988). &lt;a href=&#34;https://www.sciencedirect.com/science/article/pii/0378873388900044&#34; target=&#34;_blank&#34;&gt;Predicting with networks: Nonparametric multiple regression analysis of dyadic data&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;Fafchamps, M., &amp;amp; Gubert, F. (2007). &lt;a href=&#34;https://www.aeaweb.org/articles?id=10.1257/aer.97.2.75&#34; target=&#34;_blank&#34;&gt;Risk sharing and network formation&lt;/a&gt;. &lt;em&gt;American Economic Review&lt;/em&gt;, 97(2), 75-79.&lt;/li&gt;
-&lt;li&gt;Marrs, F. W., Fosdick, B. K., &amp;amp; McCormick, T. H. (2017). &lt;a href=&#34;https://arxiv.org/abs/1701.05530&#34; target=&#34;_blank&#34;&gt;Standard errors for regression on relational data with exchangeable errors&lt;/a&gt;. arXiv preprint arXiv:1701.05530.&lt;/li&gt;
-&lt;li&gt;de Paula, A. (2017) &lt;a href=&#34;https://www.ucl.ac.uk/~uctpand/econometrics_of_network_models_2017.pdf&#34; target=&#34;_blank&#34;&gt;Econometrics of Network Models&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;Chandrasekhar, A., &amp;amp; Lewis, R. (2011). &lt;a href=&#34;Econometrics of Sampled Networks - Stanford University
-https://web.stanford.edu/~arungc/CL.pdf&#34; target=&#34;_blank&#34;&gt;Econometrics of sampled networks&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;Lab: SANDr chapter 4 (Descriptive Analysis of Network Graph Characteristics)&lt;br /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&#34;week-4-modeling-connections-week-of-oct-19&#34;&gt;Week 4 Modeling connections (Week of Oct 19)&lt;/h4&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;em&gt;Note&lt;/em&gt; Homework 1 due April 25.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://docs.google.com/presentation/d/1G7RXSL6Pe60ucSCBdvhm7e416Q5aqjjCLaR5pR1t_Do/edit?usp=sharing&#34; target=&#34;_blank&#34;&gt;Slides&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Note&lt;/em&gt; Homework 1 suggested turn in date around this week.&lt;/li&gt;
+&lt;li&gt;[Slides]()&lt;/li&gt;
 &lt;li&gt;SAND chapter 6&lt;/li&gt;
 &lt;li&gt;Class reading
 
@@ -845,10 +830,10 @@ https://web.stanford.edu/~arungc/CL.pdf&#34; target=&#34;_blank&#34;&gt;Economet
 &lt;li&gt;Lab: Latent variable models for graphs with &lt;em&gt;latentnet&lt;/em&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h4 id=&#34;week-5-modeling-connections-week-of-oct-26&#34;&gt;Week 5 Modeling connections (Week of Oct 26)&lt;/h4&gt;
+&lt;h4 id=&#34;week-4-modeling-connections-week-of-oct-26&#34;&gt;Week 4 Modeling connections (Week of Oct 26)&lt;/h4&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://docs.google.com/presentation/d/15Hv6K0-JnvwNLGi6_FxhacJqAXJHTtitZSElE0AitQs/edit?usp=sharing&#34; target=&#34;_blank&#34;&gt;Slides&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;[Slides]()&lt;/li&gt;
 &lt;li&gt;Class reading
 
 &lt;ul&gt;
@@ -866,11 +851,12 @@ https://web.stanford.edu/~arungc/CL.pdf&#34; target=&#34;_blank&#34;&gt;Economet
 &lt;li&gt;Lab: SANDr chapter 6 (Statistical Models for Network Graphs, ERGMs)&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h4 id=&#34;week-6-peer-influence-spillovers-week-of-nov-2&#34;&gt;Week 6 Peer influence &amp;amp; spillovers (Week of Nov 2)&lt;/h4&gt;
+&lt;h4 id=&#34;week-5-peer-influence-spillovers-week-of-nov-2&#34;&gt;Week 5 Peer influence &amp;amp; spillovers (Week of Nov 2)&lt;/h4&gt;
 
 &lt;ul&gt;
-&lt;li&gt;No class Nov 3; Election day.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://docs.google.com/presentation/d/1dHXb4zv6LUVbvLl6H_2ncV2ZMm1EWWMlIbShgVn6XWc/edit?usp=sharing&#34; target=&#34;_blank&#34;&gt;Slides&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;No class Nov 3; Election day.&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;We&amp;rsquo;ll discuss class readings on Thursday and presentation readings will be asynchronous.&lt;/li&gt;
+&lt;li&gt;[Slides]()&lt;/li&gt;
 &lt;li&gt;Class readings:
 
 &lt;ul&gt;
@@ -895,10 +881,10 @@ https://web.stanford.edu/~arungc/CL.pdf&#34; target=&#34;_blank&#34;&gt;Economet
 &lt;li&gt;Lab: Hoff (2016). “&lt;a href=&#34;https://arxiv.org/pdf/1506.08237.pdf&#34; target=&#34;_blank&#34;&gt;Dyadic data analysis with amen&lt;/a&gt;”&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h4 id=&#34;week-7-peer-influence-spillovers-week-of-nov-10&#34;&gt;Week 7 Peer influence &amp;amp; spillovers (Week of Nov 10)&lt;/h4&gt;
+&lt;h4 id=&#34;week-6-peer-influence-spillovers-week-of-nov-10&#34;&gt;Week 6 Peer influence &amp;amp; spillovers (Week of Nov 10)&lt;/h4&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://docs.google.com/presentation/d/1k9wBQoQvCllfrMvRbgulhD5AwAfspppWvrI4K2x9lBQ/edit?usp=sharing&#34; target=&#34;_blank&#34;&gt;Slides&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;[Slides]()&lt;/li&gt;
 &lt;li&gt;Readings
 
 &lt;ul&gt;
@@ -920,10 +906,10 @@ https://web.stanford.edu/~arungc/CL.pdf&#34; target=&#34;_blank&#34;&gt;Economet
 &lt;li&gt;Lab: Fitting the linear in means model&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h4 id=&#34;week-8-collecting-network-data-week-of-nov-16&#34;&gt;Week 8 Collecting network data (Week of Nov 16)&lt;/h4&gt;
+&lt;h4 id=&#34;week-7-collecting-network-data-week-of-nov-16&#34;&gt;Week 7 Collecting network data (Week of Nov 16)&lt;/h4&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://docs.google.com/presentation/d/16DSGTBhQ3oE01X-p_Wx1iAmYXfDGbAGlsrPoIIdFgrk/edit?usp=sharing&#34; target=&#34;_blank&#34;&gt;Slides&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;[Slides]()&lt;/li&gt;
 &lt;li&gt;SAND chapter 5&lt;/li&gt;
 &lt;li&gt;Class readings
 
@@ -943,11 +929,16 @@ https://web.stanford.edu/~arungc/CL.pdf&#34; target=&#34;_blank&#34;&gt;Economet
 &lt;li&gt;Lab: Exploring missing data &amp;amp; egocentric graphs&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h4 id=&#34;week-9-network-models-in-the-era-of-big-data-week-of-nov-23&#34;&gt;Week 9 Network models in the era of &amp;ldquo;big data&amp;rdquo; (Week of Nov 23)&lt;/h4&gt;
+&lt;h4 id=&#34;week-8-network-models-in-the-era-of-big-data-week-of-nov-23&#34;&gt;Week 8 Network models in the era of &amp;ldquo;big data&amp;rdquo; (Week of Nov 23)&lt;/h4&gt;
 
 &lt;ul&gt;
-&lt;li&gt;No class thanksgiving&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://docs.google.com/presentation/d/1IuaKE4ns3udxUx9j86EWeRAbgkaiWkrgXuexkKy8JTs/edit?usp=sharing&#34; target=&#34;_blank&#34;&gt;Slides&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;No class; holiday.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;week-9-week-of-nov-30&#34;&gt;Week 9 (Week of Nov 30)&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;[Slides]()&lt;/li&gt;
 &lt;li&gt;Class readings:
 
 &lt;ul&gt;
@@ -957,14 +948,7 @@ https://web.stanford.edu/~arungc/CL.pdf&#34; target=&#34;_blank&#34;&gt;Economet
 &lt;li&gt;Goel, S., Watts, D. J., &amp;amp; Goldstein, D. G. (2012, June). &lt;a href=&#34;https://dl.acm.org/citation.cfm?id=2229058&#34; target=&#34;_blank&#34;&gt;The structure of online diffusion networks&lt;/a&gt;. In &lt;em&gt;Proceedings of the 13th ACM conference on electronic commerce&lt;/em&gt; (pp. 623-638). ACM.&lt;/li&gt;
 &lt;li&gt;Eagle, N., Pentland, A. S., &amp;amp; Lazer, D. (2009). &lt;a href=&#34;https://www.pnas.org/content/106/36/15274&#34; target=&#34;_blank&#34;&gt;Inferring friendship network structure by using mobile phone data&lt;/a&gt;. &lt;em&gt;Proceedings of the National Academy of Sciences&lt;/em&gt;, 106(36), 15274-15278.&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;Presentation readings: &lt;strong&gt;No Class on May 30.&lt;/strong&gt;  We will do presentations Tuesday, June 4.&lt;/li&gt;
-&lt;li&gt;Lab: Scrape data using &lt;a href=&#34;https://rtweet.info/&#34; target=&#34;_blank&#34;&gt;&lt;em&gt;rtweet&lt;/em&gt;&lt;/a&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&#34;week-10-week-of-nov-30&#34;&gt;Week 10 (Week of Nov 30)&lt;/h4&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Presentation readings from ``big data&amp;rdquo; readings:
+&lt;li&gt;Presentation readings:
 
 &lt;ul&gt;
 &lt;li&gt;Narayanan, A., Shi, E., &amp;amp; Rubinstein, B. I. (2011). &lt;a href=&#34;https://arxiv.org/pdf/1102.4374&#34; target=&#34;_blank&#34;&gt;Link prediction by de-anonymization: How we won the kaggle social network challenge&lt;/a&gt;. In The 2011 International Joint Conference on Neural Networks (pp. 1825-1834). IEEE.&lt;/li&gt;
@@ -972,12 +956,14 @@ https://web.stanford.edu/~arungc/CL.pdf&#34; target=&#34;_blank&#34;&gt;Economet
 &lt;li&gt;Salganik, M.J., Dodds, P.S., Watts, D.J. (2006). &lt;a href=&#34;http://dx.doi.org/10.1126/science.1121066&#34; target=&#34;_blank&#34;&gt;Experimental study of inequality and unpredictability in an artificial cultural market&lt;/a&gt;. Science, 311:854-856 (also read supporting online materials).&lt;/li&gt;
 &lt;li&gt;Kossinets, G., &amp;amp; Watts, D. J. (2009). &lt;a href=&#34;https://www.jstor.org/stable/pdf/10.1086/599247.pdf?casa_token=2y9LjAaHFAAAAAAA:t8ODqKWOPyg7Af53eMB0zS32LxU_pe1VgUgZGy1K-5ZjA-l4yJ8uOoOQuuartWbOYAUR6KDpMkrb92w3619xulnJmW1EcO404mUXF8r-WlZZyK7ATQ&#34; target=&#34;_blank&#34;&gt;Origins of homophily in an evolving social network&lt;/a&gt;. &lt;em&gt;American Journal of Sociology&lt;/em&gt;, 115(2), 405-450.&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;Thursday: Final poster session.&lt;/li&gt;
-&lt;li&gt;No lab.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://depts.washington.edu/csscr/posters/&#34; target=&#34;_blank&#34;&gt;Instructions for printing posters&lt;/a&gt;.  &lt;strong&gt;Note:&lt;/strong&gt; CSSCR requires that posters be submitted at least one day in advance.&lt;/li&gt;
+&lt;li&gt;Lab: Scrape data using &lt;a href=&#34;https://rtweet.info/&#34; target=&#34;_blank&#34;&gt;&lt;em&gt;rtweet&lt;/em&gt;&lt;/a&gt;.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h4 id=&#34;week-11-week-of-dec-7&#34;&gt;Week 11 (Week of Dec 7)&lt;/h4&gt;
+&lt;h4 id=&#34;week-10-week-of-dec-7&#34;&gt;Week 10 (Week of Dec 7)&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Virtual poster sessions.&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
@@ -1262,7 +1248,7 @@ https://web.stanford.edu/~arungc/CL.pdf&#34; target=&#34;_blank&#34;&gt;Economet
 
 &lt;h2 id=&#34;stat-csss-567&#34;&gt;Stat/CSSS 567&lt;/h2&gt;
 
-&lt;h2 id=&#34;spring-2019-university-of-washington&#34;&gt;Spring 2019, University of Washington&lt;/h2&gt;
+&lt;h2 id=&#34;fall-2020-university-of-washington&#34;&gt;Fall 2020, University of Washington&lt;/h2&gt;
 
 &lt;p&gt;&lt;a href=&#34;https://thmccormick.github.io/class/567_aut20_schedule/&#34; target=&#34;_blank&#34;&gt;Course schedule&lt;/a&gt;&lt;/p&gt;
 
@@ -1331,9 +1317,12 @@ In weeks 4-9, Tuesday lectures will present statistical methods and Thursday lec
 &lt;li&gt;Papers for presentation are listed on the course schedule.  Please sign up for papers &lt;a href=&#34;https://docs.google.com/document/d/1L-yBhOmXpTSqoVsCYw34CS_kVKyt0j0HlOUe9K0ohxk/edit?usp=sharing&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;br /&gt;&lt;/li&gt;
 &lt;li&gt;There are four slots (80 minutes) per class period.  Give the size of the class, all slots will likely fill, so please sign up early!&lt;/li&gt;
 &lt;li&gt;You&amp;rsquo;re &lt;em&gt;encouraged&lt;/em&gt; (but not required) to upload a video presentation to Canvas beforehand and use the time during class for questions and discussion.&lt;/li&gt;
-&lt;li&gt;Along with your presentation, your group should prepare a referee report on the paper you read.  The goal is to be constructive, not critical.  There is no due date for the referee report, but you should post your referee report in a new thread on &lt;a href=&#34;http://www.piazza.com/washington/fall2020/csss567&#34; target=&#34;_blank&#34;&gt;Piazza&lt;/a&gt; when you finish it so others can read and respond.  Posting before your presentation is encouraged.  The best reports will raise questions that could lead to new research ideas.  This document should be 2-5 pages in length and include&lt;/li&gt;
+&lt;li&gt;Along with your presentation, your group should prepare a referee report on the paper you read.  The goal is to be constructive, not critical.  There is no due date for the referee report, but you should post your referee report in a new thread on &lt;a href=&#34;http://www.piazza.com/washington/fall2020/csss567&#34; target=&#34;_blank&#34;&gt;Piazza&lt;/a&gt; when you finish it so others can read and respond.  Posting before your presentation is encouraged.  The best reports will raise questions that could lead to new research ideas.  This document should be 2-5 pages in length and include
+
+&lt;ul&gt;
 &lt;li&gt;A brief synopsis of the paper (including main points, key evidence, and areas for future work)&lt;/li&gt;
 &lt;li&gt;A series of &amp;ldquo;major points&amp;rdquo; listed as questions or open areas for further development by the author(s).&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;&lt;strong&gt;Final project:&lt;/strong&gt;
