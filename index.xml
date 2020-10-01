@@ -765,7 +765,7 @@ alt=&#34;tumblr tracker&#34;
 &lt;h4 id=&#34;week-1-overview-introductions-week-of-sept-28&#34;&gt;Week 1 Overview &amp;amp; introductions (Week of Sept 28)&lt;/h4&gt;
 
 &lt;ul&gt;
-&lt;li&gt;[Slides]()&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.google.com/presentation/d/1kYtuWBN6O3iaM8V1MbRL5ye_kfwr2AONMYVVjpKZ4fA/edit?usp=sharing&#34; target=&#34;_blank&#34;&gt;Slides&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;SAND chapter 1 &amp;amp; 2&lt;/li&gt;
 &lt;li&gt;Readings:
 
@@ -801,8 +801,7 @@ approach&lt;/a&gt;. &lt;em&gt;Social Networks&lt;/em&gt;, 25:2:103-140.&lt;/li&g
 Feather: Homophily in Social Networks&lt;/a&gt;.’’ &lt;em&gt;Annual Review of Sociology&lt;/em&gt; 27:415-44&lt;/li&gt;
 &lt;li&gt;Resnick, P., Zeckhauser, R., Swanson, J., and Lockwood, K. (2006). &lt;a href=&#34;http://dx.doi.org/10.1007/s10683-006-4309-2&#34; target=&#34;_blank&#34;&gt;The value of reputation on eBay: A controlled experiment&lt;/a&gt;. Experimental Economics, 9:79-101.&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;Lab: Introduction to RStudio &amp;amp; Github, SANDr chapter 1&lt;/li&gt;
-&lt;li&gt;Lab: SANDr chapter 2 &amp;amp; 3 (Graphs &amp;amp; Visualizing graphs)&lt;/li&gt;
+&lt;li&gt;Lab: Introduction to RStudio &amp;amp; Github, SANDr chapter 2 &amp;amp; 3 (Graphs &amp;amp; Visualizing graphs)&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h4 id=&#34;week-3-modeling-connections-week-of-oct-12&#34;&gt;Week 3 Modeling connections (Week of Oct 12)&lt;/h4&gt;
@@ -1260,7 +1259,7 @@ https://web.stanford.edu/~arungc/CL.pdf&#34; target=&#34;_blank&#34;&gt;Economet
 &lt;ul&gt;
 &lt;li&gt;Please participate as much as possible.  This could mean attending syncronously, asking questions during class, participating in the &lt;a href=&#34;http://www.piazza.com/washington/fall2020/csss567&#34; target=&#34;_blank&#34;&gt;discussion board&lt;/a&gt;, and so forth.  No need to let me know if you can&amp;rsquo;t do these things at times; I understand.&lt;br /&gt;&lt;/li&gt;
 &lt;li&gt;You&amp;rsquo;re never required to have on video/audio.  Again, please participate as much as you can.&lt;/li&gt;
-&lt;li&gt;There are no firm due dates for assignments.  You don&amp;rsquo;t need to ask for extensions.  We&amp;rsquo;ll grade things as they come in and assign grades at the end of the quarter only for those who have completed all the assignments.  For those who haven&amp;rsquo;t, we&amp;rsquo;ll record incompletes until you&amp;rsquo;re able  to finish.&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;There are no firm due dates for assignments.  You don&amp;rsquo;t need to ask for extensions.  We&amp;rsquo;ll grade things as they come in and assign grades at the end of the quarter only for those who have completed all the assignments.  For those who haven&amp;rsquo;t, we&amp;rsquo;ll record incomplete until you&amp;rsquo;re able  to finish.&lt;br /&gt;&lt;/li&gt;
 &lt;li&gt;Please let me know if you have questions or suggestions.&lt;br /&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
@@ -1277,9 +1276,9 @@ https://web.stanford.edu/~arungc/CL.pdf&#34; target=&#34;_blank&#34;&gt;Economet
 &lt;h3 id=&#34;where-do-i-find&#34;&gt;Where do I find&amp;hellip;&lt;/h3&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Email: Please use tylermc@uw.edu to contact me.  I won&amp;rsquo;t check messages on Cavnas very frequently.&lt;/li&gt;
+&lt;li&gt;Email: Please use tylermc@uw.edu to contact me.  I won&amp;rsquo;t check messages on Canvas very frequently.&lt;/li&gt;
 &lt;li&gt;Slides and papers: On the course calendar (see link above)&lt;/li&gt;
-&lt;li&gt;Lecture recordings: Automatically saved and available through Canvas.&lt;/li&gt;
+&lt;li&gt;Lecture and lab recordings: Available through Canvas.&lt;/li&gt;
 &lt;li&gt;Questions on course material: We&amp;rsquo;ll be using Piazza for discussions.  If you run into issues or have a question, start with Piazza!  Signup link &lt;a href=&#34;http://www.piazza.com/washington/fall2020/csss567&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/li&gt;
 &lt;/ul&gt;
 
