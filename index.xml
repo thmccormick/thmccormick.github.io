@@ -804,33 +804,50 @@ Feather: Homophily in Social Networks&lt;/a&gt;.’’ &lt;em&gt;Annual Review o
 &lt;li&gt;Lab: Introduction to RStudio &amp;amp; Github, SANDr chapter 2 &amp;amp; 3 (Graphs &amp;amp; Visualizing graphs)&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h4 id=&#34;week-3-modeling-connections-week-of-oct-12&#34;&gt;Week 3 Modeling connections (Week of Oct 12)&lt;/h4&gt;
+&lt;h4 id=&#34;week-3-modeling-connections-overview-sbm-week-of-oct-12&#34;&gt;Week 3 Modeling connections (overview/SBM) (Week of Oct 12)&lt;/h4&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;em&gt;Note&lt;/em&gt; Homework 1 suggested turn in date around this week.&lt;/li&gt;
 &lt;li&gt;[Slides]()&lt;/li&gt;
 &lt;li&gt;SAND chapter 6&lt;/li&gt;
 &lt;li&gt;Class reading
 
 &lt;ul&gt;
+&lt;li&gt;D Krackhardt (1988). &lt;a href=&#34;https://www.sciencedirect.com/science/article/pii/0378873388900044&#34; target=&#34;_blank&#34;&gt;Predicting with networks: Nonparametric multiple regression analysis of dyadic data&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Fafchamps, M., &amp;amp; Gubert, F. (2007). &lt;a href=&#34;https://www.aeaweb.org/articles?id=10.1257/aer.97.2.75&#34; target=&#34;_blank&#34;&gt;Risk sharing and network formation&lt;/a&gt;. &lt;em&gt;American Economic Review&lt;/em&gt;, 97(2), 75-79.&lt;/li&gt;
 &lt;li&gt;Holland, P. W., Laskey, K., and Leinhardt, S. &lt;a href=&#34;https://www.sciencedirect.com/science/article/pii/0378873383900217&#34; target=&#34;_blank&#34;&gt;Stochastic blockmodels: First steps&lt;/a&gt;. Social networks 5, no. 2 (1983): 109-137.&lt;/li&gt;
 &lt;li&gt;Snijders, T., and K. Nowicki. (1997) &lt;a href=&#34;https://link.springer.com/article/10.1007/s003579900004&#34; target=&#34;_blank&#34;&gt;Estimation and prediction for stochastic blockmodels for graphs with latent block structure&lt;/a&gt;. &lt;em&gt;Journal of Classification&lt;/em&gt; 14(1), 75-100.&lt;/li&gt;
+&lt;li&gt;Airoldi, E. M., Blei, D. M., Fienberg, S. E., &amp;amp; Xing, E. P. (2008). &lt;a href=&#34;http://www.jmlr.org/papers/v9/airoldi08a.html&#34; target=&#34;_blank&#34;&gt;Mixed membership stochastic blockmodels&lt;/a&gt;. Journal of Machine Learning Research, 9(Sep), 1981-2014.&lt;/li&gt;
+&lt;li&gt;Rohe, K., Chatterjee, S., &amp;amp; Yu, B. (2011). Spectral clustering and the high-dimensional stochastic blockmodel. The Annals of Statistics, 39(4), 1878-1915.&lt;/li&gt;
+&lt;li&gt;Chandrasekhar, A., &amp;amp; Lewis, R. (2011). &lt;a href=&#34;https://web.stanford.edu/~arungc/CL.pdf&#34; target=&#34;_blank&#34;&gt;Econometrics of sampled networks&lt;/a&gt;
+&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;week-4-modeling-connections-latent-distance-models-week-of-oct-19&#34;&gt;Week 4 Modeling connections (latent distance models) (Week of Oct 19)&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;[Slides]()&lt;/li&gt;
+&lt;li&gt;SAND chapter 6&lt;/li&gt;
+&lt;li&gt;Class reading
+
+&lt;ul&gt;
 &lt;li&gt;Hoff, P. D., Raftery, A. E., &amp;amp; Handcock, M. S. (2002). &lt;a href=&#34;https://amstat.tandfonline.com/doi/abs/10.1198/016214502388618906?casa_token=JqrvNUHREccAAAAA:ute3MISdlJT06JAD6a5WVDDWZ7QlEUuSZGoy-_du5rSkAFQAelVoCVuuW5riUztR11tjorKvkFXL3A&#34; target=&#34;_blank&#34;&gt;Latent space approaches to social network analysis&lt;/a&gt;. &lt;em&gt;Journal of the American Statistical Association&lt;/em&gt;, 97(460), 1090-1098.&lt;/li&gt;
 &lt;li&gt;Hoff, P. D. (2005). &lt;a href=&#34;https://amstat.tandfonline.com/doi/abs/10.1198/016214504000001015?casa_token=tYI9wu9ugGUAAAAA:hkaCPZPD8triU8gix7AT-aX3YKPLO2T79dm1264nFmbzXy5ZwW0BriUEk70Qtu2TyxDYKYAWQnMGVw#.XJPI8lNKjBI&#34; target=&#34;_blank&#34;&gt;Bilinear mixed-effects models for dyadic data&lt;/a&gt;. &lt;em&gt;Journal of the American Statistical Association&lt;/em&gt;, 100(469), 286-295.&lt;/li&gt;
 &lt;li&gt;Hoff, P. (2008). &lt;a href=&#34;http://papers.nips.cc/paper/3294-modeling-homophily-and-stochastic-equivalence-in-symmetric-relational-data&#34; target=&#34;_blank&#34;&gt;Modeling homophily and stochastic equivalence in symmetric relational data&lt;/a&gt;. In &lt;em&gt;Advances in Neural Information Processing Systems&lt;/em&gt; (pp. 657-664).&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;Presentation reading:
+&lt;li&gt;Presentation reading
 
 &lt;ul&gt;
+&lt;li&gt;Airoldi, E. M., Costa, T. B., &amp;amp; Chan, S. H. (2013). &lt;a href=&#34;http://papers.nips.cc/paper/5047-stochastic-blockmodel-approximation-of-a-graphon-theory-and-consistent-estimation.pdf&#34; target=&#34;_blank&#34;&gt;Stochastic blockmodel approximation of a graphon: Theory and consistent estimation&lt;/a&gt;. In &lt;em&gt;Advances in Neural Information Processing Systems&lt;/em&gt; (pp. 692-700). &lt;em&gt;Note&lt;/em&gt;: This is a more technical reading.&lt;/li&gt;
+&lt;li&gt;de Paula, A. (2017) &lt;a href=&#34;https://www.ucl.ac.uk/~uctpand/econometrics_of_network_models_2017.pdf&#34; target=&#34;_blank&#34;&gt;Econometrics of Network Models&lt;/a&gt;.&lt;/li&gt;
 &lt;li&gt;Fosdick, B. K., &amp;amp; Hoff, P. D. (2015). &lt;a href=&#34;https://www.tandfonline.com/doi/abs/10.1080/01621459.2015.1008697?casa_token=G_VykZ_JAKcAAAAA:EyZWCMC5VdrY5b_icuEhFX3jR9CxCyQE_nZeC71i7G78Dd6uk1P9wZi_AzIfvq3sMU0KA3_Z3iVkNg&#34; target=&#34;_blank&#34;&gt;Testing and modeling dependencies between a network and nodal attributes&lt;/a&gt;. &lt;em&gt;Journal of the American Statistical Association&lt;/em&gt;, 110(511), 1047-1056.&lt;/li&gt;
 &lt;li&gt;Ward, M. D., Siverson, R. M., &amp;amp; Cao, X. (2007). &lt;a href=&#34;https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1540-5907.2007.00269.x&#34; target=&#34;_blank&#34;&gt;Disputes, democracies, and dependencies: A reexamination of the Kantian peace&lt;/a&gt;. &lt;em&gt;American Journal of Political Science&lt;/em&gt;, 51(3), 583-601.&lt;/li&gt;
 &lt;li&gt;Barberá, P. (2015). &lt;a href=&#34;https://www.cambridge.org/core/journals/political-analysis/article/birds-of-the-same-feather-tweet-together-bayesian-ideal-point-estimation-using-twitter-data/91E37205F69AEA32EF27F12563DC2A0A&#34; target=&#34;_blank&#34;&gt;Birds of the same feather tweet together: Bayesian ideal point estimation using Twitter data&lt;/a&gt;. &lt;em&gt;Political Analysis&lt;/em&gt;, 23(1), 76-91.&lt;/li&gt;
-&lt;li&gt;Airoldi, E. M., Blei, D. M., Fienberg, S. E., &amp;amp; Xing, E. P. (2008). &lt;a href=&#34;http://www.jmlr.org/papers/v9/airoldi08a.html&#34; target=&#34;_blank&#34;&gt;Mixed membership stochastic blockmodels&lt;/a&gt;. Journal of Machine Learning Research, 9(Sep), 1981-2014.&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
 &lt;li&gt;Lab: Latent variable models for graphs with &lt;em&gt;latentnet&lt;/em&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h4 id=&#34;week-4-modeling-connections-week-of-oct-26&#34;&gt;Week 4 Modeling connections (Week of Oct 26)&lt;/h4&gt;
+&lt;h4 id=&#34;week-5-modeling-connections-ergms-week-of-oct-26&#34;&gt;Week 5 Modeling connections (ERGMs) (Week of Oct 26)&lt;/h4&gt;
 
 &lt;ul&gt;
 &lt;li&gt;[Slides]()&lt;/li&gt;
@@ -839,6 +856,9 @@ Feather: Homophily in Social Networks&lt;/a&gt;.’’ &lt;em&gt;Annual Review o
 &lt;ul&gt;
 &lt;li&gt;Robins, G. et al (2006) “&lt;a href=&#34;https://www.sciencedirect.com/science/article/pii/S0378873306000372&#34; target=&#34;_blank&#34;&gt;An introduction to exponential random graph (p*) models for social networks&lt;/a&gt;” Social Networks p173-191&lt;/li&gt;
 &lt;li&gt;Hunter, D. R., Krivitsky, P. N., &amp;amp; Schweinberger, M. (2012). &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3697157/&#34; target=&#34;_blank&#34;&gt;Computational statistical methods for social network models&lt;/a&gt;. Journal of Computational and Graphical Statistics, 21(4), 856-882.&lt;/li&gt;
+&lt;li&gt;Snijders, Tom AB, Philippa E. Pattison, Garry L. Robins, and Mark S. Handcock. &lt;a href=&#34;https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1467-9531.2006.00176.x?casa_token=EK4vgK7QKiIAAAAA:0FN7PIqpeE6pR1R8Yw1vblTdhyQyXJ2GHfudUsUvng6FiQmLc7exnyJMuvkd2RSjeJP5kM989HJ3Eg&#34; target=&#34;_blank&#34;&gt;New specifications for exponential random graph models&lt;/a&gt;. &lt;em&gt;Sociological methodology&lt;/em&gt; 36, no. 1 (2006): 99-153.&lt;/li&gt;
+&lt;li&gt;Robins, G., Snijders, T., Wang, P., Handcock, M., &amp;amp; Pattison, P. (2007). &lt;a href=&#34;https://www.sciencedirect.com/science/article/pii/S0378873306000384?casa_token=V_7BMwLt5_oAAAAA:xqnQ4SWbDf__gc4n1a8ae3vEVHD0nnBOh35aR45RoZgK6lVrIgqQLbK2xPyK9pb4T3wC4Obg&#34; target=&#34;_blank&#34;&gt;Recent developments in exponential random graph (p*) models for social networks&lt;/a&gt;. &lt;em&gt;Social networks&lt;/em&gt;, 29(2), 192-215.&lt;/li&gt;
+&lt;li&gt;Hunter, D. R., Handcock, M. S., Butts, C. T., Goodreau, S. M., &amp;amp; Morris, M. (2008). &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2743438/&#34; target=&#34;_blank&#34;&gt;ergm: A package to fit, simulate and diagnose exponential-family models for networks&lt;/a&gt;. &lt;em&gt;Journal of statistical software&lt;/em&gt;, 24(3).&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
 &lt;li&gt;Presentation reading
 
@@ -881,7 +901,7 @@ Feather: Homophily in Social Networks&lt;/a&gt;.’’ &lt;em&gt;Annual Review o
 &lt;li&gt;Lab: Hoff (2016). “&lt;a href=&#34;https://arxiv.org/pdf/1506.08237.pdf&#34; target=&#34;_blank&#34;&gt;Dyadic data analysis with amen&lt;/a&gt;”&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h4 id=&#34;week-6-peer-influence-spillovers-week-of-nov-10&#34;&gt;Week 6 Peer influence &amp;amp; spillovers (Week of Nov 10)&lt;/h4&gt;
+&lt;h4 id=&#34;week-6-peer-influence-spillovers-week-of-nov-9&#34;&gt;Week 6 Peer influence &amp;amp; spillovers (Week of Nov 9)&lt;/h4&gt;
 
 &lt;ul&gt;
 &lt;li&gt;[Slides]()&lt;/li&gt;
