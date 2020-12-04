@@ -34,16 +34,18 @@
 
 &lt;li&gt;&lt;p&gt;Green, A., McCormick, T. H., &amp;amp; Raftery, A. E. (2020). &lt;a href=&#34;https://academic.oup.com/biomet/advance-article-abstract/doi/10.1093/biomet/asz067/5715616&#34; target=&#34;_blank&#34;&gt;Consistency for the tree bootstrap in respondent-driven sampling&lt;/a&gt;. &lt;em&gt;Biometrika (Miscellanea),&lt;/em&gt; 107, 2.&lt;/p&gt;&lt;/li&gt;
 
-&lt;li&gt;&lt;p&gt;Kunihama, T., Li, Z. R., Clark, S. J., &amp;amp; McCormick, T. H. (2020). &lt;a href=&#34;https://arxiv.org/abs/1803.01327&#34; target=&#34;_blank&#34;&gt;Bayesian factor models for probabilistic cause of death assessment with verbal autopsies&lt;/a&gt;. To appear, &lt;em&gt;Annals of Applied Statistics,&lt;/em&gt; 14, 1. &lt;a href=&#34;https://github.com/kunihama/VA-code&#34; target=&#34;_blank&#34;&gt;code&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Kunihama, T., Li, Z. R., Clark, S. J., &amp;amp; McCormick, T. H. (2020). &lt;a href=&#34;https://arxiv.org/abs/1803.01327&#34; target=&#34;_blank&#34;&gt;Bayesian factor models for probabilistic cause of death assessment with verbal autopsies&lt;/a&gt;. &lt;em&gt;Annals of Applied Statistics,&lt;/em&gt; 14, 1. &lt;a href=&#34;https://github.com/kunihama/VA-code&#34; target=&#34;_blank&#34;&gt;code&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
 
 &lt;li&gt;&lt;p&gt;Li, Z. R., McCormick, T. H., &amp;amp; Clark, S. J. (2020) &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32213178/&#34; target=&#34;_blank&#34;&gt;Non-confirming Replication of ``Performance of InSilicoVA for Assigning Causes of Death to Verbal Autopsies: Multisite Validation Study using Clinical Diagnostic Gold Standards&amp;rdquo;&lt;/a&gt;, BMC Medicine 2018; 16:56. &lt;em&gt;BMC Medicine,&lt;/em&gt; 18, 69.&lt;/p&gt;&lt;/li&gt;
 
 &lt;li&gt;&lt;p&gt;Li, Z. R., McCormick, T. H., and Clark, S. J. (2019). &lt;a href=&#34;https://arxiv.org/abs/1805.07051&#34; target=&#34;_blank&#34;&gt;Bayesian Joint Spike-and-Slab Graphical Lasso&lt;/a&gt;. In &lt;em&gt;Proceedings of the 35th International Conference on Machine Learning (ICML)&lt;/em&gt;.&lt;/p&gt;&lt;/li&gt;
 
-&lt;li&gt;&lt;p&gt;Li, Z. R., &amp;amp; McCormick, T. H. (2019). &lt;a href=&#34;https://arxiv.org/abs/1709.06970&#34; target=&#34;_blank&#34;&gt;An Expectation Conditional Maximization approach for Gaussian graphical models&lt;/a&gt;. To appear, &lt;em&gt;Journal of Computational and Graphical Statistics,&lt;/em&gt; 28, 4. &lt;a href=&#34;https://
+&lt;li&gt;&lt;p&gt;Li, Z. R., &amp;amp; McCormick, T. H. (2019). &lt;a href=&#34;https://arxiv.org/abs/1709.06970&#34; target=&#34;_blank&#34;&gt;An Expectation Conditional Maximization approach for Gaussian graphical models&lt;/a&gt;. &lt;em&gt;Journal of Computational and Graphical Statistics,&lt;/em&gt; 28, 4. &lt;a href=&#34;https://
 github.com/richardli/EMGS&#34; target=&#34;_blank&#34;&gt;code&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
 
 &lt;li&gt;&lt;p&gt;Eadie, G., Huppenkothen, D., Springford, E., &amp;amp; McCormick, T. H. (2019). &lt;a href=&#34;https://arxiv.org/abs/1904.11006&#34; target=&#34;_blank&#34;&gt;Introducing Bayesian Analysis with m&amp;amp;m’s: an active-learning exercise for undergraduates&lt;/a&gt;. &lt;em&gt;Journal of Statistics Education,&lt;/em&gt; 27, 2. &lt;a href=&#34;https://github.com/gweneadie/BayesianMandMs&#34; target=&#34;_blank&#34;&gt;code&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Wang, F., McCormick, T. H., Rudin, C., and Gore, J. (2019). &lt;a href=&#34;http://arxiv.org/abs/1504.06964&#34; target=&#34;_blank&#34;&gt;Modeling recovery curves with application to Prostatectomy&lt;/a&gt;. &lt;em&gt;Biostatistics,&lt;/em&gt; 20, 4. &lt;a href=&#34;https://github.com/fultonwang/recovery_curve&#34; target=&#34;_blank&#34;&gt;code&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
 
 &lt;li&gt;&lt;p&gt;Westling, T., &amp;amp; McCormick, T. H. (2019). &lt;a href=&#34;http://arxiv.org/abs/1510.08151&#34; target=&#34;_blank&#34;&gt;Beyond prediction: A framework for inference with variational approximations in mixture models&lt;/a&gt;. &lt;em&gt;Journal of Computational and Graphical Statistics&lt;/em&gt;, 28, 4. &lt;a href=&#34;https://github.com/tedwestling/variational_asymptotics&#34; target=&#34;_blank&#34;&gt;code&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
 
@@ -54,11 +56,9 @@ Aleksandrowicz, L., Shah, P., Piyasena, K., McCormick, T. H., Gelband, H. &amp;a
 
 &lt;li&gt;&lt;p&gt;Cesare, N., Lee, H., McCormick, T. H., Spiro, E., and Zagheni, E. (2018). &lt;a href=&#34;http://ssrn.com/abstract=2839585&#34; target=&#34;_blank&#34;&gt;Promises and pitfalls of using digital traces for demographic research&lt;/a&gt;. &lt;em&gt;Demography,&lt;/em&gt; 55, 1979-1999.&lt;/p&gt;&lt;/li&gt;
 
-&lt;li&gt;&lt;p&gt;Wang, F., McCormick, T. H., Rudin, C., and Gore, J. (2018+). &lt;a href=&#34;http://arxiv.org/abs/1504.06964&#34; target=&#34;_blank&#34;&gt;Modeling recovery curves with application to Prostatectomy&lt;/a&gt;. To appear, &lt;em&gt;Biostatistics.&lt;/em&gt; &lt;a href=&#34;https://github.com/fultonwang/recovery_curve&#34; target=&#34;_blank&#34;&gt;code&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-
 &lt;li&gt;&lt;p&gt;Lee, W., Fosdick, B., and McCormick, T. H. (2018). &lt;a href=&#34;http://arxiv.org/abs/1609.02629&#34; target=&#34;_blank&#34;&gt;Inferring social structure from continuous-time interaction data&lt;/a&gt;. Discussion paper. &lt;em&gt;Applied Stochastic Models in Business and Industry&lt;/em&gt;, 34, 87-104. &lt;a href=&#34;https://github.com/wesleytlee/relational-event-networks&#34; target=&#34;_blank&#34;&gt;code&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
 
-&lt;li&gt;&lt;p&gt;Clark, S., Wakefield, J, McCormick, T. H., and Ross, M. (2018+). &lt;a href=&#34;https://arxiv.org/abs/1504.02124&#34; target=&#34;_blank&#34;&gt;Hyak mortality monitoring system: Innovative sampling and estimation methods&lt;/a&gt;. To appear, &lt;em&gt;Global Health, Epidemiology and Genomics&lt;/em&gt;.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Clark, S., Wakefield, J, McCormick, T. H., and Ross, M. (2018). &lt;a href=&#34;https://arxiv.org/abs/1504.02124&#34; target=&#34;_blank&#34;&gt;Hyak mortality monitoring system: Innovative sampling and estimation methods&lt;/a&gt;. &lt;em&gt;Global Health, Epidemiology and Genomics,&lt;/em&gt; 3, E3.&lt;/p&gt;&lt;/li&gt;
 
 &lt;li&gt;&lt;p&gt;Salter-Townshend, M. and McCormick, T. H. (2017). &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5927604/&#34; target=&#34;_blank&#34;&gt;Latent space models for multiview network data&lt;/a&gt;. &lt;em&gt;Annals of Applied Statistics&lt;/em&gt;, 11: 1217-1244. &lt;a href=&#34;https://www.dropbox.com/s/94b3d8zj2jsxtji/supplement_monks5.pdf?dl=0&#34; target=&#34;_blank&#34;&gt;code&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
 
