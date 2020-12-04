@@ -24,13 +24,12 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.google.com/ url?q=https%3A%2F%2Fgithub.com%2FMengjiePan%2FBCMP&amp;amp;sa=D&amp;amp;sntz=1&amp;amp;usg=AFQjCNHiZ-Ep-uQ2oX5Eo5SlKDuEtMoMOQ&#34; target=&#34;_blank&#34;&gt;code&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.google.com/url?q=https%3A%2F%2Fweb.stanford.edu%2F~arungc%2FBCMP_PseudoCode&amp;amp;sa=D&amp;amp;sntz=1&amp;amp;usg=AFQjCNEDrTdVGutzYUAZtdKt9TJ04R03qQ&#34; target=&#34;_blank&#34;&gt;model fitting instructions/pseudocode&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.google.com/url?q=https%3A%2F%2Fweb.stanford.edu%2F~arungc%2FBCMP_Surveys&amp;amp;sa=D&amp;amp;sntz=1&amp;amp;usg=AFQjCNEPnoPWZQ64o1XurVblMmM-vIY_1w&#34; target=&#34;_blank&#34;&gt;implementation instructions and survey instruments&lt;/a&gt;
-&lt;br&gt; &lt;br&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/url?q=https%3A%2F%2Fweb.stanford.edu%2F~arungc%2FBCMP_Surveys&amp;amp;sa=D&amp;amp;sntz=1&amp;amp;usg=AFQjCNEPnoPWZQ64o1XurVblMmM-vIY_1w&#34; target=&#34;_blank&#34;&gt;implementation instructions and survey instruments&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
 
 &lt;li&gt;&lt;p&gt;McCormick, T. H. (2020) &lt;a href=&#34;https://books.google.com/books?id=J-MJEAAAQBAJ&amp;amp;lpg=PP1&amp;amp;pg=PP1#v=onepage&amp;amp;q&amp;amp;f=false&#34; target=&#34;_blank&#34;&gt;The Network Scale-up Method&lt;/a&gt;. &lt;em&gt;Oxford Handbook of Social Networks&lt;/em&gt;.&lt;/p&gt;&lt;/li&gt;
 
-&lt;li&gt;&lt;p&gt;Li, Z. R., McCormick, T. H., and Clark, S. J. (2019+).&lt;a href=&#34;https://arxiv.org/abs/1711.00877&#34; target=&#34;_blank&#34;&gt;Using Bayesian latent Gaussian graphical models to infer symptom associations in verbal autopsies&lt;/a&gt;. &lt;em&gt;Bayesian Analysis,&lt;/em&gt; 15, 3. &lt;a href=&#34;https://github.com/richardli/LGGM&#34; target=&#34;_blank&#34;&gt;code&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Li, Z. R., McCormick, T. H., and Clark, S. J. (2020).&lt;a href=&#34;https://arxiv.org/abs/1711.00877&#34; target=&#34;_blank&#34;&gt;Using Bayesian latent Gaussian graphical models to infer symptom associations in verbal autopsies&lt;/a&gt;. &lt;em&gt;Bayesian Analysis,&lt;/em&gt; 15, 3. &lt;a href=&#34;https://github.com/richardli/LGGM&#34; target=&#34;_blank&#34;&gt;code&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
 
 &lt;li&gt;&lt;p&gt;Green, A., McCormick, T. H., &amp;amp; Raftery, A. E. (2020). &lt;a href=&#34;https://academic.oup.com/biomet/advance-article-abstract/doi/10.1093/biomet/asz067/5715616&#34; target=&#34;_blank&#34;&gt;Consistency for the tree bootstrap in respondent-driven sampling&lt;/a&gt;. &lt;em&gt;Biometrika (Miscellanea),&lt;/em&gt; 107, 2.&lt;/p&gt;&lt;/li&gt;
 
