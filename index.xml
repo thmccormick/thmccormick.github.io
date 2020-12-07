@@ -11,6 +11,39 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Open Opportunity: Postdoctoral collaborator</title>
+      <link>https://thmccormick.github.io/post/postdoc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://thmccormick.github.io/post/postdoc/</guid>
+      <description>
+
+&lt;h3 id=&#34;open-opportunity-postdoctoral-collaborator&#34;&gt;Open Opportunity: Postdoctoral collaborator&lt;/h3&gt;
+
+&lt;p&gt;Tyler McCormick and colleagues  are seeking multiple Postdoctoral research collaborators (12-month service period) to join an interdisciplinary team working on methodology, data collection, and analysis directed by scientific questions in the social and health sciences.&lt;/p&gt;
+
+&lt;p&gt;The scope of the positions is open.  Potential projects include, but are not limited to:
++ Improving data collection efficiency and accuracy in link-tracing designs (e.g. Respondent driven sampling)&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Partial graph data collection strategies for networks (e.g. Aggregated Relational Data)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Large scale models for anomaly detection on graphs&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Developing models to represent structure in networks using low dimensional manifolds&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Modeling demographic and health trends in low-resource settings&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Developing a decision-making framework for policy decisions based on predictions statistical and machine learning models&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Please be on the lookout for an announcement with a link to apply by mid-December and feel free to email Tyler (tyler.h.mccormick@gmail.com) if you&amp;rsquo;re interested and would like to discuss potential projects.  Please see thmccormick.github.io for further information about recent work and ongoing projects.&lt;/p&gt;
+
+&lt;p&gt;Applicants must have a Ph.D. in Statistics, Computer Science, Economics, Sociology, or related field by the start date of the position.  The group values contributions to diversity, equity and inclusion in STEM fields, and to outreach; these can be described in the cover letter.  A link to&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Publications</title>
       <link>https://thmccormick.github.io/publications/publications/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -1397,115 +1430,6 @@ Hands on practice with network data.  Labs count as part of homeworks.  If you r
 
 &lt;p&gt;&lt;strong&gt;Academic accommodations:&lt;/strong&gt;
 To request academic accommodations, please contact the DRS office, 448 Schmitz Hall, (206) 543-8924.  Myself and your TA will be happy to provide academic accommodations if you have a letter requesting such from DRS.  Please feel free to see me during office hours to discuss this.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Related courses:&lt;/strong&gt; There are many great social network methods courses.  This course is inspired by a few of them, including Matthew Salganik&amp;rsquo;s &lt;a href=&#34;http://www.princeton.edu/~mjs3/soc596_sp08.shtml&#34; target=&#34;_blank&#34;&gt;Soc 596&lt;/a&gt; at Princeton; James Moody&amp;rsquo;s &lt;a href=&#34;http://www.soc.duke.edu/~jmoody77/s884/syllabus_s15.pdf&#34; target=&#34;_blank&#34;&gt;Seminar on Social Networks&lt;/a&gt; at Duke; and previous UW versions of this course taught by, among others, Peter Hoff &amp;amp; Miruna Petrescu-Prahova.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Statistical analysis of social network data</title>
-      <link>https://thmccormick.github.io/class/567_sp19/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://thmccormick.github.io/class/567_sp19/</guid>
-      <description>
-
-&lt;p&gt;&lt;img src = &#34;/img/network.png&#34;, width = &#34;850&#34;&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;syllabus&#34;&gt;Syllabus&lt;/h2&gt;
-
-&lt;h2 id=&#34;stat-csss-567&#34;&gt;Stat/CSSS 567&lt;/h2&gt;
-
-&lt;h2 id=&#34;spring-2019-university-of-washington&#34;&gt;Spring 2019, University of Washington&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://thmccormick.github.io/class/567_sp19_schedule/&#34; target=&#34;_blank&#34;&gt;Course schedule&lt;/a&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;logistics&#34;&gt;Logistics&lt;/h3&gt;
-
-&lt;p&gt;&lt;strong&gt;Instructor:&lt;/strong&gt; Tyler McCormick; Email: tylermc@uw.edu; Office Hours: &lt;a href=&#34;https://calendar.google.com/calendar/selfsched?sstoken=UUd2aTl3eEVCaXJ3fGRlZmF1bHR8MzdkZGUwNWNlZGFiMWQwY2RmMGUwMDljZjc3ZDk3ZDI&#34; target=&#34;_blank&#34;&gt;Sign up&lt;/a&gt;&lt;br&gt;
-&lt;strong&gt;TA:&lt;/strong&gt; Mengjie Pan (mpan1@uw.edu); Office Hours: Tues 3-4, Weds 1-2 in the CSSS Conference Room, Padelford Hall &lt;br&gt;
-&lt;strong&gt;Course meetings:&lt;/strong&gt; T/Th 11:30-12:50pm (Guggenheim 218) &amp;amp; F 1:30-2:20 (Savery 264) &lt;br&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;overview-objectives&#34;&gt;Overview &amp;amp; objectives&lt;/h3&gt;
-
-&lt;p&gt;This course is a practical, hands-on introduction to design and analysis of social network data, set against a backdrop of theory from sociology, economics, and other disciplines.&lt;/p&gt;
-
-&lt;h3 id=&#34;course-components-grading&#34;&gt;Course components &amp;amp; grading&lt;/h3&gt;
-
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;Component&lt;/th&gt;
-&lt;th align=&#34;left&#34;&gt;% Grade&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;Approx 4 HWs&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;35&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;In-class presentation&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;20&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;Final project &amp;amp; poster&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;45&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;p&gt;&lt;strong&gt;In-class presentation:&lt;/strong&gt;
-In weeks 4-9, Tuesday lectures will present statistical methods and Thursday lectures will be student presentations.  Presentations will either highlight social science papers that use the methods discussed on Tuesday or present more advanced statistical techniques.  Presentations will be either individual or in small groups (2-3 students).  Individual presentations should be approx 20 minutes.  Group presentations should discuss several related papers and should be approx (number of students) times 20 minutes.  Papers for presentation are listed on the course schedule.  Please sign up for papers &lt;a href=&#34;https://docs.google.com/document/d/1Su_JYou3SbHnY4Oo2h9ASFV99Mf8Na4x0jOTCvmiS5A/edit?usp=sharing&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.  There are four slots (80 minutes) per class period.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Final project:&lt;/strong&gt;
-The final project should be an in-depth exploration of a question related to social networks using techniques learned during the course.  Projects can also take the form of additional statistical work, but each project must include a substantial data analysis component.  If you have data from your own research, you&amp;rsquo;re welcome to use it.  Group work in teams of 2-3 is highly encouraged.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Deliverables:
-
-&lt;ul&gt;
-&lt;li&gt;A poster of quality acceptable for presentation at an academic conference.  Instructions for printing posters will come later in the quarter.  You should plan to have your poster ready to print in about week 9 of the quarter.&lt;/li&gt;
-&lt;li&gt;A GitHub repository containing all the code and data required to reproduce &lt;em&gt;both&lt;/em&gt; your results and the poster.  If you cannot share your data you should simulate data with similar characteristics.&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;Grading:
-
-&lt;ul&gt;
-&lt;li&gt;Appropriate and thoughtful use of network analysis techniques.&lt;/li&gt;
-&lt;li&gt;Graphics and visual appeal of the poster.&lt;/li&gt;
-&lt;li&gt;Contribution to social science question and/or statistical methodology.&lt;/li&gt;
-&lt;li&gt;GitHub repo.  As part of grading, someone will download and attempt to run the code in your GitHub repo.  Your code should run beginning to end and be thoroughly documented.&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;Lab:&lt;/strong&gt;
-Hands on practice with network data.  Labs count as part of homeworks.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Collaborative work:&lt;/strong&gt; Working together is highly encouraged!  Each student must, however, turn in their own homework using Github (see below).  Writing must be your own, or appropriately cited.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Policies:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Only assignments turned in through &lt;a href=&#34;https://github.com/&#34; target=&#34;_blank&#34;&gt;GitHub&lt;/a&gt; will count for credit. More info below.&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;All empirical assignments must also include code.  More info below.&lt;/li&gt;
-&lt;li&gt;Late assignments accepted with at 10% per day penalty.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;In-class:&lt;/strong&gt; I highly discourage the use of laptops during lecture, as I find them very distracting for me and for other students.  If you need to use your phone or are otherwise feeling distracted, please step outside.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Submitting code:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;You must sign up for a Github account.  I recommend applying for an &lt;a href=&#34;https://education.github.com/&#34; target=&#34;_blank&#34;&gt;educational discount&lt;/a&gt;.  All assignments must be submitted through Github. You&amp;rsquo;ll walk through this process in detail in the first lab.&lt;/li&gt;
-&lt;li&gt;Your code should stand alone.  More information &lt;a href=&#34;https://www.tidyverse.org/articles/2017/12/workflow-vs-script/&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.  For each repo you submit you should include a readme file describing the contents of the repo and thoroughly document your code. As part of grading, someone will attempt to run your code.&lt;/li&gt;
-&lt;li&gt;I suggest following the &lt;a href=&#34;https://style.tidyverse.org/&#34; target=&#34;_blank&#34;&gt;tidyverse&lt;/a&gt; style guide.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;Academic accommodations:&lt;/strong&gt;
-To request academic accommodations due to disability, please contact Disabled Student Services, 448 Schmitz Hall, (206) 543-8924.  Myself and your TA will be happy to provide academic accommodations if you have a letter requesting such from Disability Resources for Students (DRS).  Please feel free to see me during office hours to discuss this.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Related courses:&lt;/strong&gt; There are many great social network methods courses.  This course is inspired by a few of them, including Matthew Salganik&amp;rsquo;s &lt;a href=&#34;http://www.princeton.edu/~mjs3/soc596_sp08.shtml&#34; target=&#34;_blank&#34;&gt;Soc 596&lt;/a&gt; at Princeton; James Moody&amp;rsquo;s &lt;a href=&#34;http://www.soc.duke.edu/~jmoody77/s884/syllabus_s15.pdf&#34; target=&#34;_blank&#34;&gt;Seminar on Social Networks&lt;/a&gt; at Duke; and previous UW versions of this course taught by, among others, Peter Hoff &amp;amp; Miruna Petrescu-Prahova.&lt;/p&gt;
 </description>
