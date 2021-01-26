@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Homes on Tyler H. McCormick</title>
@@ -7,7 +7,11 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 -0400</lastBuildDate><atom:link href="https://thmccormick.github.io/home/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 -0400</lastBuildDate>
+    
+	<atom:link href="https://thmccormick.github.io/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title></title>
       <link>https://thmccormick.github.io/home/about/</link>
@@ -26,8 +30,8 @@ I&amp;rsquo;m the current Editor of the Journal of Computational and Graphical S
       <guid>https://thmccormick.github.io/home/postdoc/</guid>
       <description>Open Opportunity: Postdoctoral collaborator Tyler McCormick and colleagues are seeking multiple Postdoctoral research collaborators (12-month service period) to join an interdisciplinary team working on methodology, data collection, and analysis directed by scientific questions in the social and health sciences.
 The scope of the positions is open. Potential projects include, but are not limited to:
-  Improving data collection efficiency and accuracy in link-tracing designs (e.g. Respondent driven sampling)
-  Partial graph data collection strategies for networks (e.</description>
+ Improving data collection efficiency and accuracy in link-tracing designs (e.g. Respondent driven sampling)
+ Partial graph data collection strategies for networks (e.</description>
     </item>
     
     <item>
@@ -36,7 +40,7 @@ The scope of the positions is open. Potential projects include, but are not limi
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://thmccormick.github.io/home/working_papers/</guid>
-      <description>Technical reports and working papers Please see arXiv for the most up to date list of working papers.
+      <description> Technical reports and working papers Please see arXiv for the most up to date list of working papers.
  Identifying the latent space geometry of network models through analysis of curvature Quantifying heterogeneity in SARS-CoV-2 transmission during the lockdown in India Anomaly Detection in Large Scale Networks with Latent Space Models Consistently estimating graph statistics using Aggregated Relational Data Estimating spillovers using imprecisely measured networks (code) A flexible Bayesian framework to estimate age- and cause-specific child mortality over time from sample registration data Verbal Autopsy in Civil Registration and Vital Statistics: The Symptom-Cause Information Archive Modeling the social media relationships of Irish politicians using a generalized latent space stochastic blockmodel Quantifying the contributions of training data and algorithm logic to the performance of automated cause-assignment algorithms for verbal autopsy Standard errors for regression on relational data with exchangeable errors code Examining Racial Segregation in Associative Networks on Twitter Migrants, information, and working conditions in Bangladeshi garment factories  </description>
     </item>
     
