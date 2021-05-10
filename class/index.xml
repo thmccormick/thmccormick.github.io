@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Classes on Tyler H. McCormick</title>
@@ -6,11 +6,7 @@
     <description>Recent content in Classes on Tyler H. McCormick</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2018</copyright>
-    
-	<atom:link href="https://thmccormick.github.io/class/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <copyright>&amp;copy; 2018</copyright><atom:link href="https://thmccormick.github.io/class/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Course schedule</title>
       <link>https://thmccormick.github.io/class/567_au20_schedule/</link>
@@ -40,7 +36,8 @@ Reading: Readings come from several disciplines and, as such, assume different l
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://thmccormick.github.io/class/students/</guid>
-      <description>I&amp;rsquo;m eager to work with student and postdoctoral collaborators! Thanks for your interest! If you have further questions after checking out the information below please send me a message. Undergraduate, Masters, and visiting students The first step in the process is to take a look around my website to see the kind of work I do and see what you find interesting. Once you&amp;rsquo;ve done that, please fill out this form.</description>
+      <description>&amp;lt;img src = &amp;ldquo;/img/network.png&amp;rdquo;, width = &amp;ldquo;850&amp;rdquo;&amp;gt;
+I&amp;rsquo;m eager to work with student and postdoctoral collaborators! Thanks for your interest! If you have further questions after checking out the information below please send me a message. Undergraduate, Masters, and visiting students The first step in the process is to take a look around my website to see the kind of work I do and see what you find interesting. Once you&amp;rsquo;ve done that, please fill out this form.</description>
     </item>
     
     <item>
@@ -49,7 +46,8 @@ Reading: Readings come from several disciplines and, as such, assume different l
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://thmccormick.github.io/class/567_au20/</guid>
-      <description>Syllabus Stat/CSSS 567 Fall 2020, University of Washington Course schedule
+      <description>&amp;lt;img src = &amp;ldquo;/img/network.png&amp;rdquo;, width = &amp;ldquo;850&amp;rdquo;&amp;gt;
+Syllabus Stat/CSSS 567 Fall 2020, University of Washington Course schedule
 First, a note This term is unlike any before and requires that we use additional thoughtfulness and compassion in going about activities that previously seemed normal. I do not see this as a situation where it is reasonable to expect that we would &amp;ldquo;do what we did before, but online.&amp;rdquo; I&amp;rsquo;ve updated the course content to reflect that our meetings are online, but also adjusted the course expectations to (hopefully) be more amenable to the additional pressures that many of us are under at the moment.</description>
     </item>
     
@@ -59,9 +57,9 @@ First, a note This term is unlike any before and requires that we use additional
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://thmccormick.github.io/class/567_sp19/</guid>
-      <description>Syllabus Stat/CSSS 567 Spring 2019, University of Washington Course schedule
-Logistics Instructor: Tyler McCormick; Email: tylermc@uw.edu; Office Hours: Sign up
-TA: Mengjie Pan (mpan1@uw.edu); Office Hours: Tues 3-4, Weds 1-2 in the CSSS Conference Room, Padelford Hall Course meetings: T/Th 11:30-12:50pm (Guggenheim 218) &amp;amp; F 1:30-2:20 (Savery 264) Overview &amp;amp; objectives This course is a practical, hands-on introduction to design and analysis of social network data, set against a backdrop of theory from sociology, economics, and other disciplines.</description>
+      <description>&amp;lt;img src = &amp;ldquo;/img/network.png&amp;rdquo;, width = &amp;ldquo;850&amp;rdquo;&amp;gt;
+Syllabus Stat/CSSS 567 Spring 2019, University of Washington Course schedule
+Logistics Instructor: Tyler McCormick; Email: tylermc@uw.edu; Office Hours: Sign upTA: Mengjie Pan (mpan1@uw.edu); Office Hours: Tues 3-4, Weds 1-2 in the CSSS Conference Room, Padelford Hall Course meetings: T/Th 11:30-12:50pm (Guggenheim 218) &amp;amp; F 1:30-2:20 (Savery 264) Overview &amp;amp; objectives This course is a practical, hands-on introduction to design and analysis of social network data, set against a backdrop of theory from sociology, economics, and other disciplines.</description>
     </item>
     
   </channel>
