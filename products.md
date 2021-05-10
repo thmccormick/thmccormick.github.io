@@ -1,4 +1,0 @@
-# Published papers
-
- 
- 	  
