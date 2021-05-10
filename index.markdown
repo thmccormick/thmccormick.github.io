@@ -8,7 +8,7 @@ I'm currently an Associate Professor of [Statistics](http://www.stat.washington.
 <br>
 I'm the current Editor of the [Journal of Computational and Graphical Statistics](https://www.tandfonline.com/action/journalInformation?show=editorialBoard&journalCode=ucgs20). I'm excited and humbled to be a 2019 recipient of the [NIH Director's New Innovator Award](https://commonfund.nih.gov/newinnovator).
 <br><br>
-My research covers a variety of topics in statistics and data science, typically motivated by scientific questions in global health, economics, demography, and sociology.  Please see my [publications](https://thmccormick.github.io/publications/) and [software](https://thmccormick.github.io/software/).  Please also see below for my current working papers.  More information about OpenVA, our suite of open tools to manage and analyze verbal autopsy surveys, is available [here](http://openva.net/).
+My research covers a variety of topics in statistics and data science, typically motivated by scientific questions in global health, economics, demography, and sociology. More information about OpenVA, our suite of open tools to manage and analyze verbal autopsy surveys, is available [here](http://openva.net/).
 
 <!--
 Quick [link](https://thmccormick.github.io/class/567_au20) to the homepage for Stat/CSSS 567, Social network analysis, offered Autumn 2020.
