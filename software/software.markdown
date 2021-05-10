@@ -15,3 +15,4 @@ Software packages:
 + [InsilicoVA](https://cran.r-project.org/web/packages/InSilicoVA/index.html). Probabilistic cause of death assessment for verbal autopsies. 
 + [OpenVA](https://cran.r-project.org/web/packages/openVA/index.htm). Open source processing and analysis of verbal autopsy data. [Website](http://openva.net/openVA.html). [Slides](http://zehangli.com/talks/openVA-slides.html) from WHO VA Working Group. [Vignette](http://zehangli.com/openVA/openVA-vignette_2017.pdf).
 
+
