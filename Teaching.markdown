@@ -3,21 +3,18 @@ layout: page
 title: "Teaching & Mentoring"
 permalink: /teaching/
 ---
-
-If you're interested in working with me please see [here](https://thmccormick.github.io/class/students/) for more information.
-<br>
-#### Postdoctoral scholars
+#### Postdoctoral collaborators
 + [Tim Thomas](https://timathomas.github.io/) (2017-2019), now at the Berkeley Urban Displacement Project.
 + [Gwen Eadie](https://www.physics.mcmaster.ca/~eadiegm/cover.html) (2017-2019), now Assistant Professor of Statistics & Astronomy at the University of Toronto.
 + [Tsuyoshi Kunihama](https://sites.google.com/site/tsuyoshikunihama/) (2016-2017), now Assistant Professor in the Department of Economics at Kwansei Gakuin University.
 
-#### Ph.D. Students (committee chair)
+#### Ph.D. student collaborators (committee chair)
 + [Zehang (Richard) Li](http://zehangli.com/) (2018, formerly postdoctoral scholar at Yale Biostatistics, now Assistant Professor at UC Santa Cruz)
 + [Mengjie Pan](https://www.stat.washington.edu/~mpan1/) (2019, currently at Facebook)
 + [Wesley Lee](https://www.stat.washington.edu/people/wtlee/) (2019, currently at Facebook)
 
 
-#### Masters and undergraduate students
+#### Masters and undergraduate collaborators
 + [Alina Arseniev-Koehler](https://soc.ucla.edu/grads/alina-arseniev-koehler), UW Sociology undergraduate thesis, now Ph.D. candidate at UCLA Sociology.
 + [Harrison Reeder](https://www.hsph.harvard.edu/biostatistics/tag/harrison-reeder/), Carleton summer undergraduate visitor, now Ph.D. candidate at Harvard Biostatistics
 
