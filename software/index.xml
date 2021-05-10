@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Software on Tyler H. McCormick</title>
@@ -7,11 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sun, 09 Sep 2018 00:00:00 -0400</lastBuildDate>
-    
-	<atom:link href="https://thmccormick.github.io/software/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sun, 09 Sep 2018 00:00:00 -0400</lastBuildDate><atom:link href="https://thmccormick.github.io/software/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>InSilicoVA</title>
       <link>https://thmccormick.github.io/software/insilicova/</link>
@@ -30,6 +26,16 @@
       <guid>https://thmccormick.github.io/software/interva/</guid>
       <description>Provides an R version of the &amp;lsquo;InterVA&amp;rsquo; software for coding cause of death from verbal autopsies. It also provides simple graphical representation of individual and population level statistics. Implementations are available for both InterVA version 4 and InterVA version 5.
  InterVA4 InterVA5  </description>
+    </item>
+    
+    <item>
+      <title>netregR</title>
+      <link>https://thmccormick.github.io/software/netregr/</link>
+      <pubDate>Sun, 09 Sep 2018 00:00:00 -0400</pubDate>
+      
+      <guid>https://thmccormick.github.io/software/netregr/</guid>
+      <description>Regress network responses (both directed and undirected) onto covariates of interest that may be actor-, relation-, or network-valued. In addition, compute principled variance estimates of the coefficients assuming that the errors are jointly exchangeable. Missing data is accommodated. Additionally implements building and inversion of covariance matrices under joint exchangeability, and generates random covariance matrices from this class. For more detail on methods, see Marrs, Fosdick, and McCormick (2017).
+ CRAN  </description>
     </item>
     
     <item>
@@ -58,16 +64,6 @@
       
       <guid>https://thmccormick.github.io/software/rdstreeboot/</guid>
       <description>A tree bootstrap method for estimating uncertainty in respondent-driven samples (RDS). Quantiles are estimated by multilevel resampling in such a way that preserves the dependencies of and accounts for the high variability of the RDS process.
- CRAN  </description>
-    </item>
-    
-    <item>
-      <title>netregR</title>
-      <link>https://thmccormick.github.io/software/netregr/</link>
-      <pubDate>Sun, 09 Sep 2018 00:00:00 -0400</pubDate>
-      
-      <guid>https://thmccormick.github.io/software/netregr/</guid>
-      <description>Regress network responses (both directed and undirected) onto covariates of interest that may be actor-, relation-, or network-valued. In addition, compute principled variance estimates of the coefficients assuming that the errors are jointly exchangeable. Missing data is accommodated. Additionally implements building and inversion of covariance matrices under joint exchangeability, and generates random covariance matrices from this class. For more detail on methods, see Marrs, Fosdick, and McCormick (2017).
  CRAN  </description>
     </item>
     
