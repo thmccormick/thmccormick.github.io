@@ -4,8 +4,11 @@ title: "Publications"
 permalink: /publications/
 ---
 
-+ Wang, S., McCormick, T. H., and Leek, J. (2020+) [Methods for correcting inference based on outcomes predicted by machine learning](https://www.pnas.org/content/early/2020/11/17/2001238117). (To appear, *Proceedings of the National Academy of Sciences (USA)*).
 
+
++ Pan, M., Fosdick, B., & McCormick, T. H. (2021). Inference for network regression models with community structure. In *Proceedings of the 38th International Conference on Machine Learning (ICML)*. 
+
++ Wang, S., McCormick, T. H., & Leek, J. T. (2020). [Methods for correcting inference based on outcomes predicted by machine learning](https://www.pnas.org/content/early/2020/11/17/2001238117). *Proceedings of the National Academy of Sciences (USA)*, 117(48), 30266-30275
 
 + Breza, E., Chandrasekhar, A. G., McCormick, T. H., and Pan, M. (2020) [Using Aggregated Relational Data to feasibly identify network structure without network data](https://www.aeaweb.org/articles?id=10.1257/aer.20170861). *American Economic Review,* 110, 8.
     + [code](https://www.google.com/ url?q=https%3A%2F%2Fgithub.com%2FMengjiePan%2FBCMP&sa=D&sntz=1&usg=AFQjCNHiZ-Ep-uQ2oX5Eo5SlKDuEtMoMOQ)  
@@ -25,7 +28,7 @@ permalink: /publications/
 + Li, Z. R., McCormick, T. H., \& Clark, S. J. (2020) [Non-confirming Replication of ``Performance of InSilicoVA for Assigning Causes of Death to Verbal Autopsies: Multisite Validation Study using Clinical Diagnostic Gold Standards''](https://pubmed.ncbi.nlm.nih.gov/32213178/), BMC Medicine 2018; 16:56. *BMC Medicine,* 18, 69.
 
 
-+ Li, Z. R., McCormick, T. H., and Clark, S. J. (2019). [Bayesian Joint Spike-and-Slab Graphical Lasso](https://arxiv.org/abs/1805.07051). In *Proceedings of the 35th International Conference on Machine Learning (ICML)*.
++ Li, Z. R., McCormick, T. H., and Clark, S. J. (2019). [Bayesian Joint Spike-and-Slab Graphical Lasso](https://arxiv.org/abs/1805.07051). In *Proceedings of the 36th International Conference on Machine Learning (ICML)*.
 
 
 + Li, Z. R., & McCormick, T. H. (2019). [An Expectation Conditional Maximization approach for Gaussian graphical models](https://arxiv.org/abs/1709.06970). *Journal of Computational and Graphical Statistics,* 28, 4. [code](https://

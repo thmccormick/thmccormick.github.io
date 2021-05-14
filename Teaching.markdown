@@ -5,13 +5,13 @@ permalink: /teaching/
 ---
 #### Postdoctoral collaborators
 + [Tim Thomas](https://timathomas.github.io/) (2017-2019), now at the Berkeley Urban Displacement Project.
-+ [Gwen Eadie](https://www.physics.mcmaster.ca/~eadiegm/cover.html) (2017-2019), now Assistant Professor of Statistics & Astronomy at the University of Toronto.
++ [Gwen Eadie](http://www.gweneadie.com/) (2017-2019), now Assistant Professor of Statistics & Astronomy at the University of Toronto.
 + [Tsuyoshi Kunihama](https://sites.google.com/site/tsuyoshikunihama/) (2016-2017), now Assistant Professor in the Department of Economics at Kwansei Gakuin University.
 
 #### Ph.D. student collaborators (committee chair)
 + [Zehang (Richard) Li](http://zehangli.com/) (2018, formerly postdoctoral scholar at Yale Biostatistics, now Assistant Professor at UC Santa Cruz)
-+ [Mengjie Pan](https://www.stat.washington.edu/~mpan1/) (2019, currently at Facebook)
-+ [Wesley Lee](https://www.stat.washington.edu/people/wtlee/) (2019, currently at Facebook)
++ [Mengjie Pan](https://www.linkedin.com/in/mengjie-pan) (2019, currently at Facebook)
++ [Wesley Lee](https://www.linkedin.com/in/wesley-lee) (2019, currently at Facebook)
 
 
 #### Masters and undergraduate collaborators
