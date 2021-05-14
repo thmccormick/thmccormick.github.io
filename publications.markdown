@@ -6,6 +6,8 @@ permalink: /publications/
 
 
 
++ Ng, T. L. J., Murphy, T. B., Westling, T., McCormick, T. H., & Fosdick, B. (2021+). [Modeling the social media relationships of Irish politicians using a generalized latent space stochastic blockmodel](https://arxiv.org/abs/1807.06063). To appear, *Annals of Applied Statistics*. 
+
 + Pan, M., Fosdick, B., & McCormick, T. H. (2021). Inference for network regression models with community structure. In *Proceedings of the 38th International Conference on Machine Learning (ICML)*. 
 
 + Wang, S., McCormick, T. H., & Leek, J. T. (2020). [Methods for correcting inference based on outcomes predicted by machine learning](https://www.pnas.org/content/early/2020/11/17/2001238117). *Proceedings of the National Academy of Sciences (USA)*, 117(48), 30266-30275
