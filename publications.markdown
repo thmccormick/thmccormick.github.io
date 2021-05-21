@@ -10,6 +10,8 @@ permalink: /publications/
 
 + Pan, M., Fosdick, B., & McCormick, T. H. (2021). Inference for network regression models with community structure. In *Proceedings of the 38th International Conference on Machine Learning (ICML)*. 
 
++ Schumacher, A.E., McCormick, T.H., Wakefield, J., Chu, Y., Perin, J., Villavicencio, F., Simon, N. & Liu, L. (2021+). [A flexible Bayesian framework to estimate age- and cause-specific child mortality over time from sample registration data](https://arxiv.org/abs/2003.00401). To appear, *Annals of Applied Statistics*. 
+
 + Wang, S., McCormick, T. H., & Leek, J. T. (2020). [Methods for correcting inference based on outcomes predicted by machine learning](https://www.pnas.org/content/early/2020/11/17/2001238117). *Proceedings of the National Academy of Sciences (USA)*, 117(48), 30266-30275
 
 + Breza, E., Chandrasekhar, A. G., McCormick, T. H., and Pan, M. (2020) [Using Aggregated Relational Data to feasibly identify network structure without network data](https://www.aeaweb.org/articles?id=10.1257/aer.20170861). *American Economic Review,* 110, 8.
@@ -19,7 +21,7 @@ permalink: /publications/
 <br> <br> 
 + McCormick, T. H. (2020) [The Network Scale-up Method](https://books.google.com/books?id=J-MJEAAAQBAJ&lpg=PP1&pg=PP1#v=onepage&q&f=false). *Oxford Handbook of Social Networks*.
 
-+ Li, Z. R., McCormick, T. H., and Clark, S. J. (2020).[Using Bayesian latent Gaussian graphical models to infer symptom associations in verbal autopsies](https://arxiv.org/abs/1711.00877). *Bayesian Analysis,* 15, 3. [code](https://github.com/richardli/LGGM)
++ Li, Z. R., McCormick, T. H., and Clark, S. J. (2020). [Using Bayesian latent Gaussian graphical models to infer symptom associations in verbal autopsies](https://arxiv.org/abs/1711.00877). *Bayesian Analysis,* 15, 3. [code](https://github.com/richardli/LGGM)
 
 + Green, A., McCormick, T. H., & Raftery, A. E. (2020). [Consistency for the tree bootstrap in respondent-driven sampling](https://academic.oup.com/biomet/advance-article-abstract/doi/10.1093/biomet/asz067/5715616). *Biometrika (Miscellanea),* 107, 2.  
 

@@ -1,0 +1,6 @@
+
+To show in browser (preview)
+bundle exec jekyll server
+
+To include an image
+-put it in assets
