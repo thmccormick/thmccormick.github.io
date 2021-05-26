@@ -20,7 +20,7 @@ permalink: /teaching/
 
 
 #### Selected courses
-+ Stat/CSSS 567 Social Network Analysis [2019](https://thmccormick.github.io/class/567_sp19/) [2020](https://thmccormick.github.io/class/567_au20/)
++ Stat/CSSS 567 Social Network Analysis [syllabus](https://thmccormick.github.io/assets/567_aut20_syllabus.pdf) [schedule](https://thmccormick.github.io/assets/567_aut20_schedule.pdf)
 + Stat/Soc/CSSS 221 [Introduction to statistics for social sciences](https://docs.google.com/document/d/1wLRowIehGM1w-i4l4qaMerYgEhL0wpS__r_fbvwHeww/edit?usp=sharing)
 + Soc 506/CSSS 507 [Quantitative methods in sociology](http://www.stat.washington.edu/~tylermc/soc506sp15/schedule_2015.htm)
 + Stat/Soc/CSSS 321 [Case-based social statistics](http://www.stat.washington.edu/~tylermc/syllabus_321aut13.pdf)
