@@ -4,6 +4,9 @@
 
 layout: home
 ---
+<figure>
+  <img src="assets/tgoose.jpeg" style="padding: 10px; float: left; width:400px;height:223px;"/>
+ </figure>
 I'm currently an Associate Professor of [Statistics](http://www.stat.washington.edu/) and [Sociology](https://soc.washington.edu/) at the [University of Washington](http://www.uw.edu).  I'm also a core faculty member in the [Center for Statistics and the Social Sciences](http://csss.washington.edu/) and a Senior Data Science Fellow at the [eScience Institute](http://escience.washington.edu/).  
 <br>
 I'm the current Editor of the [Journal of Computational and Graphical Statistics](https://www.tandfonline.com/action/journalInformation?show=editorialBoard&journalCode=ucgs20). I'm excited and humbled to be a 2019 recipient of the [NIH Director's New Innovator Award](https://commonfund.nih.gov/newinnovator).
@@ -21,7 +24,7 @@ I currently have multiple openings for postdoctoral collaborators.  For more inf
 Please see [arXiv](https://arxiv.org/find/stat/1/au:+McCormick_T/0/1/0/all/0/1) for the most up to date list of working papers.
 
 +	[Identifying the latent space geometry of network models through analysis
-  of curvature](http://arxiv.org/abs/2012.10559)
+  of curvature](http://arxiv.org/abs/2012.10559) ([overview and code](https://slubold.github.io/LS_Geometry_Summary.html))
 +	[Smart Containment with Active Learning: A Proposal for a Data-Responsive and Graded Approach to COVID-19](https://www.hks.harvard.edu/centers/cid/publications/smart-containment-with-active-learning) [(more details)](https://www.cerp.org.pk/pages/covid-19-smart-containment-policy-response)
 +	[Quantifying heterogeneity in SARS-CoV-2 transmission during the lockdown in India](https://www.medrxiv.org/content/10.1101/2020.09.10.20190017v2)
 + 	[Anomaly Detection in Large Scale Networks with Latent Space Models](http://arxiv.org/abs/1911.05522)
