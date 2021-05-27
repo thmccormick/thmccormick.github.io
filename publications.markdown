@@ -10,7 +10,7 @@ permalink: /publications/
 
 + Pan, M., Fosdick, B., & McCormick, T. H. (2021). Inference for network regression models with community structure. In *Proceedings of the 38th International Conference on Machine Learning (ICML)*. 
 
-+ McCormick, T. H. (2021+). [The "given data" paradigm undermines both cultures](). To appear, *Observational Studies*.
++ McCormick, T. H. (2021+). [The "given data" paradigm undermines both cultures](https://arxiv.org/abs/2105.12478). To appear, *Observational Studies*.
 
 + Schumacher, A.E., McCormick, T.H., Wakefield, J., Chu, Y., Perin, J., Villavicencio, F., Simon, N. & Liu, L. (2021+). [A flexible Bayesian framework to estimate age- and cause-specific child mortality over time from sample registration data](https://arxiv.org/abs/2003.00401). To appear, *Annals of Applied Statistics*. 
 
