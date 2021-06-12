@@ -5,6 +5,7 @@ permalink: /publications/
 ---
 
 
++ Lee, W., McCormick, T. H., Neil, J., Sodja, C., & Cui, Y. (2021+) [Anomaly Detection in Large Scale Networks with Latent Space Models](http://arxiv.org/abs/1911.05522).  To appear, *Technometrics*.
 
 + Ng, T. L. J., Murphy, T. B., Westling, T., McCormick, T. H., & Fosdick, B. (2021+). [Modeling the social media relationships of Irish politicians using a generalized latent space stochastic blockmodel](https://arxiv.org/abs/1807.06063). To appear, *Annals of Applied Statistics*. 
 
