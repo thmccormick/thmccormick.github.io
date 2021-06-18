@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 ---
 
-+ Arinaminpathy, N., Das, J., McCormick, T., Mukhopadhyay, P., & Sircar, N. (2021+). [Quantifying heterogeneity in SARS-CoV-2 transmission during the lockdown in India](https://www.medrxiv.org/content/10.1101/2020.09.10.20190017v2). To appear, *Epidemics*.
++ Arinaminpathy, N., Das, J., McCormick, T., Mukhopadhyay, P., & Sircar, N. (2021+). [Quantifying heterogeneity in SARS-CoV-2 transmission during the lockdown in India](https://authors.elsevier.com/sd/article/S1755-4365(21)00031-1). To appear, *Epidemics*.
 
 + Lee, W., McCormick, T. H., Neil, J., Sodja, C., & Cui, Y. (2021+). [Anomaly Detection in Large Scale Networks with Latent Space Models](http://arxiv.org/abs/1911.05522).  To appear, *Technometrics*.
 
