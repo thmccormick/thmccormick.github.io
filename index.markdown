@@ -19,7 +19,7 @@ I'm the former Editor of the [Journal of Computational and Graphical Statistics]
 Quick [link](https://thmccormick.github.io/class/567_au20) to the homepage for Stat/CSSS 567, Social network analysis, offered Autumn 2020.
 Go here for more info about a few current projects.-->
 
-I currently have multiple openings for postdoctoral collaborators.  For more information and to apply directly please see [here](https://apply.interfolio.com/81536). 
+I currently have multiple openings for postdoctoral collaborators.  For more information and to apply directly please see [here](https://apply.interfolio.com/100917). 
 
 
 ### Technical reports and working papers
