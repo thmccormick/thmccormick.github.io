@@ -4,9 +4,13 @@ title: "Publications"
 permalink: /publications/
 ---
 
++ Marrs, F. W., Fosdick, B. K., & McCormick, T. H. (2022+) [Standard errors for regression on relational data with exchangeable errors](https://arxiv.org/abs/1701.05530). To appear, *Biometrika (Miscellanea)*. [code](https://github.com/fmarrs3/netreg_public)
+
++ Li, C., Rudin, C., & McCormick, T. H. (2022+) [Rethinking nonlinear instrumental variable models through prediction validity](https://jmlr.org/papers/volume23/21-0082/21-0082.pdf). To appear, *Journal of Machine Learning Research*.
+ 
 + Arinaminpathy, N., Das, J., McCormick, T., Mukhopadhyay, P., & Sircar, N. (2021+). [Quantifying heterogeneity in SARS-CoV-2 transmission during the lockdown in India](https://authors.elsevier.com/sd/article/S1755-4365(21)00031-1). To appear, *Epidemics*.
 
-+ Lee, W., McCormick, T. H., Neil, J., Sodja, C., & Cui, Y. (2021+). [Anomaly Detection in Large Scale Networks with Latent Space Models](http://arxiv.org/abs/1911.05522).  To appear, *Technometrics*.
++ Lee, W., McCormick, T. H., Neil, J., Sodja, C., & Cui, Y. (2021+). [Anomaly Detection in Large Scale Networks with Latent Space Models](http://arxiv.org/abs/1911.05522).  To appear, *Technometrics*. [code] (https://github.com/thmccormick/replicate-latent-space-networks-anomaly-det.git)
 
 + Ng, T. L. J., Murphy, T. B., Westling, T., McCormick, T. H., & Fosdick, B. (2021+). [Modeling the social media relationships of Irish politicians using a generalized latent space stochastic blockmodel](https://arxiv.org/abs/1807.06063). To appear, *Annals of Applied Statistics*. 
 
@@ -16,7 +20,7 @@ permalink: /publications/
 
 + Schumacher, A.E., McCormick, T.H., Wakefield, J., Chu, Y., Perin, J., Villavicencio, F., Simon, N. & Liu, L. (2021+). [A flexible Bayesian framework to estimate age- and cause-specific child mortality over time from sample registration data](https://arxiv.org/abs/2003.00401). To appear, *Annals of Applied Statistics*. 
 
-+ Wang, S., McCormick, T. H., & Leek, J. T. (2020). [Methods for correcting inference based on outcomes predicted by machine learning](https://www.pnas.org/content/early/2020/11/17/2001238117). *Proceedings of the National Academy of Sciences (USA)*, 117(48), 30266-30275.
++ Wang, S., McCormick, T. H., & Leek, J. T. (2020). [Methods for correcting inference based on outcomes predicted by machine learning](https://www.pnas.org/content/early/2020/11/17/2001238117). *Proceedings of the National Academy of Sciences (USA)*, 117(48), 30266-30275. [R package](https://github.com/leekgroup/postpi)
 
 + Breza, E., Chandrasekhar, A. G., McCormick, T. H., and Pan, M. (2020) [Using Aggregated Relational Data to feasibly identify network structure without network data](https://www.aeaweb.org/articles?id=10.1257/aer.20170861). *American Economic Review,* 110, 8.
     + [code](https://github.com/MengjiePan/BCMP)  
