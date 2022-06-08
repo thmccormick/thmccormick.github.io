@@ -4,9 +4,11 @@ title: "Publications"
 permalink: /publications/
 ---
 
-+ Marrs, F. W., Fosdick, B. K., & McCormick, T. H. (2022+) [Standard errors for regression on relational data with exchangeable errors](hhttps://academic.oup.com/biomet/advance-article/doi/10.1093/biomet/asac031/6591197?guestAccessKey=62d03068-2156-4b5a-b8a1-122bc083eb11). To appear, *Biometrika (Miscellanea)*. [code](https://github.com/fmarrs3/netreg_public)
++ Marrs, F. W., Fosdick, B. K., & McCormick, T. H. (2022+) [Standard errors for regression on relational data with exchangeable errors](https://academic.oup.com/biomet/advance-article/doi/10.1093/biomet/asac031/6591197?guestAccessKey=62d03068-2156-4b5a-b8a1-122bc083eb11). To appear, *Biometrika (Miscellanea)*. [code](https://github.com/fmarrs3/netreg_public)
 
 + Li, C., Rudin, C., & McCormick, T. H. (2022+) [Rethinking nonlinear instrumental variable models through prediction validity](https://jmlr.org/papers/volume23/21-0082/21-0082.pdf). To appear, *Journal of Machine Learning Research*.
+
++ Perin, J., Chu, Y., Villaviciencio, F., Schumacher, A., McCormick, T. H., Guillot, M., and Liu, L. [Adapting and validating the log quadratic model to derive under-five age- and cause-specific mortality (U5ACSM): a preliminary analysis](https://pophealthmetrics.biomedcentral.com/articles/10.1186/s12963-021-00277-w). *Population Health Metrics* 20, 3 (2022).
  
 + Arinaminpathy, N., Das, J., McCormick, T., Mukhopadhyay, P., & Sircar, N. (2021+). [Quantifying heterogeneity in SARS-CoV-2 transmission during the lockdown in India](https://authors.elsevier.com/sd/article/S1755-4365(21)00031-1). To appear, *Epidemics*.
 
@@ -37,7 +39,7 @@ permalink: /publications/
 + Kunihama, T., Li, Z. R., Clark, S. J., & McCormick, T. H. (2020). [Bayesian factor models for probabilistic cause of death assessment with verbal autopsies](https://arxiv.org/abs/1803.01327). *Annals of Applied Statistics,* 14, 1. [code](https://github.com/kunihama/VA-code)
 
 
-+ Li, Z. R., McCormick, T. H., \& Clark, S. J. (2020) [Non-confirming Replication of ``Performance of InSilicoVA for Assigning Causes of Death to Verbal Autopsies: Multisite Validation Study using Clinical Diagnostic Gold Standards''](https://pubmed.ncbi.nlm.nih.gov/32213178/), BMC Medicine 2018; 16:56. *BMC Medicine,* 18, 69.
++ Li, Z. R., McCormick, T. H., and Clark, S. J. (2020) [Non-confirming Replication of ``Performance of InSilicoVA for Assigning Causes of Death to Verbal Autopsies: Multisite Validation Study using Clinical Diagnostic Gold Standards''](https://pubmed.ncbi.nlm.nih.gov/32213178/), BMC Medicine 2018; 16:56. *BMC Medicine,* 18, 69.
 
 
 + Li, Z. R., McCormick, T. H., and Clark, S. J. (2019). [Bayesian Joint Spike-and-Slab Graphical Lasso](https://arxiv.org/abs/1805.07051). In *Proceedings of the 36th International Conference on Machine Learning (ICML)*.
