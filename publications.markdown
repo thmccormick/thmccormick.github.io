@@ -6,7 +6,8 @@ permalink: /publications/
 
 + Marrs, F. W., Fosdick, B. K., & McCormick, T. H. (2022+) [Standard errors for regression on relational data with exchangeable errors](https://academic.oup.com/biomet/advance-article/doi/10.1093/biomet/asac031/6591197?guestAccessKey=62d03068-2156-4b5a-b8a1-122bc083eb11). To appear, *Biometrika (Miscellanea)*. [code](https://github.com/fmarrs3/netreg_public)
 
-+ Turnbull, K., Nemeth, C., Nunes, M., & McCormick, T. H. (2022+) [Sequential estimation of temporally evolving latent space network models](https://arxiv.org/abs/2112.10220). To appear, *Computational Statistics and Data Analysis*.
++ Turnbull, K., Nemeth, C., Nunes, M., & McCormick, T. H. (2022+) [Sequential estimation of temporally evolving latent space network models](https://arxiv.org/abs/2112.10220). To appear, *Computational Statistics and Data Analysis*. [code](https://github.com/
+krturnbull/DLSN-SMC/)
 
 + Li, C., Rudin, C., & McCormick, T. H. (2022+) [Rethinking nonlinear instrumental variable models through prediction validity](https://jmlr.org/papers/volume23/21-0082/21-0082.pdf). To appear, *Journal of Machine Learning Research*.
 
