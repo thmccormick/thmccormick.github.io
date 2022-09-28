@@ -28,7 +28,6 @@ Please see [arXiv](https://arxiv.org/find/stat/1/au:+McCormick_T/0/1/0/all/0/1) 
 +	[Identifying the latent space geometry of network models through analysis
   of curvature](http://arxiv.org/abs/2012.10559) ([overview and code](https://slubold.github.io/LS_Geometry_Summary.html))
 + [Spectral goodness-of-fit tests for complete and partial network data](http://arxiv.org/abs/2106.09702) ([overview and code](https://slubold.github.io/GOF_Summary.html))
-+ [Sequential estimation of temporally evolving latent space network models](https://arxiv.org/abs/2112.10220)
 +	[Smart Containment with Active Learning: A Proposal for a Data-Responsive and Graded Approach to COVID-19](https://www.hks.harvard.edu/centers/cid/publications/smart-containment-with-active-learning) [(more details)](https://www.cerp.org.pk/pages/covid-19-smart-containment-policy-response)
 + 	[Consistently estimating graph statistics using Aggregated Relational Data](https://arxiv.org/abs/1908.09881) ([overview](https://slubold.github.io/ARD_Consistent_Estimation/) and [code](https://github.com/slubold/ARD_Consistent_Estimation))
 + 	[Estimating spillovers using imprecisely measured networks](https://arxiv.org/abs/1904.00136) [(code)](https://github.com/thmccormick/spillovers-mismeasured-graphs)
