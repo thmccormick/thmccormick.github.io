@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 ---
 
-+ Marrs, F. W., Fosdick, B. K., & McCormick, T. H. (2022+) [Standard errors for regression on relational data with exchangeable errors](https://academic.oup.com/biomet/advance-article/doi/10.1093/biomet/asac031/6591197?guestAccessKey=62d03068-2156-4b5a-b8a1-122bc083eb11). To appear, *Biometrika (Miscellanea)*. [code](https://github.com/fmarrs3/netreg_public)
++ Marrs, F. W., Fosdick, B. K., & McCormick, T. H. (2022+) [Regression of exchangeable relational arrays](https://academic.oup.com/biomet/advance-article/doi/10.1093/biomet/asac031/6591197?guestAccessKey=62d03068-2156-4b5a-b8a1-122bc083eb11). To appear, *Biometrika (Miscellanea)*. [code](https://github.com/fmarrs3/netreg_public)
 
 
  + Li, Z. R., Thomas, J., Choi, E., McCormick, T. H., & Clark, S. J. (2022+). [The openVA toolkit for verbal autopsies](https://arxiv.org/abs/2109.08244). To appear, *The R Journal*. 
