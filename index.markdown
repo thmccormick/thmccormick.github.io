@@ -25,6 +25,7 @@ I currently have multiple openings for postdoctoral collaborators.  For more inf
 ### Technical reports and working papers
 Please see [arXiv](https://arxiv.org/find/stat/1/au:+McCormick_T/0/1/0/all/0/1) for the most up to date list of working papers.
 
++ [Asymptotically normal estimation of local latent network curvature](https://arxiv.org/abs/2211.11673)
 + [Bayesian hyperbolic multidimensional scaling](https://arxiv.org/abs/2210.15081)
 +	[Identifying the latent space geometry of network models through analysis
   of curvature](http://arxiv.org/abs/2012.10559) ([overview and code](https://slubold.github.io/LS_Geometry_Summary.html))
