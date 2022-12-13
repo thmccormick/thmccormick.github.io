@@ -20,7 +20,7 @@ krturnbull/DLSN-SMC/)
 
 + Schumacher, A.E., McCormick, T.H., Wakefield, J., Chu, Y., Perin, J., Villavicencio, F., Simon, N. & Liu, L. (2022). [A flexible Bayesian framework to estimate age- and cause-specific child mortality over time from sample registration data](https://arxiv.org/abs/2003.00401). *Annals of Applied Statistics*, 16(1), 124-143. 
 
-+ Perin, J., Chu, Y., Villaviciencio, F., Schumacher, A., McCormick, T. H., Guillot, M., and Liu, L. [Adapting and validating the log quadratic model to derive under-five age- and cause-specific mortality (U5ACSM): a preliminary analysis](https://pophealthmetrics.biomedcentral.com/articles/10.1186/s12963-021-00277-w). *Population Health Metrics* 20, 3 (2022).
++ Perin, J., Chu, Y., Villaviciencio, F., Schumacher, A., McCormick, T. H., Guillot, M., and Liu, L. (2022) [Adapting and validating the log quadratic model to derive under-five age- and cause-specific mortality (U5ACSM): a preliminary analysis](https://pophealthmetrics.biomedcentral.com/articles/10.1186/s12963-021-00277-w). *Population Health Metrics* 20, 3.
  
 + Arinaminpathy, N., Das, J., McCormick, T., Mukhopadhyay, P., & Sircar, N. (2021). [Quantifying heterogeneity in SARS-CoV-2 transmission during the lockdown in India](https://authors.elsevier.com/sd/article/S1755-4365(21)00031-1). *Epidemics*, 36, 100477.
 
