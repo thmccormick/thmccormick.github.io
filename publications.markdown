@@ -4,6 +4,9 @@ title: "Publications"
 permalink: /publications/
 ---
 
++ Lubold, S, Chandrasekhar, A. G., & McCormick, T. H. (2022+) [Identifying the latent space geometry of network models through analysis
+  of curvature](http://arxiv.org/abs/2012.10559). To appear, *Journal of the Royal Statistical Society: Series B*. [overview and code](https://slubold.github.io/LS_Geometry_Summary.html)
+
 + Marrs, F. W., Fosdick, B. K., & McCormick, T. H. (2022+) [Regression of exchangeable relational arrays](https://academic.oup.com/biomet/advance-article/doi/10.1093/biomet/asac031/6591197?guestAccessKey=62d03068-2156-4b5a-b8a1-122bc083eb11). To appear, *Biometrika (Miscellanea)*. [code](https://github.com/fmarrs3/netreg_public)
 
 
@@ -13,25 +16,25 @@ permalink: /publications/
 + Turnbull, K., Nemeth, C., Nunes, M., & McCormick, T. H. (2022+) [Sequential estimation of temporally evolving latent space network models](https://arxiv.org/abs/2112.10220). To appear, *Computational Statistics and Data Analysis*. [code](https://github.com/
 krturnbull/DLSN-SMC/)
 
-+ Li, C., Rudin, C., & McCormick, T. H. (2022+) [Rethinking nonlinear instrumental variable models through prediction validity](https://jmlr.org/papers/volume23/21-0082/21-0082.pdf). To appear, *Journal of Machine Learning Research*.
++ Li, C., Rudin, C., & McCormick, T. H. (2022) [Rethinking nonlinear instrumental variable models through prediction validity](https://jmlr.org/papers/volume23/21-0082/21-0082.pdf). *Journal of Machine Learning Research*, 23(96), 1-55.
+
++ Schumacher, A.E., McCormick, T.H., Wakefield, J., Chu, Y., Perin, J., Villavicencio, F., Simon, N. & Liu, L. (2022). [A flexible Bayesian framework to estimate age- and cause-specific child mortality over time from sample registration data](https://arxiv.org/abs/2003.00401). *Annals of Applied Statistics*, 16(1), 124-143. 
 
 + Perin, J., Chu, Y., Villaviciencio, F., Schumacher, A., McCormick, T. H., Guillot, M., and Liu, L. [Adapting and validating the log quadratic model to derive under-five age- and cause-specific mortality (U5ACSM): a preliminary analysis](https://pophealthmetrics.biomedcentral.com/articles/10.1186/s12963-021-00277-w). *Population Health Metrics* 20, 3 (2022).
  
-+ Arinaminpathy, N., Das, J., McCormick, T., Mukhopadhyay, P., & Sircar, N. (2021+). [Quantifying heterogeneity in SARS-CoV-2 transmission during the lockdown in India](https://authors.elsevier.com/sd/article/S1755-4365(21)00031-1). To appear, *Epidemics*.
++ Arinaminpathy, N., Das, J., McCormick, T., Mukhopadhyay, P., & Sircar, N. (2021). [Quantifying heterogeneity in SARS-CoV-2 transmission during the lockdown in India](https://authors.elsevier.com/sd/article/S1755-4365(21)00031-1). *Epidemics*, 36, 100477.
 
-+ Lee, W., McCormick, T. H., Neil, J., Sodja, C., & Cui, Y. (2021+). [Anomaly Detection in Large Scale Networks with Latent Space Models](http://arxiv.org/abs/1911.05522).  To appear, *Technometrics*. [code](https://github.com/thmccormick/replicate-latent-space-networks-anomaly-det.git)
++ Lee, W., McCormick, T. H., Neil, J., Sodja, C., & Cui, Y. (2021). [Anomaly Detection in Large Scale Networks with Latent Space Models](http://arxiv.org/abs/1911.05522). *Technometrics*, 1-12. [code](https://github.com/thmccormick/replicate-latent-space-networks-anomaly-det.git)
 
-+ Ng, T. L. J., Murphy, T. B., Westling, T., McCormick, T. H., & Fosdick, B. (2021+). [Modeling the social media relationships of Irish politicians using a generalized latent space stochastic blockmodel](https://arxiv.org/abs/1807.06063). To appear, *Annals of Applied Statistics*. 
++ Ng, T. L. J., Murphy, T. B., Westling, T., McCormick, T. H., & Fosdick, B. (2021). [Modeling the social media relationships of Irish politicians using a generalized latent space stochastic blockmodel](https://arxiv.org/abs/1807.06063). *Annals of Applied Statistics*, 15(4), 1923-1944. 
 
 + Pan, M., Fosdick, B., & McCormick, T. H. (2021). [Inference for network regression models with community structure](http://arxiv.org/abs/2106.04271). In *Proceedings of the 38th International Conference on Machine Learning (ICML)*. 
 
-+ McCormick, T. H. (2021+). [The "given data" paradigm undermines both cultures](https://arxiv.org/abs/2105.12478). To appear, *Observational Studies*.
-
-+ Schumacher, A.E., McCormick, T.H., Wakefield, J., Chu, Y., Perin, J., Villavicencio, F., Simon, N. & Liu, L. (2021+). [A flexible Bayesian framework to estimate age- and cause-specific child mortality over time from sample registration data](https://arxiv.org/abs/2003.00401). To appear, *Annals of Applied Statistics*. 
++ McCormick, T. H. (2021). [The "given data" paradigm undermines both cultures](https://arxiv.org/abs/2105.12478). *Observational Studies*, 7(1), 157-159.
 
 + Wang, S., McCormick, T. H., & Leek, J. T. (2020). [Methods for correcting inference based on outcomes predicted by machine learning](https://www.pnas.org/content/early/2020/11/17/2001238117). *Proceedings of the National Academy of Sciences (USA)*, 117(48), 30266-30275. [R package](https://github.com/leekgroup/postpi)
 
-+ Breza, E., Chandrasekhar, A. G., McCormick, T. H., and Pan, M. (2020) [Using Aggregated Relational Data to feasibly identify network structure without network data](https://www.aeaweb.org/articles?id=10.1257/aer.20170861). *American Economic Review,* 110, 8.
++ Breza, E., Chandrasekhar, A. G., McCormick, T. H., & Pan, M. (2020) [Using Aggregated Relational Data to feasibly identify network structure without network data](https://www.aeaweb.org/articles?id=10.1257/aer.20170861). *American Economic Review,* 110, 8.
     + [code](https://github.com/MengjiePan/BCMP)  
     + [model fitting instructions/pseudocode](https://www.google.com/url?q=https%3A%2F%2Fweb.stanford.edu%2F~arungc%2FBCMP_PseudoCode&sa=D&sntz=1&usg=AFQjCNEDrTdVGutzYUAZtdKt9TJ04R03qQ) 
     + [implementation instructions and survey instruments](https://www.google.com/url?q=https%3A%2F%2Fweb.stanford.edu%2F~arungc%2FBCMP_Surveys&sa=D&sntz=1&usg=AFQjCNEPnoPWZQ64o1XurVblMmM-vIY_1w).

@@ -17,9 +17,9 @@ I'm the former Editor of the [Journal of Computational and Graphical Statistics]
 
 <!--
 Quick [link](https://thmccormick.github.io/class/567_au20) to the homepage for Stat/CSSS 567, Social network analysis, offered Autumn 2020.
-Go here for more info about a few current projects.-->
+Go here for more info about a few current projects.
 
-I currently have multiple openings for postdoctoral collaborators.  For more information and to apply directly please see [here](https://apply.interfolio.com/100917). 
+I currently have multiple openings for postdoctoral collaborators.  For more information and to apply directly please see [here](https://apply.interfolio.com/100917).  -->
 
 
 ### Technical reports and working papers
@@ -27,8 +27,6 @@ Please see [arXiv](https://arxiv.org/find/stat/1/au:+McCormick_T/0/1/0/all/0/1) 
 
 + [Asymptotically normal estimation of local latent network curvature](https://arxiv.org/abs/2211.11673)
 + [Bayesian hyperbolic multidimensional scaling](https://arxiv.org/abs/2210.15081)
-+	[Identifying the latent space geometry of network models through analysis
-  of curvature](http://arxiv.org/abs/2012.10559) ([overview and code](https://slubold.github.io/LS_Geometry_Summary.html))
 + [Spectral goodness-of-fit tests for complete and partial network data](http://arxiv.org/abs/2106.09702) ([overview and code](https://slubold.github.io/GOF_Summary.html))
 + 	[Consistently estimating graph statistics using Aggregated Relational Data](https://arxiv.org/abs/1908.09881) ([overview](https://slubold.github.io/ARD_Consistent_Estimation/) and [code](https://github.com/slubold/ARD_Consistent_Estimation))
 + 	[Estimating spillovers using imprecisely measured networks](https://arxiv.org/abs/1904.00136) [(code)](https://github.com/thmccormick/spillovers-mismeasured-graphs)
