@@ -25,6 +25,7 @@ I currently have multiple openings for postdoctoral collaborators.  For more inf
 ### Technical reports and working papers
 Please see [arXiv](https://arxiv.org/find/stat/1/au:+McCormick_T/0/1/0/all/0/1) for the most up to date list of working papers.
 
++ [Bayesian active questionnaire design for cause-of-death assignment using verbal autopsies](http://arxiv.org/abs/2302.08099)
 + [Asymptotically normal estimation of local latent network curvature](https://arxiv.org/abs/2211.11673)
 + [Bayesian hyperbolic multidimensional scaling](https://arxiv.org/abs/2210.15081)
 + [Spectral goodness-of-fit tests for complete and partial network data](http://arxiv.org/abs/2106.09702) ([overview and code](https://slubold.github.io/GOF_Summary.html))
