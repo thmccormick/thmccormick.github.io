@@ -11,7 +11,7 @@ hospitals) using reports from surviving caretakers, and quantifying & communicat
 in predictive models for global health policymakers. More information about OpenVA, our suite of open tools to manage and analyze verbal autopsy surveys, is available [here](http://openva.net/).
 <br>
 
-I'm the former Editor of the [Journal of Computational and Graphical Statistics](https://www.tandfonline.com/action/journalInformation?show=editorialBoard&journalCode=ucgs20). I'm excited and humbled to be a 2019 recipient of the [NIH Director's New Innovator Award](https://commonfund.nih.gov/newinnovator).
+I'm the former Editor of the [Journal of Computational and Graphical Statistics](https://www.tandfonline.com/action/journalInformation?show=editorialBoard&journalCode=ucgs20). I'm excited and humbled to be a 2019 recipient of the [NIH Director's New Innovator Award](https://commonfund.nih.gov/newinnovator).  I was elected as a [Fellow](https://stat.uw.edu/news-resources/articles/adrian-dobra-and-tyler-mccormick-elected-2023-asa-fellows) of the [American Statistical Association](https://www.amstat.org/your-career/awards/asa-fellows) in 2023.
 <br>
 
 
@@ -33,7 +33,7 @@ Please see [arXiv](https://arxiv.org/find/stat/1/au:+McCormick_T/0/1/0/all/0/1) 
 + [Spectral goodness-of-fit tests for complete and partial network data](http://arxiv.org/abs/2106.09702) ([overview and code](https://slubold.github.io/GOF_Summary.html))
 + 	[Consistently estimating graph statistics using Aggregated Relational Data](https://arxiv.org/abs/1908.09881) ([overview](https://slubold.github.io/ARD_Consistent_Estimation/) and [code](https://github.com/slubold/ARD_Consistent_Estimation))
 + 	[Estimating spillovers using imprecisely measured networks](https://arxiv.org/abs/1904.00136) [(code)](https://github.com/thmccormick/spillovers-mismeasured-graphs)
-+	[Verbal sutopsy in civil registration and vital statistics: The Symptom-Cause Information Archive](https://arxiv.org/abs/1910.00405)
++	[Verbal autopsy in civil registration and vital statistics: The Symptom-Cause Information Archive](https://arxiv.org/abs/1910.00405)
 + [Smart containment with active learning: A proposal for a data-responsive and graded approach to COVID-19](https://www.hks.harvard.edu/centers/cid/publications/smart-containment-with-active-learning) [(more details)](https://www.cerp.org.pk/pages/covid-19-smart-containment-policy-response)
 + [Quantifying the contributions of training data and algorithm logic to the performance of automated cause-assignment algorithms for verbal autopsy](https://arxiv.org/abs/1803.07141)
 + [Examining Racial Segregation in Associative Networks on Twitter](https://arxiv.org/abs/1705.04401)
@@ -42,6 +42,7 @@ Please see [arXiv](https://arxiv.org/find/stat/1/au:+McCormick_T/0/1/0/all/0/1) 
 
 ### Affiliations
 + [University of Washington](http://www.uw.edu)
+  + Professor (effective September 2023), [Department of Statistics](http://www.stat.washington.edu/) and [Department of Sociology](https://soc.washington.edu/).
   + Associate Professor, [Department of Statistics](http://www.stat.washington.edu/) and [Department of Sociology](https://soc.washington.edu/).
   + Core faculty member, [Center for Statistics and the Social Sciences](http://csss.washington.edu/). 
   + Senior Data Science Fellow, [eScience Institute](http://escience.washington.edu/).
