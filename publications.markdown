@@ -20,7 +20,7 @@ permalink: /publications/
 krturnbull/DLSN-SMC/)
 
 
-+ Boudreau, L. Heath, R., and McCormick, T. H. [Migrants, information, and working conditions in Bangladeshi garment factories](https://www.dropbox.com/s/wuuig4mzr6ecdwr/BHM.pdf?dl=0). To appear, *Journal of Economic Behavior and Organization*.
++ Boudreau, L. Heath, R., and McCormick, T. H. (2023+) [Migrants, information, and working conditions in Bangladeshi garment factories](https://www.dropbox.com/s/wuuig4mzr6ecdwr/BHM.pdf?dl=0). To appear, *Journal of Economic Behavior and Organization*.
 
 
 + Li, C., Rudin, C., & McCormick, T. H. (2022) [Rethinking nonlinear instrumental variable models through prediction validity](https://jmlr.org/papers/volume23/21-0082/21-0082.pdf). *Journal of Machine Learning Research*, 23(96), 1-55.
