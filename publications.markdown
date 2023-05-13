@@ -4,17 +4,24 @@ title: "Publications"
 permalink: /publications/
 ---
 
-+ Lubold, S, Chandrasekhar, A. G., & McCormick, T. H. (2022+) [Identifying the latent space geometry of network models through analysis
++ Lubold, S, Chandrasekhar, A. G., & McCormick, T. H. (2023+) [Identifying the latent space geometry of network models through analysis
   of curvature](http://arxiv.org/abs/2012.10559). To appear, *Journal of the Royal Statistical Society: Series B*. [overview and code](https://slubold.github.io/LS_Geometry_Summary.html)
 
-+ Marrs, F. W., Fosdick, B. K., & McCormick, T. H. (2022+) [Regression of exchangeable relational arrays](https://academic.oup.com/biomet/advance-article/doi/10.1093/biomet/asac031/6591197?guestAccessKey=62d03068-2156-4b5a-b8a1-122bc083eb11). To appear, *Biometrika (Miscellanea)*. [code](https://github.com/fmarrs3/netreg_public)
++ Yoshida, T., Fan, T. S., McCormick, T., Wu, Z., \& Li, Z. R. (2023). [Bayesian active questionnaire design for cause-of-death assignment using verbal autopsies](http://arxiv.org/abs/2302.08099). To appear, *Conference on Health, Inference, and Learning (CHIL)*.
 
 
- + Li, Z. R., Thomas, J., Choi, E., McCormick, T. H., & Clark, S. J. (2022+). [The openVA toolkit for verbal autopsies](https://arxiv.org/abs/2109.08244). To appear, *The R Journal*. 
++ Marrs, F. W., Fosdick, B. K., & McCormick, T. H. (2023+) [Regression of exchangeable relational arrays](https://academic.oup.com/biomet/advance-article/doi/10.1093/biomet/asac031/6591197?guestAccessKey=62d03068-2156-4b5a-b8a1-122bc083eb11). To appear, *Biometrika (Miscellanea)*. [code](https://github.com/fmarrs3/netreg_public)
 
 
-+ Turnbull, K., Nemeth, C., Nunes, M., & McCormick, T. H. (2022+) [Sequential estimation of temporally evolving latent space network models](https://arxiv.org/abs/2112.10220). To appear, *Computational Statistics and Data Analysis*. [code](https://github.com/
+ + Li, Z. R., Thomas, J., Choi, E., McCormick, T. H., & Clark, S. J. (2023+). [The openVA toolkit for verbal autopsies](https://arxiv.org/abs/2109.08244). To appear, *The R Journal*. 
+
+
++ Turnbull, K., Nemeth, C., Nunes, M., & McCormick, T. H. (2023+) [Sequential estimation of temporally evolving latent space network models](https://arxiv.org/abs/2112.10220). To appear, *Computational Statistics and Data Analysis*. [code](https://github.com/
 krturnbull/DLSN-SMC/)
+
+
++ Boudreau, L. Heath, R., and McCormick, T. H. [Migrants, information, and working conditions in Bangladeshi garment factories](https://www.dropbox.com/s/wuuig4mzr6ecdwr/BHM.pdf?dl=0). To appear, *Journal of Economic Behavior and Organization*.
+
 
 + Li, C., Rudin, C., & McCormick, T. H. (2022) [Rethinking nonlinear instrumental variable models through prediction validity](https://jmlr.org/papers/volume23/21-0082/21-0082.pdf). *Journal of Machine Learning Research*, 23(96), 1-55.
 

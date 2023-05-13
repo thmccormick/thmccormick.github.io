@@ -25,6 +25,7 @@ I currently have multiple openings for postdoctoral collaborators.  For more inf
 ### Technical reports and working papers
 Please see [arXiv](https://arxiv.org/find/stat/1/au:+McCormick_T/0/1/0/all/0/1) for the most up to date list of working papers.
 
++ [The Role of Scaling and Estimating the Degree Ratio in the Network Scale-up Method](https://arxiv.org/abs/2305.04381)
 + [Comparing the robustness of simple Network Scale-Up Method (NSUM) estimators](http://arxiv.org/abs/2303.07490)
 + [Bayesian active questionnaire design for cause-of-death assignment using verbal autopsies](http://arxiv.org/abs/2302.08099)
 + [Asymptotically normal estimation of local latent network curvature](https://arxiv.org/abs/2211.11673)
@@ -37,7 +38,6 @@ Please see [arXiv](https://arxiv.org/find/stat/1/au:+McCormick_T/0/1/0/all/0/1) 
 + [Smart containment with active learning: A proposal for a data-responsive and graded approach to COVID-19](https://www.hks.harvard.edu/centers/cid/publications/smart-containment-with-active-learning) [(more details)](https://www.cerp.org.pk/pages/covid-19-smart-containment-policy-response)
 + [Quantifying the contributions of training data and algorithm logic to the performance of automated cause-assignment algorithms for verbal autopsy](https://arxiv.org/abs/1803.07141)
 + [Examining Racial Segregation in Associative Networks on Twitter](https://arxiv.org/abs/1705.04401)
-+ [Migrants, information, and working conditions in Bangladeshi garment factories](https://www.dropbox.com/s/wuuig4mzr6ecdwr/BHM.pdf?dl=0) 
 
 
 ### Affiliations
