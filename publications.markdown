@@ -4,6 +4,8 @@ title: "Publications"
 permalink: /publications/
 ---
 
++ Breza, E., Chandrasekhar, A. G., Lubold, S., McCormick, T. H., & Pan, M. (2023+) [Consistently estimating graph statistics using Aggregated Relational Data](https://www.pnas.org/eprint/RMPB7XSY7B4CYWK4KSXM/full). To appear, *Proceedings of the National Academy of Sciences (USA). [overview](https://slubold.github.io/ARD_Consistent_Estimation/), [code](https://github.com/slubold/ARD_Consistent_Estimation), [arxiv version](https://arxiv.org/abs/1908.09881)
+
 + Lubold, S, Chandrasekhar, A. G., & McCormick, T. H. (2023+) [Identifying the latent space geometry of network models through analysis
   of curvature](http://arxiv.org/abs/2012.10559). To appear, *Journal of the Royal Statistical Society: Series B*. [overview and code](https://slubold.github.io/LS_Geometry_Summary.html)
 
