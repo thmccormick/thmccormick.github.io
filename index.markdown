@@ -25,11 +25,12 @@ I currently have multiple openings for postdoctoral collaborators.  For more inf
 ### Technical reports and working papers
 Please see [arXiv](https://arxiv.org/find/stat/1/au:+McCormick_T/0/1/0/all/0/1) for the most up to date list of working papers.
 
-+ [The Role of Scaling and Estimating the Degree Ratio in the Network Scale-up Method](https://arxiv.org/abs/2305.04381)
++ [TGeneral covariance-based conditions for Central Limit Theorems with dependent triangular arrays](https://arxiv.org/abs/2308.12506)
++ [The role of scaling and estimating the eegree ratio in the Network Scale-up Method](https://arxiv.org/abs/2305.04381)
 + [Comparing the robustness of simple Network Scale-Up Method (NSUM) estimators](http://arxiv.org/abs/2303.07490)
 + [Asymptotically normal estimation of local latent network curvature](https://arxiv.org/abs/2211.11673)
 + [Bayesian hyperbolic multidimensional scaling](https://arxiv.org/abs/2210.15081)
-+ [Bayesian Age Category Reconciliation for Age- and Cause-specific Under-five Mortality Estimates](https://arxiv.org/abs/2302.11058)
++ [Bayesian age category reconciliation for age- and cause-specific under-five mortality estimates](https://arxiv.org/abs/2302.11058)
 + [Spectral goodness-of-fit tests for complete and partial network data](http://arxiv.org/abs/2106.09702) ([overview and code](https://slubold.github.io/GOF_Summary.html))
 + 	[Estimating spillovers using imprecisely measured networks](https://arxiv.org/abs/1904.00136) [(code)](https://github.com/thmccormick/spillovers-mismeasured-graphs)
 +	[Verbal autopsy in civil registration and vital statistics: The Symptom-Cause Information Archive](https://arxiv.org/abs/1910.00405)
