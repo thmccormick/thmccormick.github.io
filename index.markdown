@@ -26,7 +26,7 @@ I currently have multiple openings for postdoctoral collaborators.  For more inf
 Please see [arXiv](https://arxiv.org/find/stat/1/au:+McCormick_T/0/1/0/all/0/1) for the most up to date list of working papers.
 
 + [General covariance-based conditions for Central Limit Theorems with dependent triangular arrays](https://arxiv.org/abs/2308.12506)
-+ [The role of scaling and estimating the eegree ratio in the Network Scale-up Method](https://arxiv.org/abs/2305.04381)
++ [The role of scaling and estimating the deegree ratio in the Network Scale-up Method](https://arxiv.org/abs/2305.04381)
 + [Comparing the robustness of simple Network Scale-Up Method (NSUM) estimators](http://arxiv.org/abs/2303.07490)
 + [Asymptotically normal estimation of local latent network curvature](https://arxiv.org/abs/2211.11673)
 + [Bayesian hyperbolic multidimensional scaling](https://arxiv.org/abs/2210.15081)
