@@ -4,7 +4,7 @@
 layout: home
 ---
 <figure>
-  <img src="assets/tgoose.jpg" style="padding: 10px; float: left; width:364.8px;height:273.6px;"/>
+  <img src="assets/tyler_pic.jpg" style="padding: 10px; float: left; width:364.8px;height:273.6px;"/>
  </figure>
  My research covers a variety of topics in statistics and data science, typically motivated by scientific questions in global health, economics, demography, and sociology. Recent projects include estimating features of social networks (e.g. the degree of clustering or how central an individual is) using data from standard surveys, inferring a likely cause of death (when deaths happen outside of
 hospitals) using reports from surviving caretakers, and quantifying & communicating uncertainty
@@ -26,6 +26,7 @@ I currently have multiple openings for postdoctoral collaborators.  For more inf
 Please see [arXiv](https://arxiv.org/find/stat/1/au:+McCormick_T/0/1/0/all/0/1) for the most up to date list of working papers.
 
 + [General covariance-based conditions for Central Limit Theorems with dependent triangular arrays](https://arxiv.org/abs/2308.12506)
++ [Respondent-Driven Sampling: An Overview in the Context of Human Trafficking](https://arxiv.org/abs/2309.16160)
 + [The role of scaling and estimating the deegree ratio in the Network Scale-up Method](https://arxiv.org/abs/2305.04381)
 + [Comparing the robustness of simple Network Scale-Up Method (NSUM) estimators](http://arxiv.org/abs/2303.07490)
 + [Asymptotically normal estimation of local latent network curvature](https://arxiv.org/abs/2211.11673)
