@@ -9,6 +9,8 @@ permalink: /publications/
 + Lubold, S, Chandrasekhar, A. G., & McCormick, T. H. (2023+) [Identifying the latent space geometry of network models through analysis
   of curvature](http://arxiv.org/abs/2012.10559). To appear, *Journal of the Royal Statistical Society: Series B*. [overview and code](https://slubold.github.io/LS_Geometry_Summary.html)
 
+ + Liu, B., Lubold, S., Raftery, A. E., & McCormick, T. H. (2023+) [Bayesian hyperbolic multidimensional scaling](https://arxiv.org/abs/2210.15081). To appear, *Journal of Computational and Graphical Statistics*.
+
 + Yoshida, T., Fan, T. S., McCormick, T., Wu, Z., & Li, Z. R. (2023). [Bayesian active questionnaire design for cause-of-death assignment using verbal autopsies](http://arxiv.org/abs/2302.08099). To appear, *Conference on Health, Inference, and Learning (CHIL)*.
 
 + Kunke, J. P., Visokay, A., & McCormick, T. H. (2023+) [Respondent-Driven Sampling: An Overview in the Context of Human Trafficking](https://arxiv.org/abs/2309.16160). To appear, *CHANCE*.
