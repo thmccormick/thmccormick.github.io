@@ -3,6 +3,8 @@ layout: page
 title: "Publications"
 permalink: /publications/
 ---
+Co
++ Kunke, J. P., Laga, I., Niu, X., & McCormick, T. H. (2024+). [Comparing the robustness of simple Network Scale-Up Method (NSUM) estimators](http://arxiv.org/abs/2303.07490). To appear, *Sociological Methodology*. 
 
 + Breza, E., Chandrasekhar, A. G., Lubold, S., McCormick, T. H., & Pan, M. (2023+) [Consistently estimating graph statistics using Aggregated Relational Data](https://www.pnas.org/doi/10.1073/pnas.2207185120). To appear, *Proceedings of the National Academy of Sciences (USA)*. [overview](https://slubold.github.io/ARD_Consistent_Estimation/), [code](https://github.com/slubold/ARD_Consistent_Estimation), [arxiv version](https://arxiv.org/abs/1908.09881)
 
