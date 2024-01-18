@@ -28,6 +28,7 @@ I currently have multiple openings for postdoctoral collaborators.  For more inf
 ### Technical reports and working papers
 Please see [arXiv](https://arxiv.org/find/stat/1/au:+McCormick_T/0/1/0/all/0/1) for the most up to date list of working papers.
 
++ [Do we really even need data?](https://arxiv.org/abs/2401.08702)
 + [General covariance-based conditions for Central Limit Theorems with dependent triangular arrays](https://arxiv.org/abs/2308.12506)
 + [Feasible contact tracing](https://arxiv.org/abs/2312.05718)
 + [The role of scaling and estimating the deegree ratio in the Network Scale-up Method](https://arxiv.org/abs/2305.04381)
