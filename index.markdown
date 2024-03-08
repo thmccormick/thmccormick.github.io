@@ -28,11 +28,13 @@ I currently have multiple openings for postdoctoral collaborators.  For more inf
 ### Technical reports and working papers
 Please see [arXiv](https://arxiv.org/find/stat/1/au:+McCormick_T/0/1/0/all/0/1) for the most up to date list of working papers.
 
++ [Non-robustness of diffusion estimates on networks with measurement error](https://t.co/9mCmLvzEkA)
 + [Do we really even need data?](https://arxiv.org/abs/2401.08702)
 + [General covariance-based conditions for Central Limit Theorems with dependent triangular arrays](https://arxiv.org/abs/2308.12506)
++ [Asymptotically normal estimation of local latent network curvature](https://arxiv.org/abs/2211.11673)
 + [Feasible contact tracing](https://arxiv.org/abs/2312.05718)
 + [The role of scaling and estimating the degree ratio in the Network Scale-up Method](https://arxiv.org/abs/2305.04381)
-+ [Asymptotically normal estimation of local latent network curvature](https://arxiv.org/abs/2211.11673)
++ [Dempster-Shafer P-values: thoughts on an alternative approach for multinomial inference](https://arxiv.org/abs/2402.17070)
 + [Bayesian age category reconciliation for age- and cause-specific under-five mortality estimates](https://arxiv.org/abs/2302.11058)
 + [Spectral goodness-of-fit tests for complete and partial network data](http://arxiv.org/abs/2106.09702) ([overview and code](https://slubold.github.io/GOF_Summary.html))
 + 	[Estimating spillovers using imprecisely measured networks](https://arxiv.org/abs/1904.00136) [(code)](https://github.com/thmccormick/spillovers-mismeasured-graphs)
