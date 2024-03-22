@@ -28,7 +28,7 @@ I currently have multiple openings for postdoctoral collaborators.  For more inf
 ### Technical reports and working papers
 Please see [arXiv](https://arxiv.org/find/stat/1/au:+McCormick_T/0/1/0/all/0/1) for the most up to date list of working papers.
 
-+ [Non-robustness of diffusion estimates on networks with measurement error](https://t.co/9mCmLvzEkA)
++ [Non-robustness of diffusion estimates on networks with measurement error](https://arxiv.org/abs/2403.05704)
 + [Bayesian analysis of verbal autopsy data using factor models with age- and sex-dependent associations between symptoms](https://arxiv.org/abs/2403.12288)
 + [Do we really even need data?](https://arxiv.org/abs/2401.08702)
 + [General covariance-based conditions for Central Limit Theorems with dependent triangular arrays](https://arxiv.org/abs/2308.12506)
