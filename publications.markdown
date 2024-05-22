@@ -6,6 +6,10 @@ permalink: /publications/
 
 + Kunke, J. P., Laga, I., Niu, X., & McCormick, T. H. (2024+). [Comparing the robustness of simple Network Scale-Up Method (NSUM) estimators](http://arxiv.org/abs/2303.07490). To appear, *Sociological Methodology*. 
 
++ Markwalter, C.F., Lapp, Z., Abel, L., Kimachas, E., Omollo, E., Freedman, E., Chepkwony, T., Amunga, M., McCormick, T. H., Berube, S. and Mangeni, J.N., (2024+). [Mosquito and human characteristics influence natural Anopheline biting behavior and Plasmodium falciparum transmission](https://www.medrxiv.org/content/10.1101/2024.01.24.24301433v1). To appear, *Nature Communications*.
+
++ Morrison, L., Brown, E., Paganelli, C. R., Goco, N., & McCormick, T. H. (2024). [Enhancing verbal autopsy with MITS: Cost trade-off study](https://gatesopenresearch.org/documents/8-40), *Gates Open Research*, 8(40), 40.
+
 + Breza, E., Chandrasekhar, A. G., Lubold, S., McCormick, T. H., & Pan, M. (2023+) [Consistently estimating graph statistics using Aggregated Relational Data](https://www.pnas.org/doi/10.1073/pnas.2207185120). To appear, *Proceedings of the National Academy of Sciences (USA)*. [overview](https://slubold.github.io/ARD_Consistent_Estimation/), [code](https://github.com/slubold/ARD_Consistent_Estimation), [arxiv version](https://arxiv.org/abs/1908.09881)
 
 + Lubold, S, Chandrasekhar, A. G., & McCormick, T. H. (2023+) [Identifying the latent space geometry of network models through analysis
