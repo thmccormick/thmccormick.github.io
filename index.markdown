@@ -28,6 +28,7 @@ I currently have multiple openings for postdoctoral collaborators.  For more inf
 ### Technical reports and working papers
 Please see [arXiv](https://arxiv.org/find/stat/1/au:+McCormick_T/0/1/0/all/0/1) for the most up to date list of working papers.
 
++ [Some models are useful, but for how long?: A decision theoretic approach to choosing when to refit large-scale prediction models](https://arxiv.org/abs/2405.13926)
 + [Robustly estimating heterogeneity in factorial data using Rashomon Partitions](https://arxiv.org/abs/2404.02141)
 + [Valid inference using language model predictions from Verbal Autopsy narratives](https://arxiv.org/abs/2404.02438)
 + [Non-robustness of diffusion estimates on networks with measurement error](https://arxiv.org/abs/2403.05704)
