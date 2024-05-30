@@ -30,6 +30,7 @@ Please see [arXiv](https://arxiv.org/find/stat/1/au:+McCormick_T/0/1/0/all/0/1) 
 
 + [Some models are useful, but for how long?: A decision theoretic approach to choosing when to refit large-scale prediction models](https://arxiv.org/abs/2405.13926)
 + [Robustly estimating heterogeneity in factorial data using Rashomon Partitions](https://arxiv.org/abs/2404.02141)
++ [Data-adaptive exposure thresholds for the Horvitz-Thompson estimator of the average treatment effect in experiments with network interference](https://arxiv.org/abs/2405.15887)
 + [Valid inference using language model predictions from Verbal Autopsy narratives](https://arxiv.org/abs/2404.02438)
 + [Non-robustness of diffusion estimates on networks with measurement error](https://arxiv.org/abs/2403.05704)
 + [Bayesian analysis of verbal autopsy data using factor models with age- and sex-dependent associations between symptoms](https://arxiv.org/abs/2403.12288)
