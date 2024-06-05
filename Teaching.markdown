@@ -10,6 +10,9 @@ permalink: /teaching/
 + [Tsuyoshi Kunihama](https://sites.google.com/site/tsuyoshikunihama/) (2016-2017), now Assistant Professor in the Department of Economics at Kwansei Gakuin University.
 
 #### Ph.D. student collaborators (committee chair)
++ [Aparajithan Venkateswaran](https://www.aparavenkat.com/) (2024, currently at Microsoft)
++ [Steve Wilkins-Reeves](https://stevejwr.github.io/) (2024, currently at Meta)
++ [Jerry Wei](https://jerrybubble.github.io/) (2024, currently at [Zoox](https://zoox.com/))
 + [Shane Lubold](https://slubold.github.io) (2023, currently Research Mathematical Statistician in the Center for Statistical Research and Methodology at the U.S. Census Bureau)
 + [Mengjie Pan](https://www.linkedin.com/in/mengjie-pan) (2019, currently at Facebook)
 + [Wesley Lee](https://www.linkedin.com/in/wesley-lee) (2019, currently at Facebook)
