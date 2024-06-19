@@ -28,6 +28,7 @@ I currently have multiple openings for postdoctoral collaborators.  For more inf
 ### Technical reports and working papers
 Please see [arXiv](https://arxiv.org/find/stat/1/au:+McCormick_T/0/1/0/all/0/1) for the most up to date list of working papers.
 
++ [Model-based inference and experimental design for interference using partial network data](https://arxiv.org/abs/2406.11940)
 + [Some models are useful, but for how long?: A decision theoretic approach to choosing when to refit large-scale prediction models](https://arxiv.org/abs/2405.13926)
 + [Robustly estimating heterogeneity in factorial data using Rashomon Partitions](https://arxiv.org/abs/2404.02141)
 + [Data-adaptive exposure thresholds for the Horvitz-Thompson estimator of the average treatment effect in experiments with network interference](https://arxiv.org/abs/2405.15887)
