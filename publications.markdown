@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 ---
 
-+ Fan, S., Visokay, A., Hoffman, K., Salerno, S., Liu, L., Leek, J. T., & McCormick, T. H. (2024+) [Valid inference using language model predictions from Verbal Autopsy narratives](https://arxiv.org/abs/2404.02438). Accepted, *Conference on Language Modeling (COLM)*.
++ Fan, S., Visokay, A., Hoffman, K., Salerno, S., Liu, L., Leek, J. T., & McCormick, T. H. (2024). [Valid inference using language model predictions from Verbal Autopsy narratives](https://arxiv.org/abs/2404.02438). Accepted, *Conference on Language Modeling (COLM)*.
 
 + Kunke, J. P., Laga, I., Niu, X., & McCormick, T. H. (2024+). [Comparing the robustness of simple Network Scale-Up Method (NSUM) estimators](http://arxiv.org/abs/2303.07490). To appear, *Sociological Methodology*. 
 
