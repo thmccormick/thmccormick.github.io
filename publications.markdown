@@ -4,6 +4,8 @@ title: "Publications"
 permalink: /publications/
 ---
 
++ Fan, S., Visokay, A., Hoffman, K., Salerno, S., Liu, L., Leek, J. T., & McCormick, T. H. (2024+) [Valid inference using language model predictions from Verbal Autopsy narratives](https://arxiv.org/abs/2404.02438). Accepted, *Conference on Language Modeling (COLM)*.
+
 + Kunke, J. P., Laga, I., Niu, X., & McCormick, T. H. (2024+). [Comparing the robustness of simple Network Scale-Up Method (NSUM) estimators](http://arxiv.org/abs/2303.07490). To appear, *Sociological Methodology*. 
 
 + Markwalter, C.F., Lapp, Z., Abel, L., Kimachas, E., Omollo, E., Freedman, E., Chepkwony, T., Amunga, M., McCormick, T. H., Berube, S., Mangeni, J.N., Wesolowski, A., Obala, A., Taylor, S. M., & O’Meara, W. P. (2024+). [Mosquito and human characteristics influence natural Anopheline biting behavior and Plasmodium falciparum transmission](https://www.medrxiv.org/content/10.1101/2024.01.24.24301433v1). To appear, *Nature Communications*.
