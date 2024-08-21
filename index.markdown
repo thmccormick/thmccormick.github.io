@@ -48,6 +48,7 @@ I currently have multiple openings for postdoctoral collaborators.  For more inf
   + [Quantifying the contributions of training data and algorithm logic to the performance of automated cause-assignment algorithms for verbal autopsy](https://arxiv.org/abs/1803.07141)
   + [Bayesian age category reconciliation for age- and cause-specific under-five mortality estimates](https://arxiv.org/abs/2302.11058)
   + [Verbal autopsy in civil registration and vital statistics: The Symptom-Cause Information Archive](https://arxiv.org/abs/1910.00405)
+  
   Please see [arXiv](https://arxiv.org/find/stat/1/au:+McCormick_T/0/1/0/all/0/1) for the most up to date list of working papers.
 
 
