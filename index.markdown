@@ -28,26 +28,36 @@ I currently have multiple openings for postdoctoral collaborators.  For more inf
 ### Technical reports and working papers
 Please see [arXiv](https://arxiv.org/find/stat/1/au:+McCormick_T/0/1/0/all/0/1) for the most up to date list of working papers.
 
-+ [Model-based inference and experimental design for interference using partial network data](https://arxiv.org/abs/2406.11940)
-+ [Some models are useful, but for how long?: A decision theoretic approach to choosing when to refit large-scale prediction models](https://arxiv.org/abs/2405.13926)
-+ [Robustly estimating heterogeneity in factorial data using Rashomon Partitions](https://arxiv.org/abs/2404.02141)
-+ [Data-adaptive exposure thresholds for the Horvitz-Thompson estimator of the average treatment effect in experiments with network interference](https://arxiv.org/abs/2405.15887)
-+ [Estimating Controlled Outcome Differences in Complex Surveys for Health Disparities Research](https://arxiv.org/abs/2406.19597)
+
+#### Measurement and modeling of social networks and peer influence
 + [Non-robustness of diffusion estimates on networks with measurement error](https://arxiv.org/abs/2403.05704)
-+ [Bayesian analysis of verbal autopsy data using factor models with age- and sex-dependent associations between symptoms](https://arxiv.org/abs/2403.12288)
-+ [Do we really even need data?](https://arxiv.org/abs/2401.08702)
-+ [General covariance-based conditions for Central Limit Theorems with dependent triangular arrays](https://arxiv.org/abs/2308.12506)
++ [Model-based inference and experimental design for interference using partial network data](https://arxiv.org/abs/2406.11940)
 + [Asymptotically normal estimation of local latent network curvature](https://arxiv.org/abs/2211.11673)
-+ [Feasible contact tracing](https://arxiv.org/abs/2312.05718)
-+ [The role of scaling and estimating the degree ratio in the Network Scale-up Method](https://arxiv.org/abs/2305.04381)
-+ [Dempster-Shafer P-values: thoughts on an alternative approach for multinomial inference](https://arxiv.org/abs/2402.17070)
-+ [Bayesian age category reconciliation for age- and cause-specific under-five mortality estimates](https://arxiv.org/abs/2302.11058)
 + [Spectral goodness-of-fit tests for complete and partial network data](http://arxiv.org/abs/2106.09702) ([overview and code](https://slubold.github.io/GOF_Summary.html))
-+ 	[Estimating spillovers using imprecisely measured networks](https://arxiv.org/abs/1904.00136) [(code)](https://github.com/thmccormick/spillovers-mismeasured-graphs)
-+	[Verbal autopsy in civil registration and vital statistics: The Symptom-Cause Information Archive](https://arxiv.org/abs/1910.00405)
++ [Data-adaptive exposure thresholds for the Horvitz-Thompson estimator of the average treatment effect in experiments with network interference](https://arxiv.org/abs/2405.15887)
++ [The role of scaling and estimating the degree ratio in the Network Scale-up Method](https://arxiv.org/abs/2305.04381)
++ [Estimating spillovers using imprecisely measured networks](https://arxiv.org/abs/1904.00136) [(code)](https://github.com/thmccormick/spillovers-mismeasured-graphs)
++ [Examining Racial Segregation in Associative Networks on Twitter](https://arxiv.org/abs/1705.04401)
++ [General covariance-based conditions for Central Limit Theorems with dependent triangular arrays](https://arxiv.org/abs/2308.12506)
+
+
+
+#### Decision-making under uncertainty
++ [Robustly estimating heterogeneity in factorial data using Rashomon Partitions](https://arxiv.org/abs/2404.02141)
++ [Some models are useful, but for how long?: A decision theoretic approach to choosing when to refit large-scale prediction models](https://arxiv.org/abs/2405.13926)
++ [Do we really even need data?](https://arxiv.org/abs/2401.08702)
+
+
+
+#### Global health methodology and data collection strategies
++ [Bayesian analysis of verbal autopsy data using factor models with age- and sex-dependent associations between symptoms](https://arxiv.org/abs/2403.12288)
++ [Estimating Controlled Outcome Differences in Complex Surveys for Health Disparities Research](https://arxiv.org/abs/2406.19597)
++ [Feasible contact tracing](https://arxiv.org/abs/2312.05718)
 + [Smart containment with active learning: A proposal for a data-responsive and graded approach to COVID-19](https://www.hks.harvard.edu/centers/cid/publications/smart-containment-with-active-learning) [(more details)](https://www.cerp.org.pk/pages/covid-19-smart-containment-policy-response)
 + [Quantifying the contributions of training data and algorithm logic to the performance of automated cause-assignment algorithms for verbal autopsy](https://arxiv.org/abs/1803.07141)
-+ [Examining Racial Segregation in Associative Networks on Twitter](https://arxiv.org/abs/1705.04401)
++ [Bayesian age category reconciliation for age- and cause-specific under-five mortality estimates](https://arxiv.org/abs/2302.11058)
++ [Verbal autopsy in civil registration and vital statistics: The Symptom-Cause Information Archive](https://arxiv.org/abs/1910.00405)
+
 
 
 ### Affiliations
