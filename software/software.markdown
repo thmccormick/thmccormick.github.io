@@ -7,6 +7,10 @@ permalink: /software/
 
 Software packages:
 
+
++ [RashomonPartitionSets](https://github.com/AparaV/rashomon-partition-sets). Model uncertainty with Rashomon sets (Python package).
++ [SBMNetReg](https://github.com/SteveJWR/SBMNetReg). Inference and experimental design with partial network data.
++ [lolaR](https://github.com/SteveJWR/lolaR). Latent curvature estimation for networks. 
 + [dma](http://cran.stat.ucla.edu/web/packages/dma/). Dynamic model averaging.
 + [netregR](https://cran.r-project.org/web/packages/netregR/index.html). Standard errors for regressions on networks.
 + [NSUM](http://cran.r-project.org/web/packages/NSUM/index.html). Network scale-up method.
