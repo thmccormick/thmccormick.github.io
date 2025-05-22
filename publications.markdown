@@ -4,7 +4,9 @@ title: "Publications"
 permalink: /publications/
 ---
 
-+ Salerno, S., Miao, J., Afiaz, A., Hoffman, K., Neufeld, A., Lu, Q., McCormick, T.H. and Leek, J.T. (2025). [ipd: An R Package for Conducting Inference on Predicted Data](https://academic.oup.com/bioinformatics/article/41/2/btaf055/7997267). *Bioinformatics*, 41(2).
+ + Kunihama, T., Li, Z. R., Clark, S. J., & McCormick, T. H. (2025+) [Bayesian analysis of verbal autopsy data using factor models with age- and sex-dependent associations between symptoms](https://arxiv.org/abs/2403.12288). To appear, *Annals of Applied Statistics.*
+
++ Salerno, S., Miao, J., Afiaz, A., Hoffman, K., Neufeld, A., Lu, Q., McCormick, T.H. & Leek, J.T. (2025). [ipd: An R Package for Conducting Inference on Predicted Data](https://academic.oup.com/bioinformatics/article/41/2/btaf055/7997267). *Bioinformatics*, 41(2).
 
 + Fan, S., Visokay, A., Hoffman, K., Salerno, S., Liu, L., Leek, J. T., & McCormick, T. H. (2024). [Valid inference using language model predictions from Verbal Autopsy narratives](https://arxiv.org/abs/2404.02438). Accepted, *Conference on Language Modeling (COLM)*.
 

@@ -43,7 +43,6 @@ A link to my slides from the ASA Webinar on the role of statistics in AI is [her
   + [Some models are useful, but for how long?: A decision theoretic approach to choosing when to refit large-scale prediction models](https://arxiv.org/abs/2405.13926)
   + [Do we really even need data?](https://arxiv.org/abs/2401.08702)
 + Global health methodology and data collection strategies
-  + [Bayesian analysis of verbal autopsy data using factor models with age- and sex-dependent associations between symptoms](https://arxiv.org/abs/2403.12288)
   + [Estimating Controlled Outcome Differences in Complex Surveys for Health Disparities Research](https://arxiv.org/abs/2406.19597)
   + [Feasible contact tracing](https://arxiv.org/abs/2312.05718)
   + [Smart containment with active learning: A proposal for a data-responsive and graded approach to COVID-19](https://www.hks.harvard.edu/centers/cid/publications/smart-containment-with-active-learning) [(more details)](https://www.cerp.org.pk/pages/covid-19-smart-containment-policy-response)
