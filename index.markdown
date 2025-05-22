@@ -38,6 +38,8 @@ A link to my slides from the ASA Webinar on the role of statistics in AI is [her
   + [Examining Racial Segregation in Associative Networks on Twitter](https://arxiv.org/abs/1705.04401)
 + Decision-making under uncertainty
   + [Robustly estimating heterogeneity in factorial data using Rashomon Partitions](https://arxiv.org/abs/2404.02141) ([Python package & code](https://github.com/AparaV/rashomon-partition-sets))
+  + [How to measure obesity in public health research? Problems with using BMI for population inference](https://www.medrxiv.org/content/10.1101/2025.04.01.25325037v1)
+  + [When you come to a fork in the road, take it: the Rashomon effect for social scientists](https://osf.io/preprints/socarxiv/8zybt_v1)
   + [Some models are useful, but for how long?: A decision theoretic approach to choosing when to refit large-scale prediction models](https://arxiv.org/abs/2405.13926)
   + [Do we really even need data?](https://arxiv.org/abs/2401.08702)
 + Global health methodology and data collection strategies
