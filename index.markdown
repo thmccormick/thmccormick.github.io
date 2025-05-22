@@ -17,7 +17,11 @@ I'm the former Editor of the [Journal of Computational and Graphical Statistics]
 An description of some of our work recently appeared in the [Wall Street Journal](https://www.wsj.com/us-news/you-probably-know-611-people-heres-how-we-know-88dd27d9?mod=wsjhp_columnists_pos2) and it was used for a [visual story](https://www.washingtonpost.com/world/interactive/2024/gaza-numbers-killed-displaced-scale/?itid=ap_alyssafowers) in the Washington Post.
 <br>
 
+I currently an openings for a postdoctoral collaborators.  For more information and to apply directly please email me.
+<br>
 
+A link to my slides from the ASA Webinar on the role of statistics in AI is [here](https://docs.google.com/presentation/d/1uL2pO80lk1T5ahLi3vDFo5NDAMZ_wdnDIYGFk6xZ-Bg/edit?usp=sharing).
+<br>
 <!--
 Quick [link](https://thmccormick.github.io/class/567_au20) to the homepage for Stat/CSSS 567, Social network analysis, offered Autumn 2020.
 Go here for more info about a few current projects.
