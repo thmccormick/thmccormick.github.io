@@ -23,11 +23,6 @@ I currently an openings for a postdoctoral collaborators.  For more information 
 A link to my slides from the ASA Webinar on the role of statistics in AI is [here](https://docs.google.com/presentation/d/1uL2pO80lk1T5ahLi3vDFo5NDAMZ_wdnDIYGFk6xZ-Bg/edit?usp=sharing).
 <br>
 
-<!--
-Quick [link](https://thmccormick.github.io/class/567_au20) to the homepage for Stat/CSSS 567, Social network analysis, offered Autumn 2020.
-Go here for more info about a few current projects.
-
-I currently have multiple openings for postdoctoral collaborators.  For more information and to apply directly please see [here](https://apply.interfolio.com/100917).  -->
 
 
 ### Technical reports and working papers
