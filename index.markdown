@@ -32,7 +32,6 @@ A link to my slides from the ASA Webinar on the role of statistics in AI is [her
   + [Asymptotically normal estimation of local latent network curvature](https://arxiv.org/abs/2211.11673) ([R package](https://github.com/SteveJWR/lolaR), [code](https://github.com/SteveJWR/netcurve))
   + [General covariance-based conditions for Central Limit Theorems with dependent triangular arrays](https://arxiv.org/abs/2308.12506)
   + [Data-adaptive exposure thresholds for the Horvitz-Thompson estimator of the average treatment effect in experiments with network interference](https://arxiv.org/abs/2405.15887)
-  + [The role of scaling and estimating the degree ratio in the Network Scale-up Method](https://arxiv.org/abs/2305.04381)
   + [Spectral goodness-of-fit tests for complete and partial network data](http://arxiv.org/abs/2106.09702) ([overview and code](https://slubold.github.io/GOF_Summary.html))
   + [Estimating spillovers using imprecisely measured networks](https://arxiv.org/abs/1904.00136) [(code)](https://github.com/thmccormick/spillovers-mismeasured-graphs)
   + [Examining Racial Segregation in Associative Networks on Twitter](https://arxiv.org/abs/1705.04401)
