@@ -23,6 +23,7 @@ permalink: /teaching/
 
 
 #### Masters and undergraduate collaborators
++ [Qirui Zhao](https://stat.uw.edu/people/qirui-zhao), now Ph.D. candidate at UT Austin Statistics & Data Science.
 + [Houjie Wang](https://scholars.duke.edu/person/houjie.wang), now Ph.D. candidate at Duke University Statistical Science
 + [Alina Arseniev-Koehler](https://soc.ucla.edu/grads/alina-arseniev-koehler), UW Sociology undergraduate thesis, now Ph.D. candidate at UCLA Sociology.
 + [Harrison Reeder](https://www.hsph.harvard.edu/biostatistics/tag/harrison-reeder/), Carleton summer undergraduate visitor, now Ph.D. candidate at Harvard Biostatistics
