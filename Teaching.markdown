@@ -4,12 +4,15 @@ title: "Teaching & Mentoring"
 permalink: /teaching/
 ---
 #### Postdoctoral collaborators
++ [Kentaro Hoffman](https://khoffm4.github.io/) (current)
 + [Rrita Zejnullahi](https://rrita-zejnullahi.netlify.app/#about) (2021-2023), now Clinical Assistant Professor of Biostatistics · University of Illinois Chicago.
 + [Tim Thomas](https://timathomas.github.io/) (2017-2019), now at the Berkeley Urban Displacement Project.
 + [Gwen Eadie](http://www.gweneadie.com/) (2017-2019), now Assistant Professor of Statistics & Astronomy at the University of Toronto.
 + [Tsuyoshi Kunihama](https://sites.google.com/site/tsuyoshikunihama/) (2016-2017), now Assistant Professor in the Department of Economics at Kwansei Gakuin University.
 
 #### Ph.D. student collaborators (committee chair)
++ [Jess Kunke](https://jpierkunke.github.io/) (2025, currently Assistant Professor of Mathematical Statistics at Montanta State University)
++ [Trinity Fan](https://trinity-shuxianfan.com/) (2025, currently Applied Scientist at Amazon)
 + [Aparajithan Venkateswaran](https://www.aparavenkat.com/) (2024, currently at Microsoft)
 + [Steve Wilkins-Reeves](https://stevejwr.github.io/) (2024, currently at Meta)
 + [Jerry Wei](https://jerrybubble.github.io/) (2024, currently at [Zoox](https://zoox.com/))
