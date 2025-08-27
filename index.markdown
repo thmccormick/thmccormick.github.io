@@ -32,7 +32,6 @@ A link to my slides from the ASA Webinar on the role of statistics in AI is [her
   + [Asymptotically normal estimation of local latent network curvature](https://arxiv.org/abs/2211.11673) ([R package](https://github.com/SteveJWR/lolaR), [code](https://github.com/SteveJWR/netcurve))
   + [General covariance-based conditions for Central Limit Theorems with dependent triangular arrays](https://arxiv.org/abs/2308.12506)
   + [Data-adaptive exposure thresholds for the Horvitz-Thompson estimator of the average treatment effect in experiments with network interference](https://arxiv.org/abs/2405.15887)
-  + [Spectral goodness-of-fit tests for complete and partial network data](http://arxiv.org/abs/2106.09702) ([overview and code](https://slubold.github.io/GOF_Summary.html))
   + [Estimating spillovers using imprecisely measured networks](https://arxiv.org/abs/1904.00136) [(code)](https://github.com/thmccormick/spillovers-mismeasured-graphs)
   + [Examining Racial Segregation in Associative Networks on Twitter](https://arxiv.org/abs/1705.04401)
 + Decision-making under uncertainty
@@ -41,6 +40,8 @@ A link to my slides from the ASA Webinar on the role of statistics in AI is [her
   + [When you come to a fork in the road, take it: the Rashomon effect for social scientists](https://osf.io/preprints/socarxiv/8zybt_v1)
   + [Some models are useful, but for how long?: A decision theoretic approach to choosing when to refit large-scale prediction models](https://arxiv.org/abs/2405.13926)
   + [Do we really even need data?](https://arxiv.org/abs/2401.08702)
+  + [A unified framework for inference with general missingness patterns and machine learning imputation](https://arxiv.org/abs/2508.15162)
+  + [A moment-based generalization to Post-Prediction Inference](https://arxiv.org/abs/2507.09119)
 + Global health methodology and data collection strategies
   + [Estimating Controlled Outcome Differences in Complex Surveys for Health Disparities Research](https://arxiv.org/abs/2406.19597)
   + [Feasible contact tracing](https://arxiv.org/abs/2312.05718)
@@ -49,7 +50,7 @@ A link to my slides from the ASA Webinar on the role of statistics in AI is [her
   + [Bayesian age category reconciliation for age- and cause-specific under-five mortality estimates](https://arxiv.org/abs/2302.11058)
   + [Verbal autopsy in civil registration and vital statistics: The Symptom-Cause Information Archive](https://arxiv.org/abs/1910.00405)
   
-  Please see [arXiv](https://arxiv.org/find/stat/1/au:+McCormick_T/0/1/0/all/0/1) for the most up to date list of working papers.
+  Please see [arXiv](https://arxiv.org/search/?searchtype=author&query=McCormick%2C+T) for the most up to date list of working papers.
 
 
 

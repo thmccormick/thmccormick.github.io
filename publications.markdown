@@ -10,6 +10,8 @@ permalink: /publications/
 
 + Salerno, S., Miao, J., Afiaz, A., Hoffman, K., Neufeld, A., Lu, Q., McCormick, T.H. & Leek, J.T. (2025). [ipd: An R Package for Conducting Inference on Predicted Data](https://academic.oup.com/bioinformatics/article/41/2/btaf055/7997267). *Bioinformatics*, 41(2).
 
++ Lubold, S., Liu, B., & McCormick, T. H. (2025+) [Spectral goodness-of-fit tests for complete and partial network data](http://arxiv.org/abs/2106.09702). To appear, *Network Science.* ([overview and code](https://slubold.github.io/GOF_Summary.html))
+
 + Fan, S., Visokay, A., Hoffman, K., Salerno, S., Liu, L., Leek, J. T., & McCormick, T. H. (2024). [Valid inference using language model predictions from Verbal Autopsy narratives](https://arxiv.org/abs/2404.02438). Accepted, *Conference on Language Modeling (COLM)*.
 
 + Kunke, J. P., Laga, I., Niu, X., & McCormick, T. H. (2024+). [Comparing the robustness of simple Network Scale-Up Method (NSUM) estimators](http://arxiv.org/abs/2303.07490). To appear, *Sociological Methodology*. 
