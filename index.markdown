@@ -31,7 +31,6 @@ A link to my slides from the ASA Webinar on the role of statistics in AI is [her
   + [Model-based inference and experimental design for interference using partial network data](https://arxiv.org/abs/2406.11940) ([R package](https://github.com/SteveJWR/SBMNetReg), [code](https://github.com/SteveJWR/ardexp))
   + [Asymptotically normal estimation of local latent network curvature](https://arxiv.org/abs/2211.11673) ([R package](https://github.com/SteveJWR/lolaR), [code](https://github.com/SteveJWR/netcurve))
   + [General covariance-based conditions for Central Limit Theorems with dependent triangular arrays](https://arxiv.org/abs/2308.12506)
-  + [Data-adaptive exposure thresholds for the Horvitz-Thompson estimator of the average treatment effect in experiments with network interference](https://arxiv.org/abs/2405.15887)
   + [Estimating spillovers using imprecisely measured networks](https://arxiv.org/abs/1904.00136) [(code)](https://github.com/thmccormick/spillovers-mismeasured-graphs)
   + [Examining Racial Segregation in Associative Networks on Twitter](https://arxiv.org/abs/1705.04401)
 + Decision-making under uncertainty

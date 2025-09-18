@@ -4,6 +4,8 @@ title: "Publications"
 permalink: /publications/
 ---
 
++  Thiyageswaran, V., McCormick, T., & Brennan, J. (2025). [Data-adaptive exposure thresholds for the Horvitz-Thompson estimator of the average treatment effect in experiments with network interference](https://arxiv.org/abs/2405.15887). To appear, *Neurips 2025*.
+
 + Laga, I., Kunke, J. P., McCormick, T. H., & Niu, X. (2025+). [The role of scaling and estimating the degree ratio in the Network Scale-up Method](https://arxiv.org/abs/2305.04381). To appear, *Sociological Methods & Research.*
  
  + Kunihama, T., Li, Z. R., Clark, S. J., & McCormick, T. H. (2025+) [Bayesian analysis of verbal autopsy data using factor models with age- and sex-dependent associations between symptoms](https://arxiv.org/abs/2403.12288). To appear, *Annals of Applied Statistics.*
