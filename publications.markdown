@@ -6,7 +6,7 @@ permalink: /publications/
 
 +  Thiyageswaran, V., McCormick, T., & Brennan, J. (2025). [Data-adaptive exposure thresholds for the Horvitz-Thompson estimator of the average treatment effect in experiments with network interference](https://arxiv.org/abs/2405.15887). To appear, *Neurips 2025*.
 
-+ Salerno, S., Roberts, E. K., Needham, B. L., McCormick, T. H., Mukherjee, B., & Shi, X. (2025+) [What's the weight? Estimating Controlled Outcome Differences in Complex Surveys for Health Disparities Research](https://arxiv.org/abs/2406.19597). To appear, *Statistics in Medicine.*
++ Salerno, S., Roberts, E. K., Needham, B. L., McCormick, T. H., Mukherjee, B., & Shi, X. (2025+). [What's the weight? Estimating Controlled Outcome Differences in Complex Surveys for Health Disparities Research](https://arxiv.org/abs/2406.19597). To appear, *Statistics in Medicine.*
 
 + Laga, I., Kunke, J. P., McCormick, T. H., & Niu, X. (2025+). [The role of scaling and estimating the degree ratio in the Network Scale-up Method](https://arxiv.org/abs/2305.04381). To appear, *Sociological Methods & Research.*
  
