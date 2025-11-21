@@ -39,6 +39,7 @@ A link to my slides from the ASA Webinar on the role of statistics in AI is [her
   + [A unified framework for inference with general missingness patterns and machine learning imputation](https://arxiv.org/abs/2508.15162)
   + [A moment-based generalization to Post-Prediction Inference](https://arxiv.org/abs/2507.09119)
 + Global health methodology and data collection strategies
+  + [LAVA: Language Model Assisted Verbal Autopsy for Cause-of-Death Determination](https://arxiv.org/abs/2509.09602)
   + [Feasible contact tracing](https://arxiv.org/abs/2312.05718)
   + [Smart containment with active learning: A proposal for a data-responsive and graded approach to COVID-19](https://www.hks.harvard.edu/centers/cid/publications/smart-containment-with-active-learning) [(more details)](https://www.cerp.org.pk/pages/covid-19-smart-containment-policy-response)
   + [Quantifying the contributions of training data and algorithm logic to the performance of automated cause-assignment algorithms for verbal autopsy](https://arxiv.org/abs/1803.07141)
