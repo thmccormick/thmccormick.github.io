@@ -11,7 +11,7 @@ permalink: /teaching/
 + [Tsuyoshi Kunihama](https://sites.google.com/site/tsuyoshikunihama/) (2016-2017), now Assistant Professor in the Department of Economics at Kwansei Gakuin University.
 
 #### Ph.D. student collaborators (committee chair)
-+ [Jess Kunke](https://jpierkunke.github.io/) (2025, currently Assistant Professor of Mathematical Statistics at Montanta State University)
++ [Jess Kunke](https://jpierkunke.github.io/) (2025, currently Assistant Professor of Mathematical Statistics at Montana State University)
 + [Trinity Fan](https://trinity-shuxianfan.com/) (2025, currently Applied Scientist at Amazon)
 + [Aparajithan Venkateswaran](https://www.aparavenkat.com/) (2024, currently at Microsoft)
 + [Steve Wilkins-Reeves](https://stevejwr.github.io/) (2024, currently at Meta)
