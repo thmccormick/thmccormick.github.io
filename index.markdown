@@ -35,7 +35,7 @@ A link to my slides from the ASA Webinar on the role of statistics in AI is [her
   + [How to measure obesity in public health research? Problems with using BMI for population inference](https://www.medrxiv.org/content/10.1101/2025.04.01.25325037v1)
   + [When you come to a fork in the road, take it: the Rashomon effect for social scientists](https://osf.io/preprints/socarxiv/8zybt_v1)
   + [Some models are useful, but for how long?: A decision theoretic approach to choosing when to refit large-scale prediction models](https://arxiv.org/abs/2405.13926)
-  + [Do we really even need data?](https://arxiv.org/abs/2401.08702)
+  + [Do we really even need data?](https://arxiv.org/abs/2512.05456)
   + [A unified framework for inference with general missingness patterns and machine learning imputation](https://arxiv.org/abs/2508.15162)
   + [A moment-based generalization to Post-Prediction Inference](https://arxiv.org/abs/2507.09119)
 + Global health methodology and data collection strategies
