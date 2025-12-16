@@ -25,6 +25,7 @@ A link to my slides from the ASA Webinar on the role of statistics in AI is [her
 ### Technical reports and working papers
 + Measurement and modeling of social networks and peer influence
   + [Non-robustness of diffusion estimates on networks with measurement error](https://arxiv.org/abs/2403.05704) (Revise & Resubmit, *Econometrica.*)
+  + [Scalable Spatial Stream Network (S3N) Models](https://arxiv.org/abs/2512.12398)
   + [Model-based inference and experimental design for interference using partial network data](https://arxiv.org/abs/2406.11940) ([R package](https://github.com/SteveJWR/SBMNetReg), [code](https://github.com/SteveJWR/ardexp))
   + [Asymptotically normal estimation of local latent network curvature](https://arxiv.org/abs/2211.11673) ([R package](https://github.com/SteveJWR/lolaR), [code](https://github.com/SteveJWR/netcurve))
   + [General covariance-based conditions for Central Limit Theorems with dependent triangular arrays](https://arxiv.org/abs/2308.12506)
