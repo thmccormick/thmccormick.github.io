@@ -20,7 +20,8 @@ An description of some of our work recently appeared in the [Wall Street Journal
 A link to my slides from the ASA Webinar on the role of statistics in AI is [here](https://docs.google.com/presentation/d/1uL2pO80lk1T5ahLi3vDFo5NDAMZ_wdnDIYGFk6xZ-Bg/edit?usp=sharing).
 <br>
 
-
+A new paper on the epidemiology of AI is [here](https://arxiv.org/abs/2604.14086).
+<br>
 
 ### Technical reports and working papers
 + Measurement and modeling of social networks and peer influence
@@ -35,6 +36,7 @@ A link to my slides from the ASA Webinar on the role of statistics in AI is [her
 + Decision-making under uncertainty
   + [Robustly estimating heterogeneity in factorial data using Rashomon Partitions](https://arxiv.org/abs/2404.02141) ([Python package & code](https://github.com/AparaV/rashomon-partition-sets))
   + [Spatially robust inference with predicted and missing at random labels](https://arxiv.org/abs/2603.11368)
+  + [REALITrees: Rashomon Ensemble Active Learning for Interpretable Trees](https://arxiv.org/abs/2603.22750)
   + [Adaptive active learning for regression via reinforcement learning](https://arxiv.org/abs/2603.10435)
   + [How to measure obesity in public health research? Problems with using BMI for population inference](https://www.medrxiv.org/content/10.1101/2025.04.01.25325037v1)
   + [When you come to a fork in the road, take it: the Rashomon effect for social scientists](https://osf.io/preprints/socarxiv/8zybt_v2)
