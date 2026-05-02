@@ -23,6 +23,9 @@ A link to my slides from the ASA Webinar on the role of statistics in AI is [her
 A new paper on the epidemiology of AI is [here](https://arxiv.org/abs/2604.14086).
 <br>
 
+A link to our ENAR short course is [here](https://thmccormick.github.io/ipd-short-course/).
+<br>
+
 ### Technical reports and working papers
 + Measurement and modeling of social networks and peer influence
   + [Non-robustness of diffusion estimates on networks with measurement error](https://arxiv.org/abs/2403.05704) (Revise & Resubmit, *Econometrica.*)
