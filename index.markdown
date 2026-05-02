@@ -3,6 +3,137 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
 ---
+<style>
+  .sicss-announcement {
+    align-items: center;
+    background: #f9fafb;
+    border: 1px solid #e5e7eb;
+    border-left: 5px solid #4b2e83;
+    border-radius: 6px;
+    display: flex;
+    gap: 18px;
+    margin: 0 0 22px;
+    padding: 16px 48px 16px 18px;
+    position: relative;
+  }
+
+  .sicss-announcement[hidden] {
+    display: none;
+  }
+
+  .sicss-announcement__image {
+    border-radius: 4px;
+    flex: 0 0 112px;
+    height: 112px;
+    object-fit: cover;
+    width: 112px;
+  }
+
+  .sicss-announcement__headline {
+    color: #111827;
+    font-size: 1.2rem;
+    font-weight: 600;
+    line-height: 1.25;
+    margin: 0 0 4px;
+  }
+
+  .sicss-announcement__date {
+    color: #4b2e83;
+    font-size: 0.95rem;
+    font-weight: 600;
+    line-height: 1.35;
+    margin: 0 0 8px;
+  }
+
+  .sicss-announcement__body {
+    color: #374151;
+    font-size: 1rem;
+    line-height: 1.5;
+    margin: 0;
+  }
+
+  .sicss-announcement__dismiss {
+    background: transparent;
+    border: 0;
+    border-radius: 4px;
+    color: #6b7280;
+    cursor: pointer;
+    font-size: 1.6rem;
+    height: 32px;
+    line-height: 1;
+    padding: 0;
+    position: absolute;
+    right: 8px;
+    top: 8px;
+    width: 32px;
+  }
+
+  .sicss-announcement__dismiss:hover,
+  .sicss-announcement__dismiss:focus {
+    background: #eef2f7;
+    color: #111827;
+  }
+
+  @media screen and (max-width: 560px) {
+    .sicss-announcement {
+      align-items: flex-start;
+      gap: 12px;
+      padding: 14px 42px 14px 14px;
+    }
+
+    .sicss-announcement__image {
+      flex-basis: 78px;
+      height: 78px;
+      width: 78px;
+    }
+
+    .sicss-announcement__headline {
+      font-size: 1.05rem;
+    }
+
+    .sicss-announcement__body {
+      font-size: 0.95rem;
+    }
+  }
+</style>
+
+<aside id="sicss-announcement" class="sicss-announcement" role="region" aria-labelledby="sicss-announcement-title">
+  <img class="sicss-announcement__image" src="assets/sicss-uw-2026.png" alt="Computational Social Science Summer Institute badge" />
+  <div class="sicss-announcement__content">
+    <p id="sicss-announcement-title" class="sicss-announcement__headline">Summer Institute in Computational Social Science</p>
+    <p class="sicss-announcement__date">July 6 to July 17, 2026</p>
+    <p class="sicss-announcement__body">We're soliciting applications from graduate students, postdoctoral researchers, junior faculty, and data science practitioners. The program will have a special emphasis on AI-centered computational social science. More information &amp; application is here: <a href="https://sicss.io/2026/uw/">https://sicss.io/2026/uw/</a>.</p>
+  </div>
+  <button id="sicss-announcement-dismiss" class="sicss-announcement__dismiss" type="button" aria-label="Dismiss summer institute announcement">&times;</button>
+</aside>
+
+<script>
+  (function() {
+    var banner = document.getElementById('sicss-announcement');
+    var dismiss = document.getElementById('sicss-announcement-dismiss');
+    var storageKey = 'sicss-uw-2026-announcement-dismissed';
+
+    if (!banner || !dismiss) {
+      return;
+    }
+
+    try {
+      if (window.localStorage.getItem(storageKey) === 'true') {
+        banner.hidden = true;
+        return;
+      }
+    } catch (error) {}
+
+    dismiss.addEventListener('click', function() {
+      banner.hidden = true;
+
+      try {
+        window.localStorage.setItem(storageKey, 'true');
+      } catch (error) {}
+    });
+  })();
+</script>
+
 <figure>
   <img src="assets/tylerpic.jpg" style="padding: 10px; float: left; width:364.8px;height:273.6px;"/>
  </figure>
