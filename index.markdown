@@ -22,10 +22,11 @@ layout: home
   }
 
   .sicss-announcement__image {
+    background: #ffffff;
     border-radius: 4px;
     flex: 0 0 112px;
     height: 112px;
-    object-fit: cover;
+    object-fit: contain;
     width: 112px;
   }
 
@@ -97,39 +98,51 @@ layout: home
   }
 </style>
 
-<aside id="sicss-announcement" class="sicss-announcement" role="region" aria-labelledby="sicss-announcement-title">
+<aside id="sicss-announcement" class="sicss-announcement" role="region" aria-labelledby="sicss-announcement-title" data-announcement-key="sicss-uw-2026-announcement-dismissed">
   <img class="sicss-announcement__image" src="assets/sicss-uw-2026.png" alt="Computational Social Science Summer Institute badge" />
   <div class="sicss-announcement__content">
     <p id="sicss-announcement-title" class="sicss-announcement__headline">Summer Institute in Computational Social Science</p>
     <p class="sicss-announcement__date">July 6 to July 17, 2026</p>
-    <p class="sicss-announcement__body">We're soliciting applications from graduate students, postdoctoral researchers, junior faculty, and data science practitioners. The program will have a special emphasis on AI-centered computational social science. More information &amp; application is here: <a href="https://sicss.io/2026/uw/">https://sicss.io/2026/uw/</a>.</p>
+    <p class="sicss-announcement__body">We're soliciting applications from graduate students, postdoctoral researchers, junior faculty, and data science practitioners. The program will have a special emphasis on AI-centered computational social science. More information and the application are here: <a href="https://sicss.io/2026/uw/">https://sicss.io/2026/uw/</a>.</p>
   </div>
-  <button id="sicss-announcement-dismiss" class="sicss-announcement__dismiss" type="button" aria-label="Dismiss summer institute announcement">&times;</button>
+  <button class="sicss-announcement__dismiss" type="button" aria-label="Dismiss summer institute announcement">&times;</button>
+</aside>
+
+<aside id="epidemiology-ai-announcement" class="sicss-announcement" role="region" aria-labelledby="epidemiology-ai-announcement-title" data-announcement-key="epidemiology-ai-2026-announcement-dismissed">
+  <img class="sicss-announcement__image" src="assets/epidemiology-ai-2026.jpg" alt="Illustration of AI exposure networks in healthcare and daily life" />
+  <div class="sicss-announcement__content">
+    <p id="epidemiology-ai-announcement-title" class="sicss-announcement__headline">The Epidemiology of Artificial Intelligence</p>
+    <p class="sicss-announcement__body">Our new paper proposes a framework for measuring AI exposure and studying its health effects at the population level. Read the full paper here: <a href="https://arxiv.org/abs/2604.14086">https://arxiv.org/abs/2604.14086</a>. Comments welcome!</p>
+  </div>
+  <button class="sicss-announcement__dismiss" type="button" aria-label="Dismiss epidemiology of AI announcement">&times;</button>
 </aside>
 
 <script>
   (function() {
-    var banner = document.getElementById('sicss-announcement');
-    var dismiss = document.getElementById('sicss-announcement-dismiss');
-    var storageKey = 'sicss-uw-2026-announcement-dismissed';
+    var banners = document.querySelectorAll('.sicss-announcement[data-announcement-key]');
 
-    if (!banner || !dismiss) {
-      return;
-    }
+    Array.prototype.forEach.call(banners, function(banner) {
+      var dismiss = banner.querySelector('.sicss-announcement__dismiss');
+      var storageKey = banner.getAttribute('data-announcement-key');
 
-    try {
-      if (window.localStorage.getItem(storageKey) === 'true') {
-        banner.hidden = true;
+      if (!dismiss || !storageKey) {
         return;
       }
-    } catch (error) {}
-
-    dismiss.addEventListener('click', function() {
-      banner.hidden = true;
 
       try {
-        window.localStorage.setItem(storageKey, 'true');
+        if (window.localStorage.getItem(storageKey) === 'true') {
+          banner.hidden = true;
+          return;
+        }
       } catch (error) {}
+
+      dismiss.addEventListener('click', function() {
+        banner.hidden = true;
+
+        try {
+          window.localStorage.setItem(storageKey, 'true');
+        } catch (error) {}
+      });
     });
   })();
 </script>
