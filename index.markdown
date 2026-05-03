@@ -158,7 +158,7 @@ in predictive models for global health policymakers. More information about Open
 I'm the former Editor of the [Journal of Computational and Graphical Statistics](https://www.tandfonline.com/action/journalInformation?show=editorialBoard&journalCode=ucgs20) and a 2019 recipient of the [NIH Director's New Innovator Award](https://commonfund.nih.gov/newinnovator).  I was elected as a [Fellow](https://stat.uw.edu/news-resources/articles/adrian-dobra-and-tyler-mccormick-elected-2023-asa-fellows) of the [American Statistical Association](https://www.amstat.org/your-career/awards/asa-fellows) in 2023.
 <br>
 
-An description of some of our work recently appeared in the [Wall Street Journal](https://www.wsj.com/us-news/you-probably-know-611-people-heres-how-we-know-88dd27d9?mod=wsjhp_columnists_pos2) and it was used for a [visual story](https://www.washingtonpost.com/world/interactive/2024/gaza-numbers-killed-displaced-scale/?itid=ap_alyssafowers) in the Washington Post.
+A description of some of our work recently appeared in the [Wall Street Journal](https://www.wsj.com/us-news/you-probably-know-611-people-heres-how-we-know-88dd27d9?mod=wsjhp_columnists_pos2) and it was used for a [visual story](https://www.washingtonpost.com/world/interactive/2024/gaza-numbers-killed-displaced-scale/?itid=ap_alyssafowers) in the Washington Post.
 <br>
 
 A link to my slides from the ASA Webinar on the role of statistics in AI is [here](https://docs.google.com/presentation/d/1uL2pO80lk1T5ahLi3vDFo5NDAMZ_wdnDIYGFk6xZ-Bg/edit?usp=sharing).
