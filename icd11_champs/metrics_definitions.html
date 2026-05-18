@@ -1,0 +1,120 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>CHAMPS vs WHO ICD-11 Feature Concordance Definitions</title>
+  <style>
+    :root {
+      --bg: #fbfcfd;
+      --ink: #1f2933;
+      --muted: #52606d;
+      --line: #d9e2ec;
+      --panel: #ffffff;
+      --soft: #eef6f8;
+      --accent-ink: #064e5a;
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      background: var(--bg);
+      color: var(--ink);
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      line-height: 1.45;
+    }
+    main {
+      max-width: 1180px;
+      margin: 0 auto;
+      padding: 28px clamp(14px, 3vw, 34px) 40px;
+    }
+    a { color: var(--accent-ink); }
+    h1 {
+      margin: 0 0 8px;
+      font-size: clamp(1.7rem, 4vw, 2.4rem);
+      letter-spacing: 0;
+      line-height: 1.12;
+    }
+    .note {
+      color: var(--muted);
+      max-width: 980px;
+      margin: 0 0 18px;
+    }
+    .panel {
+      background: var(--panel);
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      overflow: hidden;
+      box-shadow: 0 10px 28px rgba(31, 41, 51, 0.08);
+    }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.92rem;
+    }
+    th, td {
+      border-bottom: 1px solid var(--line);
+      padding: 10px 12px;
+      text-align: left;
+      vertical-align: top;
+    }
+    th {
+      background: var(--soft);
+    }
+    tr:last-child td {
+      border-bottom: 0;
+    }
+    .back {
+      display: inline-block;
+      margin-bottom: 16px;
+      font-weight: 700;
+    }
+    @media (max-width: 760px) {
+      table, thead, tbody, tr, th, td { display: block; }
+      thead { display: none; }
+      tr { border-bottom: 1px solid var(--line); padding: 8px 0; }
+      tr:last-child { border-bottom: 0; }
+      td { border: 0; padding: 5px 12px; }
+      td::before {
+        content: attr(data-label);
+        display: block;
+        color: var(--muted);
+        font-size: 0.78rem;
+        font-weight: 700;
+        text-transform: uppercase;
+        letter-spacing: 0.03em;
+      }
+    }
+  </style>
+</head>
+<body>
+  <main>
+    <a class="back" href="index.html">&larr; Back to cause profiles</a>
+    <h1>CHAMPS vs WHO ICD-11 Feature Concordance Definitions</h1>
+    <p class="note">These tables compare DeCoDe underlying-cause assignments with official WHO ICD-11 cause-profile features for the 77 target causes. They are aggregate review signals, not case adjudications and not proof that a DeCoDe assignment is correct or incorrect.</p>
+    <p class="note">The main denominator is cause-specific: for a cause page, percentages use cases whose DeCoDe underlying cause is that ICD-11 cause. Age tabs restrict the denominator to the selected site age group.</p>
+    <p class="note">The older profile-match metrics are still saved locally as audit outputs, but the main dashboard now emphasizes feature prevalence because it is easier to interpret and closer to the CHAMPS-vs-WHO comparison question.</p>
+    <div class="panel">
+      <table>
+        <thead>
+          <tr><th>Metric</th><th>Value Shown</th><th>Definition</th><th>How To Read It</th></tr>
+        </thead>
+        <tbody>
+          <tr><td><strong>WHO Feature Concordance</strong></td><td>Percent of assigned cases</td><td>For one ICD-11 cause, each row is a WHO ICD-11 feature. The percent is the share of CHAMPS cases assigned to that cause as the DeCoDe underlying cause that contain the feature in allowed CHAMPS evidence fields.</td><td>This is the clearest within-cause comparison: it says how often CHAMPS cases assigned to a cause show each WHO feature for that cause.</td></tr>
+<tr><td><strong>Source Scope</strong></td><td>Cause-specific, parent/block fallback, or sparse</td><td>A label showing whether the WHO feature came from the cause-specific ICD-11 entity fields, from broader WHO parent/block context, or from an explicit source-sparse placeholder.</td><td>Parent/block fallback rows are useful context when entity text is sparse, but they should not be read as cause-specific diagnostic criteria.</td></tr>
+<tr><td><strong>Additional CHAMPS Features</strong></td><td>Percent of assigned cases</td><td>Features detected in allowed CHAMPS evidence fields for cases assigned to a cause, where the feature is not part of that assigned cause&#x27;s WHO profile but is represented somewhere else in the 77-cause WHO feature vocabulary.</td><td>These rows highlight what CHAMPS is seeing beyond the WHO representation for the assigned cause. They can reflect true extra pathology, comorbidity, broad WHO text, or deterministic dictionary limitations.</td></tr>
+<tr><td><strong>Numeric Boundary Matrix</strong></td><td>Below / within / above / not assessable</td><td>For WHO age, gestational-age, or birthweight boundaries, the table shows the share of assigned CHAMPS cases below, within, above, or missing the required numeric measurement.</td><td>This replaces the older single boundary-conflict rate for numeric boundaries. Nonnumeric boundaries are flagged but not forced into a numeric matrix.</td></tr>
+<tr><td><strong>Primary Cause Denominator</strong></td><td>N cases</td><td>For a cause page, N is the number of CHAMPS cases whose DeCoDe underlying cause is that ICD-11 cause. Age tabs restrict N to cases in the selected site age group.</td><td>Cause-specific percentages use this cause-specific N, not the overall 8,304 target-case denominator.</td></tr>
+<tr><td><strong>Legacy Profile-Match Metrics</strong></td><td>Local audit outputs</td><td>The previous exact-code, hierarchy, rank, specificity, and family-confusion outputs are still written to reproducible CSV/JSON files under the metrics outputs directory.</td><td>They are no longer the main dashboard because they are harder to interpret than within-cause feature prevalence.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </main>
+  <script>
+    document.querySelectorAll('tbody tr').forEach(row => {
+      ['Metric', 'Value shown', 'Definition', 'How to read it'].forEach((label, index) => {
+        row.children[index]?.setAttribute('data-label', label);
+      });
+    });
+  </script>
+</body>
+</html>
