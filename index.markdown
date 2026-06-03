@@ -181,6 +181,8 @@ A link to our ENAR short course is [here](https://thmccormick.github.io/ipd-shor
   + [Estimating spillovers using imprecisely measured networks](https://arxiv.org/abs/1904.00136) [(code)](https://github.com/thmccormick/spillovers-mismeasured-graphs)
   + [Examining Racial Segregation in Associative Networks on Twitter](https://arxiv.org/abs/1705.04401)
 + Decision-making under uncertainty
+  + [Rashomon-Seeded Annealing for Robust Bayesian Inference in Factorial Designs](https://arxiv.org/abs/2606.02589)
+  + [Position: Prioritize Identifying Structure, Not Complex Models, for Scientific Discovery](https://arxiv.org/abs/2606.02632)
   + [Robustly estimating heterogeneity in factorial data using Rashomon Partitions](https://arxiv.org/abs/2404.02141) ([Python package & code](https://github.com/AparaV/rashomon-partition-sets))
   + [Spatially robust inference with predicted and missing at random labels](https://arxiv.org/abs/2603.11368)
   + [REALITrees: Rashomon Ensemble Active Learning for Interpretable Trees](https://arxiv.org/abs/2603.22750)
