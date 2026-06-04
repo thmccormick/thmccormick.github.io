@@ -180,13 +180,14 @@ A link to our ENAR short course is [here](https://thmccormick.github.io/ipd-shor
   + [General covariance-based conditions for Central Limit Theorems with dependent triangular arrays](https://arxiv.org/abs/2308.12506)
   + [Estimating spillovers using imprecisely measured networks](https://arxiv.org/abs/1904.00136) [(code)](https://github.com/thmccormick/spillovers-mismeasured-graphs)
   + [Examining Racial Segregation in Associative Networks on Twitter](https://arxiv.org/abs/1705.04401)
-+ Decision-making under uncertainty
++ Rashomon sets, interpretability, and robust inference
   + [Rashomon-Seeded Annealing for Robust Bayesian Inference in Factorial Designs](https://arxiv.org/abs/2606.02589)
   + [Robustly estimating heterogeneity in factorial data using Rashomon Partitions](https://arxiv.org/abs/2404.02141) ([Python package & code](https://github.com/AparaV/rashomon-partition-sets))
+  + [When you come to a fork in the road, take it: the Rashomon effect for social scientists](https://osf.io/preprints/socarxiv/8zybt_v2)
++ Decision-making under uncertainty
   + [Spatially robust inference with predicted and missing at random labels](https://arxiv.org/abs/2603.11368)
   + [Adaptive active learning for regression via reinforcement learning](https://arxiv.org/abs/2603.10435)
   + [How to measure obesity in public health research? Problems with using BMI for population inference](https://www.medrxiv.org/content/10.1101/2025.04.01.25325037v1)
-  + [When you come to a fork in the road, take it: the Rashomon effect for social scientists](https://osf.io/preprints/socarxiv/8zybt_v2)
   + [Some models are useful, but for how long?: A decision theoretic approach to choosing when to refit large-scale prediction models](https://arxiv.org/abs/2405.13926)
   + [Do we really even need data?](https://arxiv.org/abs/2512.05456)
   + [A unified framework for inference with general missingness patterns and machine learning imputation](https://arxiv.org/abs/2508.15162)
