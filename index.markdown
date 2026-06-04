@@ -150,7 +150,7 @@ layout: home
 <figure>
   <img src="assets/tylerpic.jpg" style="padding: 10px; float: left; width:364.8px;height:273.6px;"/>
  </figure>
- My research covers a variety of topics in statistics and data science, typically motivated by scientific questions in global health, economics, demography, and sociology. Recent projects include estimating features of social networks (e.g. the degree of clustering or how central an individual is) using data from standard surveys, inferring a likely cause of death (when deaths happen outside of
+ I develop statistical and data science methods for measuring social systems, evaluating AI and predictive models, and improving population health decision-making. Recent projects include estimating features of social networks (e.g. the degree of clustering or how central an individual is) using data from standard surveys, inferring a likely cause of death (when deaths happen outside of
 hospitals) using reports from surviving caretakers, and quantifying & communicating uncertainty
 in predictive models for global health policymakers. More information about OpenVA, our suite of open tools to manage and analyze verbal autopsy surveys, is available [here](http://openva.net/).
 <br>
