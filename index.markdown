@@ -186,6 +186,7 @@ A link to our ENAR short course is [here](https://thmccormick.github.io/ipd-shor
   + [When you come to a fork in the road, take it: the Rashomon effect for social scientists](https://osf.io/preprints/socarxiv/8zybt_v2)
 + Decision-making under uncertainty
   + [From Census to Sensors: The Bureaucratic Regime and the Data Revolution](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6773159)
+  + [When Surveys Become Conversations: Adaptive Matrix Validation for AI-Assisted Interviews](https://arxiv.org/abs/2606.24244)
   + [Spatially robust inference with predicted and missing at random labels](https://arxiv.org/abs/2603.11368)
   + [Adaptive active learning for regression via reinforcement learning](https://arxiv.org/abs/2603.10435)
   + [How to measure obesity in public health research? Problems with using BMI for population inference](https://www.medrxiv.org/content/10.1101/2025.04.01.25325037v1)
