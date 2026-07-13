@@ -107,16 +107,6 @@ layout: home
   <button class="sicss-announcement__dismiss" type="button" aria-label="Dismiss adaptive matrix validation announcement">&times;</button>
 </aside>
 
-<aside id="sicss-announcement" class="sicss-announcement" role="region" aria-labelledby="sicss-announcement-title" data-announcement-key="sicss-uw-2026-announcement-dismissed">
-  <img class="sicss-announcement__image" src="assets/sicss-uw-2026.png" alt="Computational Social Science Summer Institute badge" />
-  <div class="sicss-announcement__content">
-    <p id="sicss-announcement-title" class="sicss-announcement__headline">Summer Institute in Computational Social Science</p>
-    <p class="sicss-announcement__date">July 6 to July 17, 2026</p>
-    <p class="sicss-announcement__body">We're soliciting applications from graduate students, postdoctoral researchers, junior faculty, and data science practitioners. The program will have a special emphasis on AI-centered computational social science. More information and the application are here: <a href="https://sicss.io/2026/uw/">https://sicss.io/2026/uw/</a>.</p>
-  </div>
-  <button class="sicss-announcement__dismiss" type="button" aria-label="Dismiss summer institute announcement">&times;</button>
-</aside>
-
 <aside id="epidemiology-ai-announcement" class="sicss-announcement" role="region" aria-labelledby="epidemiology-ai-announcement-title" data-announcement-key="epidemiology-ai-2026-announcement-dismissed">
   <img class="sicss-announcement__image" src="assets/epidemiology-ai-2026.jpg" alt="Illustration of AI exposure networks in healthcare and daily life" />
   <div class="sicss-announcement__content">
@@ -165,6 +155,9 @@ in predictive models for global health policymakers. More information about Open
 <br>
 
 I'm the former Editor of the [Journal of Computational and Graphical Statistics](https://www.tandfonline.com/action/journalInformation?show=editorialBoard&journalCode=ucgs20) and a 2019 recipient of the [NIH Director's New Innovator Award](https://commonfund.nih.gov/newinnovator).  I was elected as a [Fellow](https://stat.uw.edu/news-resources/articles/adrian-dobra-and-tyler-mccormick-elected-2023-asa-fellows) of the [American Statistical Association](https://www.amstat.org/your-career/awards/asa-fellows) in 2023. I'm a member of the [Committee on Applied and Theoretical Statistics (CATS)](https://www.nationalacademies.org/units/DEPS-BMSA-18-P-84) of the National Academies of Sciences, Engineering, and Medicine. I was a Visiting Faculty Researcher at [Google PAIR](https://pair.withgoogle.com/) from 2019 to 2020.
+<br>
+
+<a href="https://avisokay.github.io/">Adam Visokay</a> and I organized the <a href="https://sicss.io/2026/uw/">2026 Summer Institute in Computational Social Science</a> at the University of Washington, with an emphasis on AI-centered computational social science.
 <br>
 
 A description of some of our work recently appeared in the [Wall Street Journal](https://www.wsj.com/us-news/you-probably-know-611-people-heres-how-we-know-88dd27d9?mod=wsjhp_columnists_pos2) and it was used for a [visual story](https://www.washingtonpost.com/world/interactive/2024/gaza-numbers-killed-displaced-scale/?itid=ap_alyssafowers) in the Washington Post.
