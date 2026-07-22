@@ -157,6 +157,9 @@ in predictive models for global health policymakers. More information about Open
 I'm the former Editor of the [Journal of Computational and Graphical Statistics](https://www.tandfonline.com/action/journalInformation?show=editorialBoard&journalCode=ucgs20) and a 2019 recipient of the [NIH Director's New Innovator Award](https://commonfund.nih.gov/newinnovator).  I was elected as a [Fellow](https://stat.uw.edu/news-resources/articles/adrian-dobra-and-tyler-mccormick-elected-2023-asa-fellows) of the [American Statistical Association](https://www.amstat.org/your-career/awards/asa-fellows) in 2023. I'm a member of the [Committee on Applied and Theoretical Statistics (CATS)](https://www.nationalacademies.org/units/DEPS-BMSA-18-P-84) of the National Academies of Sciences, Engineering, and Medicine. I was a Visiting Faculty Researcher at [Google PAIR](https://pair.withgoogle.com/) from 2019 to 2020.
 <br>
 
+I will be visiting [CEMFI](https://www.cemfi.es/) for the 2026-2027 academic year on a María de Maeztu Visiting Professorship.
+<br>
+
 <a href="https://avisokay.github.io/">Adam Visokay</a> and I organized the <a href="https://sicss.io/2026/uw/">2026 Summer Institute in Computational Social Science</a> at the University of Washington, with an emphasis on AI-centered computational social science.
 <br>
 
