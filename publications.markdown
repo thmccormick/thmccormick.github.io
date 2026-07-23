@@ -28,25 +28,25 @@ permalink: /publications/
 
 + Fan, S., Visokay, A., Hoffman, K., Salerno, S., Liu, L., Leek, J. T., & McCormick, T. H. (2024). [Valid inference using language model predictions from Verbal Autopsy narratives](https://arxiv.org/abs/2404.02438). Accepted, *Conference on Language Modeling (COLM)*.
 
-+ Kunke, J. P., Laga, I., Niu, X., & McCormick, T. H. (2024+). [Comparing the robustness of simple Network Scale-Up Method (NSUM) estimators](http://arxiv.org/abs/2303.07490). To appear, *Sociological Methodology*. 
++ Kunke, J. P., Laga, I., Niu, X., & McCormick, T. H. (2024). [Comparing the robustness of simple Network Scale-Up Method (NSUM) estimators](http://arxiv.org/abs/2303.07490). *Sociological Methodology*, 54(2), 385-403.
 
-+ Markwalter, C.F., Lapp, Z., Abel, L., Kimachas, E., Omollo, E., Freedman, E., Chepkwony, T., Amunga, M., McCormick, T. H., Berube, S., Mangeni, J.N., Wesolowski, A., Obala, A., Taylor, S. M., & O’Meara, W. P. (2024+). [Mosquito and human characteristics influence natural Anopheline biting behavior and Plasmodium falciparum transmission](https://www.medrxiv.org/content/10.1101/2024.01.24.24301433v1). To appear, *Nature Communications*.
++ Markwalter, C.F., Lapp, Z., Abel, L., Kimachas, E., Omollo, E., Freedman, E., Chepkwony, T., Amunga, M., McCormick, T. H., Berube, S., Mangeni, J.N., Wesolowski, A., Obala, A., Taylor, S. M., & O’Meara, W. P. (2024). [Plasmodium falciparum infection in humans and mosquitoes influence natural Anopheline biting behavior and transmission](https://www.medrxiv.org/content/10.1101/2024.01.24.24301433v1). *Nature Communications*, 15, 4626.
 
 + Morrison, L., Brown, E., Paganelli, C. R., Goco, N., & McCormick, T. H. (2024). [Enhancing verbal autopsy with MITS: Cost trade-off study](https://gatesopenresearch.org/documents/8-40), *Gates Open Research*, 8(40), 40.
 
-+ Breza, E., Chandrasekhar, A. G., Lubold, S., McCormick, T. H., & Pan, M. (2023+) [Consistently estimating graph statistics using Aggregated Relational Data](https://www.pnas.org/doi/10.1073/pnas.2207185120). To appear, *Proceedings of the National Academy of Sciences (USA)*. [overview](https://slubold.github.io/ARD_Consistent_Estimation/), [code](https://github.com/slubold/ARD_Consistent_Estimation), [arxiv version](https://arxiv.org/abs/1908.09881)
++ Breza, E., Chandrasekhar, A. G., Lubold, S., McCormick, T. H., & Pan, M. (2023). [Consistently estimating graph statistics using Aggregated Relational Data](https://www.pnas.org/doi/10.1073/pnas.2207185120). *Proceedings of the National Academy of Sciences (USA)*, 120(21). [overview](https://slubold.github.io/ARD_Consistent_Estimation/), [code](https://github.com/slubold/ARD_Consistent_Estimation), [arxiv version](https://arxiv.org/abs/1908.09881)
 
-+ Lubold, S, Chandrasekhar, A. G., & McCormick, T. H. (2023+) [Identifying the latent space geometry of network models through analysis
-  of curvature](http://arxiv.org/abs/2012.10559). To appear, *Journal of the Royal Statistical Society: Series B*. [overview and code](https://slubold.github.io/LS_Geometry_Summary.html)
++ Lubold, S, Chandrasekhar, A. G., & McCormick, T. H. (2023). [Identifying the latent space geometry of network models through analysis
+  of curvature](http://arxiv.org/abs/2012.10559). *Journal of the Royal Statistical Society: Series B (Statistical Methodology)*, 85(2), 240-292. [overview and code](https://slubold.github.io/LS_Geometry_Summary.html)
 
- + Liu, B., Lubold, S., Raftery, A. E., & McCormick, T. H. (2023+) [Bayesian hyperbolic multidimensional scaling](https://arxiv.org/abs/2210.15081). To appear, *Journal of Computational and Graphical Statistics*.
++ Liu, B., Lubold, S., Raftery, A. E., & McCormick, T. H. (2024). [Bayesian hyperbolic multidimensional scaling](https://arxiv.org/abs/2210.15081). *Journal of Computational and Graphical Statistics*, 33(3), 869-882.
 
 + Yoshida, T., Fan, T. S., McCormick, T., Wu, Z., & Li, Z. R. (2023). [Bayesian active questionnaire design for cause-of-death assignment using verbal autopsies](http://arxiv.org/abs/2302.08099). To appear, *Conference on Health, Inference, and Learning (CHIL)*.
 
-+ Kunke, J. P., Visokay, A., & McCormick, T. H. (2023+) [Respondent-Driven Sampling: An Overview in the Context of Human Trafficking](https://arxiv.org/abs/2309.16160). To appear, *CHANCE*.
++ Kunke, J. P., Visokay, A., & McCormick, T. H. (2023). [Respondent-Driven Sampling: An Overview in the Context of Human Trafficking](https://arxiv.org/abs/2309.16160). *CHANCE*, 36(4), 15-21.
 
 
-+ Marrs, F. W., Fosdick, B. K., & McCormick, T. H. (2023+) [Regression of exchangeable relational arrays](https://academic.oup.com/biomet/advance-article/doi/10.1093/biomet/asac031/6591197?guestAccessKey=62d03068-2156-4b5a-b8a1-122bc083eb11). To appear, *Biometrika (Miscellanea)*. [code](https://github.com/fmarrs3/netreg_public)
++ Marrs, F. W., Fosdick, B. K., & McCormick, T. H. (2023). [Regression of exchangeable relational arrays](https://academic.oup.com/biomet/advance-article/doi/10.1093/biomet/asac031/6591197?guestAccessKey=62d03068-2156-4b5a-b8a1-122bc083eb11). *Biometrika (Miscellanea)*, 110(1), 265-272. [code](https://github.com/fmarrs3/netreg_public)
 
 
  + Li, Z. R., Thomas, J., Choi, E., McCormick, T. H., & Clark, S. J. (2023+). [The openVA toolkit for verbal autopsies](https://arxiv.org/abs/2109.08244). To appear, *The R Journal*. 
