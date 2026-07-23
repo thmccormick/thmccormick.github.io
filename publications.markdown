@@ -4,9 +4,9 @@ title: "Publications"
 permalink: /publications/
 ---
 
-+ McCormick, T. H. (2026). [Position: Prioritize Identifying Structure, Not Complex Models, for Scientific Discovery](https://arxiv.org/abs/2606.02632). To appear, *ICML*.
-
 + Parikh, H., McCormick, T. H., Johnson, E., Hickey, L., Ranney, M., & Mukherjee, B. (2026). [The Epidemiology of Artificial Intelligence](https://arxiv.org/abs/2604.14086). To appear, *Nature Health*.
+
++ McCormick, T. H. (2026). [Position: Prioritize Identifying Structure, Not Complex Models, for Scientific Discovery](https://arxiv.org/abs/2606.02632). To appear, *ICML*.
 
 + Wilkins-Reeves, S., Lubold, S., Chandrasekhar, A., & McCormick, T. H. (2026). [Single-Network Asymptotics for Causal Inference with Partial Network Data](/assets/single_network_causal.pdf). To appear, *UAI*.
 
