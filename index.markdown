@@ -111,7 +111,7 @@ layout: home
   <img class="sicss-announcement__image" src="assets/epidemiology-ai-2026.jpg" alt="Illustration of AI exposure networks in healthcare and daily life" />
   <div class="sicss-announcement__content">
     <p id="epidemiology-ai-announcement-title" class="sicss-announcement__headline">The Epidemiology of Artificial Intelligence</p>
-    <p class="sicss-announcement__body">Our new paper proposes a framework for measuring AI exposure and studying its health effects at the population level. Read the full paper here: <a href="https://arxiv.org/abs/2604.14086">https://arxiv.org/abs/2604.14086</a>. Comments welcome!</p>
+    <p class="sicss-announcement__body">Our new paper, forthcoming in <em>Nature Health</em>, proposes a framework for measuring AI exposure and studying its health effects at the population level. Read the full paper here: <a href="https://arxiv.org/abs/2604.14086">https://arxiv.org/abs/2604.14086</a>. Comments welcome!</p>
   </div>
   <button class="sicss-announcement__dismiss" type="button" aria-label="Dismiss epidemiology of AI announcement">&times;</button>
 </aside>
@@ -169,8 +169,8 @@ A description of some of our work recently appeared in the [Wall Street Journal]
 A link to my slides from the ASA Webinar on the role of statistics in AI is [here](https://docs.google.com/presentation/d/1uL2pO80lk1T5ahLi3vDFo5NDAMZ_wdnDIYGFk6xZ-Bg/edit?usp=sharing).
 <br>
 
-A new paper on the epidemiology of AI is [here](https://arxiv.org/abs/2604.14086).
-<br>
+<!-- A new paper on the epidemiology of AI is [here](https://arxiv.org/abs/2604.14086). -->
+<!-- <br> -->
 
 A link to our ENAR short course is [here](https://thmccormick.github.io/ipd-short-course/).
 <br>
