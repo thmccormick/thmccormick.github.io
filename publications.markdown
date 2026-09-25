@@ -14,7 +14,7 @@ permalink: /publications/
 
 + Nguyen, S. D., McTavish, H., Hoffman, K., Rudin, C., & McCormick, T. H. (2026). [REALITrees: Rashomon Ensemble Active Learning for Interpretable Trees](https://arxiv.org/abs/2603.22750). To appear, *UAI*.
 
-+ Perin, J., Prieto-Merino, D., Wahi, A., Pramanik, S., Eilerts-Spinelli, H., Villavicencio, F., McCormick, T. H., You, D., Datta, A., Strong, K. L., Black, R. E., & Liu, L. (2026+). Systematic estimates of the global causes of neonatal and under-five mortality in 2000-2024. To appear, *The BMJ*.
++ Perin, J., Prieto-Merino, D., Wahi, A., Pramanik, S., Eilerts-Spinelli, H., Villavicencio, F., McCormick, T. H., You, D., Datta, A., Strong, K. L., Black, R. E., & Liu, L. (2026). [Systematic estimates of global causes of neonatal and under 5 mortality in 2000-24](https://pubmed.ncbi.nlm.nih.gov/42242770/). *The BMJ*, 393, e088686.
 
 +  Thiyageswaran, V., McCormick, T., & Brennan, J. (2025). [Data-adaptive exposure thresholds for the Horvitz-Thompson estimator of the average treatment effect in experiments with network interference](https://arxiv.org/abs/2405.15887). To appear, *Neurips 2025*.
 
