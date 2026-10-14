@@ -27,10 +27,14 @@ permalink: /teaching/
 
 
 #### Masters and undergraduate collaborators
-+ [Qirui Zhao](https://stat.uw.edu/people/qirui-zhao), now Ph.D. candidate at UT Austin Statistics & Data Science.
-+ [Houjie Wang](https://scholars.duke.edu/person/houjie.wang), now Ph.D. candidate at Duke University Statistical Science
++ [Qirui Zhao](https://stat.uw.edu/people/qirui-zhao), UW Statistics master's research advisor, accepted Ph.D. offer at UT Austin.
++ [Daniel Paydarfar](https://stat.uw.edu/people/daniel-paydarfar), UW Statistics master's research advisor, accepted Ph.D. offer at Harvard Biostatistics.
++ [Houjie Wang](https://scholars.duke.edu/person/houjie.wang), UW Statistics master's research advisor, now Ph.D. student at Duke Statistics.
++ [Peter Liu](https://stat.uw.edu/news-resources/articles/statistics-students-present-undergrad-research-symposium), UW Statistics undergraduate research advisor, currently Ph.D. student at Johns Hopkins Biostatistics.
 + [Alina Arseniev-Koehler](https://soc.ucla.edu/grads/alina-arseniev-koehler), UW Sociology undergraduate thesis, now Ph.D. candidate at UCLA Sociology.
 + [Harrison Reeder](https://www.hsph.harvard.edu/biostatistics/tag/harrison-reeder/), Carleton summer undergraduate visitor, now Ph.D. candidate at Harvard Biostatistics
++ [Nadia Ennab](https://www.linkedin.com/in/nadia-ennab/), Northwestern Summer Internship Grant Program visitor, currently applying to Ph.D. programs.
++ [Dayou Luo](https://www.linkedin.com/in/dayou-luo/), UW Master of Statistics student, now Ph.D. candidate in Applied Mathematics at UW.
 
 
 #### Selected courses
