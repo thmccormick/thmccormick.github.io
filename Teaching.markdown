@@ -6,7 +6,7 @@ permalink: /teaching/
 #### Postdoctoral collaborators
 + [Georgia E. Smits](https://geosmits.github.io/) (current)
 + [Soumyakanti Pan](https://span-18.github.io/) (current)
-+ [Kentaro Hoffman](https://khoffm4.github.io/) (now AI Experimental Systems Research Scientist at 3M)
++ [Kentaro Hoffman](https://khoffm4.github.io/) (2023-2025), now AI Experimental Systems Research Scientist at 3M.
 + [Rrita Zejnullahi](https://rrita-zejnullahi.netlify.app/#about) (2021-2023), now Clinical Assistant Professor of Biostatistics · University of Illinois Chicago.
 + [Tim Thomas](https://timathomas.github.io/) (2017-2019), now at the Berkeley Urban Displacement Project.
 + [Gwen Eadie](http://www.gweneadie.com/) (2017-2019), now Assistant Professor of Statistics & Astronomy at the University of Toronto.
