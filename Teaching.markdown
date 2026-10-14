@@ -4,9 +4,9 @@ title: "Teaching & Mentoring"
 permalink: /teaching/
 ---
 #### Postdoctoral collaborators
-+ [Kentaro Hoffman](https://khoffm4.github.io/) (now AI Experimental Systems Research Scientist at 3M)
 + [Georgia E. Smits](https://geosmits.github.io/) (current)
 + [Soumyakanti Pan](https://span-18.github.io/) (current)
++ [Kentaro Hoffman](https://khoffm4.github.io/) (now AI Experimental Systems Research Scientist at 3M)
 + [Rrita Zejnullahi](https://rrita-zejnullahi.netlify.app/#about) (2021-2023), now Clinical Assistant Professor of Biostatistics · University of Illinois Chicago.
 + [Tim Thomas](https://timathomas.github.io/) (2017-2019), now at the Berkeley Urban Displacement Project.
 + [Gwen Eadie](http://www.gweneadie.com/) (2017-2019), now Assistant Professor of Statistics & Astronomy at the University of Toronto.
@@ -23,7 +23,6 @@ permalink: /teaching/
 + [Shane Lubold](https://slubold.github.io) (2023, currently Research Mathematical Statistician in the Center for Statistical Research and Methodology at the U.S. Census Bureau)
 + [Wesley Lee](https://www.linkedin.com/in/wesley-lee) (2019, currently at Facebook)
 + [Zehang (Richard) Li](http://zehangli.com/) (2018, formerly postdoctoral scholar at Yale Biostatistics, now Assistant Professor at UC Santa Cruz)
-+ [Benjamin Edelhertz](https://www.linkedin.com/in/ben-edelhertz/) (current PhD Student at the University of British Columbia)
 
 
 #### Masters and undergraduate collaborators
@@ -35,6 +34,7 @@ permalink: /teaching/
 + [Harrison Reeder](https://www.hsph.harvard.edu/biostatistics/tag/harrison-reeder/), Carleton summer undergraduate visitor, now Ph.D. candidate at Harvard Biostatistics
 + [Nadia Ennab](https://www.linkedin.com/in/nadia-ennab/), Northwestern Summer Internship Grant Program visitor, currently applying to Ph.D. programs.
 + [Dayou Luo](https://www.linkedin.com/in/dayou-luo/), UW Master of Statistics student, now Ph.D. candidate in Applied Mathematics at UW.
++ [Benjamin Edelhertz](https://www.linkedin.com/in/ben-edelhertz/), former UW Statistics master's student, now Ph.D. student at the University of British Columbia.
 
 
 #### Selected courses
