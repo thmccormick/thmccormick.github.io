@@ -200,6 +200,7 @@ A link to our ENAR short course is [here](https://thmccormick.github.io/ipd-shor
   + [A unified framework for inference with general missingness patterns and machine learning imputation](https://arxiv.org/abs/2508.15162)
   + [A moment-based generalization to Post-Prediction Inference](https://arxiv.org/abs/2507.09119)
 + Global health methodology and data collection strategies
+  + [Multimodal Artificial Intelligence for Cause-of-Death Assignment From Verbal Autopsy Records: A National Benchmark Study in South Africa](https://www.medrxiv.org/content/10.64898/2026.10.15.26364476v1)
   + [LAVA: Language Model Assisted Verbal Autopsy for Cause-of-Death Determination](https://arxiv.org/abs/2509.09602)
   + [Feasible contact tracing](https://arxiv.org/abs/2312.05718)
   + [Smart containment with active learning: A proposal for a data-responsive and graded approach to COVID-19](https://www.hks.harvard.edu/centers/cid/publications/smart-containment-with-active-learning) [(more details)](https://www.cerp.org.pk/pages/covid-19-smart-containment-policy-response)
