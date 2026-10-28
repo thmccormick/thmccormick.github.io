@@ -102,7 +102,7 @@ layout: home
   <img class="sicss-announcement__image" src="assets/uneven-ai-content-prevalence.png" alt="Overall prevalence of AI-generated or AI-edited text on webpages over time" />
   <div class="sicss-announcement__content">
     <p id="uneven-ai-content-announcement-title" class="sicss-announcement__headline">The Uneven Rise of AI-Generated Content on the Web</p>
-    <p class="sicss-announcement__body">Our new paper shows that AI-generated content is becoming more prevalent, but spreading unevenly across the web. <a href="https://arxiv.org/abs/2610.36631">Read the full paper on arXiv.</a></p>
+    <p class="sicss-announcement__body">Our new paper shows that AI-generated content is becoming more prevalent, but spreading unevenly across the web. <a href="https://arxiv.org/abs/2610.36631">https://arxiv.org/abs/2610.36631</a></p>
   </div>
   <button class="sicss-announcement__dismiss" type="button" aria-label="Dismiss uneven rise of AI-generated content announcement">&times;</button>
 </aside>
@@ -111,7 +111,7 @@ layout: home
   <img class="sicss-announcement__image" src="assets/adaptive-matrix-validation-icon.svg" alt="Speech bubble containing a structured survey matrix with highlighted validation cells" />
   <div class="sicss-announcement__content">
     <p id="adaptive-matrix-validation-announcement-title" class="sicss-announcement__headline">When Surveys Become Conversations: Adaptive Matrix Validation for AI-Assisted Interviews</p>
-    <p class="sicss-announcement__body">Our new paper introduces a survey design that lets respondents describe experiences conversationally while mapping those accounts into structured survey variables. A small randomized set of direct questions then helps calibrate the mapped responses and quantify uncertainty for population and regression estimates. <a href="https://arxiv.org/abs/2606.24244">Read the full paper on arXiv.</a></p>
+    <p class="sicss-announcement__body">Our new paper introduces a survey design that lets respondents describe experiences conversationally while mapping those accounts into structured survey variables. A small randomized set of direct questions then helps calibrate the mapped responses and quantify uncertainty for population and regression estimates. <a href="https://arxiv.org/abs/2606.24244">https://arxiv.org/abs/2606.24244</a></p>
   </div>
   <button class="sicss-announcement__dismiss" type="button" aria-label="Dismiss adaptive matrix validation announcement">&times;</button>
 </aside>
