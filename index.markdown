@@ -99,7 +99,7 @@ layout: home
 </style>
 
 <aside id="uneven-ai-content-announcement" class="sicss-announcement" role="region" aria-labelledby="uneven-ai-content-announcement-title" data-announcement-key="uneven-ai-content-2026-announcement-dismissed">
-  <img class="sicss-announcement__image" src="assets/uneven-ai-content-prevalence.png" alt="Overall prevalence of AI-generated or AI-edited text on webpages over time" />
+  <img class="sicss-announcement__image" src="assets/uneven-ai-content-prevalence-v2.png" alt="Overall prevalence of AI-generated or AI-edited text on webpages over time" />
   <div class="sicss-announcement__content">
     <p id="uneven-ai-content-announcement-title" class="sicss-announcement__headline">The Uneven Rise of AI-Generated Content on the Web</p>
     <p class="sicss-announcement__body">Our new paper shows that AI-generated content is becoming more prevalent, but spreading unevenly across the web. <a href="https://arxiv.org/abs/2610.36631">https://arxiv.org/abs/2610.36631</a></p>
