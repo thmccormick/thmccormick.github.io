@@ -177,6 +177,7 @@ A link to our ENAR short course is [here](https://thmccormick.github.io/ipd-shor
 
 ### Technical reports and working papers
 + Measurement and modeling of social networks and peer influence
+  + [The Uneven Rise of AI-Generated Content on the Web](https://arxiv.org/abs/2610.36631)
   + [Non-robustness of diffusion estimates on networks with measurement error](https://arxiv.org/abs/2403.05704) (Revise & Resubmit, *Econometrica.*)
   + [Randomized recruitment driven sampling](https://arxiv.org/abs/2603.00365)
   + [Scalable Spatial Stream Network (S3N) Models](https://arxiv.org/abs/2512.12398)
