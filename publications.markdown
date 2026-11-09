@@ -4,15 +4,13 @@ title: "Publications"
 permalink: /publications/
 ---
 
++ Venkateswaran, A., Sankar, A., Chandrasekhar, A. G., & McCormick, T. H. (2026+). [Robustly estimating heterogeneity in factorial data using Rashomon Partitions](https://arxiv.org/abs/2404.02141). To appear, *Journal of the Royal Statistical Society: Series B (Statistical Methodology)* (with Discussion).
+
 + Yang, J., Pan, S., Lim, H. S., Chu, Y., Guo, Y., Agarwal, N., Babbar, V., Parikh, G. R., Chen, Y. T., Rees, C. A., Dangor, Z., Lala, S. G., Li, Z. R., Clark, S. J., Wu, Z., Datta, A., Liu, L., Rudin, C., Scarpino, S. V., Gyori, B. M., & McCormick, T. H. (2026). [A Multimodal Benchmark for Evaluating Cause-of-Death Inference Using Child Health and Mortality Data](https://www.medrxiv.org/content/10.64898/2026.07.13.26357980v1). Accepted, *NeurIPS 2026 Evaluations & Datasets (E&D) Track*.
 
 + Parikh, H., McCormick, T. H., Johnson, E., Hickey, L., Ranney, M., & Mukherjee, B. (2026). [The Epidemiology of Artificial Intelligence](https://arxiv.org/abs/2604.14086). To appear, *Nature Health*.
 
 + McCormick, T. H. (2026). [Position: Prioritize Identifying Structure, Not Complex Models, for Scientific Discovery](https://arxiv.org/abs/2606.02632). To appear, *ICML*.
-
-+ Venkateswaran, A., Sankar, A., Chandrasekhar, A. G., & McCormick, T. H. (2026+). [Robustly estimating heterogeneity in factorial data using Rashomon Partitions](https://arxiv.org/abs/2404.02141). To appear, *Journal of the Royal Statistical Society: Series B (Statistical Methodology)* (with Discussion).
-
-
 
 + Wilkins-Reeves, S., Lubold, S., Chandrasekhar, A., & McCormick, T. H. (2026). [Single-Network Asymptotics for Causal Inference with Partial Network Data](/assets/single_network_causal.pdf). To appear, *UAI*.
 
