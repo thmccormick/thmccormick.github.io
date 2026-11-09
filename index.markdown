@@ -197,7 +197,6 @@ A link to our ENAR short course is [here](https://thmccormick.github.io/ipd-shor
   + [Examining Racial Segregation in Associative Networks on Twitter](https://arxiv.org/abs/1705.04401)
 + Rashomon sets, interpretability, and robust inference
   + [Rashomon-Seeded Annealing for Robust Bayesian Inference in Factorial Designs](https://arxiv.org/abs/2606.02589)
-  + [Robustly estimating heterogeneity in factorial data using Rashomon Partitions](https://arxiv.org/abs/2404.02141) ([Python package & code](https://github.com/AparaV/rashomon-partition-sets))
   + [When you come to a fork in the road, take it: the Rashomon effect for social scientists](https://osf.io/preprints/socarxiv/8zybt_v2)
 + Decision-making under uncertainty
   + [From Census to Sensors: The Bureaucratic Regime and the Data Revolution](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6773159)
