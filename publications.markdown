@@ -195,3 +195,4 @@ Statistical Meetings*, Washington, D.C.
 + McCormick, T. H. and Zheng, T. (2007). [Adjusting for recall bias in 'How many X's do you
 know?' surveys](http://www.stat.washington.edu/~tylermc/pubs/mccormick_recall.pdf). in *Conference Proceedings of the Joint
 Statistical Meetings*, Salt Lake City, Utah. 
+
