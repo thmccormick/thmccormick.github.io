@@ -3,158 +3,6 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
 ---
-<style>
-  .sicss-announcement {
-    align-items: center;
-    background: #f9fafb;
-    border: 1px solid #e5e7eb;
-    border-left: 5px solid #4b2e83;
-    border-radius: 6px;
-    display: flex;
-    gap: 18px;
-    margin: 0 0 22px;
-    padding: 16px 48px 16px 18px;
-    position: relative;
-  }
-
-  .sicss-announcement[hidden] {
-    display: none;
-  }
-
-  .sicss-announcement__image {
-    background: #ffffff;
-    border-radius: 4px;
-    flex: 0 0 112px;
-    height: 112px;
-    object-fit: contain;
-    width: 112px;
-  }
-
-  .sicss-announcement__headline {
-    color: #111827;
-    font-size: 1.2rem;
-    font-weight: 600;
-    line-height: 1.25;
-    margin: 0 0 4px;
-  }
-
-  .sicss-announcement__date {
-    color: #4b2e83;
-    font-size: 0.95rem;
-    font-weight: 600;
-    line-height: 1.35;
-    margin: 0 0 8px;
-  }
-
-  .sicss-announcement__body {
-    color: #374151;
-    font-size: 1rem;
-    line-height: 1.5;
-    margin: 0;
-  }
-
-  .sicss-announcement__dismiss {
-    background: transparent;
-    border: 0;
-    border-radius: 4px;
-    color: #6b7280;
-    cursor: pointer;
-    font-size: 1.6rem;
-    height: 32px;
-    line-height: 1;
-    padding: 0;
-    position: absolute;
-    right: 8px;
-    top: 8px;
-    width: 32px;
-  }
-
-  .sicss-announcement__dismiss:hover,
-  .sicss-announcement__dismiss:focus {
-    background: #eef2f7;
-    color: #111827;
-  }
-
-  @media screen and (max-width: 560px) {
-    .sicss-announcement {
-      align-items: flex-start;
-      gap: 12px;
-      padding: 14px 42px 14px 14px;
-    }
-
-    .sicss-announcement__image {
-      flex-basis: 78px;
-      height: 78px;
-      width: 78px;
-    }
-
-    .sicss-announcement__headline {
-      font-size: 1.05rem;
-    }
-
-    .sicss-announcement__body {
-      font-size: 0.95rem;
-    }
-  }
-</style>
-
-<aside id="uneven-ai-content-announcement" class="sicss-announcement" role="region" aria-labelledby="uneven-ai-content-announcement-title" data-announcement-key="uneven-ai-content-2026-announcement-dismissed">
-  <img class="sicss-announcement__image" src="assets/uneven-ai-content-prevalence-v2.png" alt="Overall prevalence of AI-generated or AI-edited text on webpages over time" />
-  <div class="sicss-announcement__content">
-    <p id="uneven-ai-content-announcement-title" class="sicss-announcement__headline">The Uneven Rise of AI-Generated Content on the Web</p>
-    <p class="sicss-announcement__body">Our new paper shows that AI-generated content is becoming more prevalent, but spreading unevenly across the web. <a href="https://arxiv.org/abs/2610.36631">https://arxiv.org/abs/2610.36631</a></p>
-  </div>
-  <button class="sicss-announcement__dismiss" type="button" aria-label="Dismiss uneven rise of AI-generated content announcement">&times;</button>
-</aside>
-
-<aside id="adaptive-matrix-validation-announcement" class="sicss-announcement" role="region" aria-labelledby="adaptive-matrix-validation-announcement-title" data-announcement-key="adaptive-matrix-validation-2026-announcement-dismissed">
-  <img class="sicss-announcement__image" src="assets/adaptive-matrix-validation-icon.svg" alt="Speech bubble containing a structured survey matrix with highlighted validation cells" />
-  <div class="sicss-announcement__content">
-    <p id="adaptive-matrix-validation-announcement-title" class="sicss-announcement__headline">When Surveys Become Conversations: Adaptive Matrix Validation for AI-Assisted Interviews</p>
-    <p class="sicss-announcement__body">Our new paper introduces a survey design that lets respondents describe experiences conversationally while mapping those accounts into structured survey variables. A small randomized set of direct questions then helps calibrate the mapped responses and quantify uncertainty for population and regression estimates. <a href="https://arxiv.org/abs/2606.24244">https://arxiv.org/abs/2606.24244</a></p>
-  </div>
-  <button class="sicss-announcement__dismiss" type="button" aria-label="Dismiss adaptive matrix validation announcement">&times;</button>
-</aside>
-
-<aside id="epidemiology-ai-announcement" class="sicss-announcement" role="region" aria-labelledby="epidemiology-ai-announcement-title" data-announcement-key="epidemiology-ai-2026-announcement-dismissed">
-  <img class="sicss-announcement__image" src="assets/epidemiology-ai-2026.jpg" alt="Illustration of AI exposure networks in healthcare and daily life" />
-  <div class="sicss-announcement__content">
-    <p id="epidemiology-ai-announcement-title" class="sicss-announcement__headline">The Epidemiology of Artificial Intelligence</p>
-    <p class="sicss-announcement__body">Our new paper, forthcoming in <em>Nature Health</em>, proposes a framework for measuring AI exposure and studying its health effects at the population level. Read the full paper here: <a href="https://arxiv.org/abs/2604.14086">https://arxiv.org/abs/2604.14086</a>. Comments welcome!</p>
-  </div>
-  <button class="sicss-announcement__dismiss" type="button" aria-label="Dismiss epidemiology of AI announcement">&times;</button>
-</aside>
-
-<script>
-  (function() {
-    var banners = document.querySelectorAll('.sicss-announcement[data-announcement-key]');
-
-    Array.prototype.forEach.call(banners, function(banner) {
-      var dismiss = banner.querySelector('.sicss-announcement__dismiss');
-      var storageKey = banner.getAttribute('data-announcement-key');
-
-      if (!dismiss || !storageKey) {
-        return;
-      }
-
-      try {
-        if (window.localStorage.getItem(storageKey) === 'true') {
-          banner.hidden = true;
-          return;
-        }
-      } catch (error) {}
-
-      dismiss.addEventListener('click', function() {
-        banner.hidden = true;
-
-        try {
-          window.localStorage.setItem(storageKey, 'true');
-        } catch (error) {}
-      });
-    });
-  })();
-</script>
-
 <figure>
   <img src="assets/tylerpic.jpg" style="padding: 10px; float: left; width:364.8px;height:273.6px;"/>
  </figure>
@@ -184,42 +32,15 @@ A link to my slides from the ASA Webinar on the role of statistics in AI is [her
 A link to our ENAR short course is [here](https://thmccormick.github.io/ipd-short-course/).
 <br>
 
-### Technical reports and working papers
-+ Measurement and modeling of social networks and peer influence
-  + [The Uneven Rise of AI-Generated Content on the Web](https://arxiv.org/abs/2610.36631)
-  + [Non-robustness of diffusion estimates on networks with measurement error](https://arxiv.org/abs/2403.05704) (Revise & Resubmit, *Econometrica.*)
-  + [Randomized recruitment driven sampling](https://arxiv.org/abs/2603.00365)
-  + [Scalable Spatial Stream Network (S3N) Models](https://arxiv.org/abs/2512.12398)
-  + [Model-based inference and experimental design for interference using partial network data](https://arxiv.org/abs/2406.11940) ([R package](https://github.com/SteveJWR/SBMNetReg), [code](https://github.com/SteveJWR/ardexp))
-  + [Asymptotically normal estimation of local latent network curvature](https://arxiv.org/abs/2211.11673) ([R package](https://github.com/SteveJWR/lolaR), [code](https://github.com/SteveJWR/netcurve))
-  + [General covariance-based conditions for Central Limit Theorems with dependent triangular arrays](https://arxiv.org/abs/2308.12506)
-  + [Estimating spillovers using imprecisely measured networks](https://arxiv.org/abs/1904.00136) [(code)](https://github.com/thmccormick/spillovers-mismeasured-graphs)
-  + [Examining Racial Segregation in Associative Networks on Twitter](https://arxiv.org/abs/1705.04401)
-+ Rashomon sets, interpretability, and robust inference
-  + [Rashomon-Seeded Annealing for Robust Bayesian Inference in Factorial Designs](https://arxiv.org/abs/2606.02589)
-  + [When you come to a fork in the road, take it: the Rashomon effect for social scientists](https://osf.io/preprints/socarxiv/8zybt_v2)
-+ Decision-making under uncertainty
-  + [From Census to Sensors: The Bureaucratic Regime and the Data Revolution](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6773159)
-  + [When Surveys Become Conversations: Adaptive Matrix Validation for AI-Assisted Interviews](https://arxiv.org/abs/2606.24244)
-  + [Spatially robust inference with predicted and missing at random labels](https://arxiv.org/abs/2603.11368)
-  + [Adaptive active learning for regression via reinforcement learning](https://arxiv.org/abs/2603.10435)
-  + [How to measure obesity in public health research? Problems with using BMI for population inference](https://www.medrxiv.org/content/10.1101/2025.04.01.25325037v1)
-  + [Some models are useful, but for how long?: A decision theoretic approach to choosing when to refit large-scale prediction models](https://arxiv.org/abs/2405.13926)
-  + [Do We Really Even Need Data? A Modern Look at Drawing Inference with Predicted Data](https://arxiv.org/abs/2512.05456)
-  + [A unified framework for inference with general missingness patterns and machine learning imputation](https://arxiv.org/abs/2508.15162)
-  + [A moment-based generalization to Post-Prediction Inference](https://arxiv.org/abs/2507.09119)
-+ Global health methodology and data collection strategies
-  + [Multimodal Artificial Intelligence for Cause-of-Death Assignment From Verbal Autopsy Records: A National Benchmark Study in South Africa](https://www.medrxiv.org/content/10.64898/2026.10.15.26364476v1)
-  + [LAVA: Language Model Assisted Verbal Autopsy for Cause-of-Death Determination](https://arxiv.org/abs/2509.09602)
-  + [Feasible contact tracing](https://arxiv.org/abs/2312.05718)
-  + [Smart containment with active learning: A proposal for a data-responsive and graded approach to COVID-19](https://www.hks.harvard.edu/centers/cid/publications/smart-containment-with-active-learning) [(more details)](https://www.cerp.org.pk/pages/covid-19-smart-containment-policy-response)
-  + [Quantifying the contributions of training data and algorithm logic to the performance of automated cause-assignment algorithms for verbal autopsy](https://arxiv.org/abs/1803.07141)
-  + [Bayesian age category reconciliation for age- and cause-specific under-five mortality estimates](https://arxiv.org/abs/2302.11058)
-  + [Verbal autopsy in civil registration and vital statistics: The Symptom-Cause Information Archive](https://arxiv.org/abs/1910.00405)
-  
-  Please see [arXiv](https://arxiv.org/search/?searchtype=author&query=McCormick%2C+T) for the most up to date list of working papers.
+### Recent/featured work
 
++ [Robustly estimating heterogeneity in factorial data using Rashomon Partitions](https://arxiv.org/abs/2404.02141). This paper studies how to estimate heterogeneity in factorial experiments using Rashomon Partitions. Forthcoming in *Journal of the Royal Statistical Society: Series B* (with Discussion).
++ [The Uneven Rise of AI-Generated Content on the Web](https://arxiv.org/abs/2610.36631). AI-generated content is becoming more prevalent, but spreading unevenly across the web.
++ [When Surveys Become Conversations: Adaptive Matrix Validation for AI-Assisted Interviews](https://arxiv.org/abs/2606.24244). This paper presents a survey design that turns conversational responses into structured variables and uses direct questions to calibrate estimates.
++ [The Epidemiology of Artificial Intelligence](https://arxiv.org/abs/2604.14086). We propose a framework for measuring AI exposure and studying its health effects at the population level. Forthcoming in *Nature Health*.
++ [A Multimodal Benchmark for Evaluating Cause-of-Death Inference Using Child Health and Mortality Data](https://www.medrxiv.org/content/10.64898/2026.07.13.26357980v1). This paper presents a benchmark for evaluating cause-of-death inference using child health and mortality data. Accepted to the *NeurIPS 2026 Evaluations & Datasets Track*.
 
+[See all technical reports and working papers]({{ '/working-papers/' | relative_url }}).
 
 ### Affiliations
 + [University of Washington](http://www.uw.edu)
