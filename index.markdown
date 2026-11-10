@@ -32,7 +32,7 @@ A link to my slides from the ASA Webinar on the role of statistics in AI is [her
 A link to our ENAR short course is [here](https://thmccormick.github.io/ipd-short-course/).
 <br>
 
-### Recent/featured work
+### Recent/featured work:
 
 <div class="featured-work">
   <article class="featured-work__item">
@@ -52,7 +52,7 @@ A link to our ENAR short course is [here](https://thmccormick.github.io/ipd-shor
     <div><h4><a href="https://arxiv.org/abs/2604.14086">The Epidemiology of Artificial Intelligence</a></h4><p>We propose a framework for measuring AI exposure and studying its health effects at the population level. Forthcoming in <em>Nature Health</em>.</p></div>
   </article>
   <article class="featured-work__item">
-    <img class="featured-work__image" src="{{ '/assets/mortality-benchmark-icon.svg' | relative_url }}" alt="" />
+    <img class="featured-work__image" src="{{ '/assets/multimodal-benchmark-figure1.png' | relative_url }}" alt="Figure 1 from the paper: data coverage and missingness across data types" />
     <div><h4><a href="https://www.medrxiv.org/content/10.64898/2026.07.13.26357980v1">A Multimodal Benchmark for Evaluating Cause-of-Death Inference Using Child Health and Mortality Data</a></h4><p>This paper presents a benchmark for evaluating cause-of-death inference using child health and mortality data. Accepted to the <em>NeurIPS 2026 Evaluations &amp; Datasets Track</em>.</p></div>
   </article>
 </div>
