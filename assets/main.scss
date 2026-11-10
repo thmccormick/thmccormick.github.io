@@ -1,0 +1,60 @@
+---
+---
+$content-width: 1160px;
+@import "minima";
+
+.site-header .wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.site-header .wrapper:after { content: none; }
+
+.site-title { white-space: nowrap; }
+.site-nav { line-height: normal; }
+.site-nav .trigger { display: flex; align-items: center; }
+.site-nav .page-link { display: inline-block; line-height: 1.2; }
+
+.featured-work {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 16px;
+  margin: 0 0 20px;
+}
+.featured-work__item {
+  display: flex;
+  align-items: flex-start;
+  gap: 14px;
+  min-width: 0;
+  padding: 16px;
+  background: #f9fafb;
+  border: 1px solid #e5e7eb;
+  border-left: 4px solid #4b2e83;
+  border-radius: 6px;
+}
+.featured-work__image {
+  flex: 0 0 92px;
+  width: 92px;
+  height: 92px;
+  object-fit: contain;
+  background: #fff;
+}
+.featured-work__item h4 { font-size: 1rem; font-weight: 600; line-height: 1.3; margin: 0 0 7px; }
+.featured-work__item p { font-size: .94rem; line-height: 1.45; margin: 0; }
+
+@media screen and (max-width: 920px) {
+  .site-header .wrapper { min-height: 55px; }
+  .site-nav { position: absolute; top: 9px; right: 15px; background: #fdfdfd; border: 1px solid #e8e8e8; border-radius: 5px; text-align: right; z-index: 2; }
+  .site-nav label[for="nav-trigger"] { display: block; float: right; width: 36px; height: 36px; cursor: pointer; }
+  .site-nav .menu-icon { display: block; float: right; width: 36px; height: 26px; line-height: 0; padding-top: 10px; text-align: center; }
+  .site-nav .menu-icon > svg { fill: #424242; }
+  .site-nav input ~ .trigger { clear: both; display: none; }
+  .site-nav input:checked ~ .trigger { display: block; padding-bottom: 5px; }
+  .site-nav .page-link { display: block; padding: 5px 10px; margin-left: 20px; }
+  .site-nav .page-link:not(:last-child) { margin-right: 0; }
+  .site-nav .page-link br { display: none; }
+}
+@media screen and (max-width: 700px) {
+  .featured-work { grid-template-columns: 1fr; }
+  .featured-work__image { flex-basis: 76px; width: 76px; height: 76px; }
+}

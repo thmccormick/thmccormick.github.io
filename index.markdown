@@ -34,11 +34,28 @@ A link to our ENAR short course is [here](https://thmccormick.github.io/ipd-shor
 
 ### Recent/featured work
 
-+ [Robustly estimating heterogeneity in factorial data using Rashomon Partitions](https://arxiv.org/abs/2404.02141). This paper studies how to estimate heterogeneity in factorial experiments using Rashomon Partitions. Forthcoming in *Journal of the Royal Statistical Society: Series B* (with Discussion).
-+ [The Uneven Rise of AI-Generated Content on the Web](https://arxiv.org/abs/2610.36631). AI-generated content is becoming more prevalent, but spreading unevenly across the web.
-+ [When Surveys Become Conversations: Adaptive Matrix Validation for AI-Assisted Interviews](https://arxiv.org/abs/2606.24244). This paper presents a survey design that turns conversational responses into structured variables and uses direct questions to calibrate estimates.
-+ [The Epidemiology of Artificial Intelligence](https://arxiv.org/abs/2604.14086). We propose a framework for measuring AI exposure and studying its health effects at the population level. Forthcoming in *Nature Health*.
-+ [A Multimodal Benchmark for Evaluating Cause-of-Death Inference Using Child Health and Mortality Data](https://www.medrxiv.org/content/10.64898/2026.07.13.26357980v1). This paper presents a benchmark for evaluating cause-of-death inference using child health and mortality data. Accepted to the *NeurIPS 2026 Evaluations & Datasets Track*.
+<div class="featured-work">
+  <article class="featured-work__item">
+    <img class="featured-work__image" src="{{ '/assets/rashomon-partitions-icon.svg' | relative_url }}" alt="" />
+    <div><h4><a href="https://arxiv.org/abs/2404.02141">Robustly estimating heterogeneity in factorial data using Rashomon Partitions</a></h4><p>This paper studies how to estimate heterogeneity in factorial experiments using Rashomon Partitions. Forthcoming in <em>Journal of the Royal Statistical Society: Series B</em> (with Discussion).</p></div>
+  </article>
+  <article class="featured-work__item">
+    <img class="featured-work__image" src="{{ '/assets/uneven-ai-content-prevalence-v2.png' | relative_url }}" alt="Graph of AI-generated or AI-edited text on webpages over time" />
+    <div><h4><a href="https://arxiv.org/abs/2610.36631">The Uneven Rise of AI-Generated Content on the Web</a></h4><p>AI-generated content is becoming more prevalent, but spreading unevenly across the web.</p></div>
+  </article>
+  <article class="featured-work__item">
+    <img class="featured-work__image" src="{{ '/assets/adaptive-matrix-validation-icon.svg' | relative_url }}" alt="" />
+    <div><h4><a href="https://arxiv.org/abs/2606.24244">When Surveys Become Conversations: Adaptive Matrix Validation for AI-Assisted Interviews</a></h4><p>This paper presents a survey design that turns conversational responses into structured variables and uses direct questions to calibrate estimates.</p></div>
+  </article>
+  <article class="featured-work__item">
+    <img class="featured-work__image" src="{{ '/assets/epidemiology-ai-2026.jpg' | relative_url }}" alt="Illustration of AI exposure in healthcare and daily life" />
+    <div><h4><a href="https://arxiv.org/abs/2604.14086">The Epidemiology of Artificial Intelligence</a></h4><p>We propose a framework for measuring AI exposure and studying its health effects at the population level. Forthcoming in <em>Nature Health</em>.</p></div>
+  </article>
+  <article class="featured-work__item">
+    <img class="featured-work__image" src="{{ '/assets/mortality-benchmark-icon.svg' | relative_url }}" alt="" />
+    <div><h4><a href="https://www.medrxiv.org/content/10.64898/2026.07.13.26357980v1">A Multimodal Benchmark for Evaluating Cause-of-Death Inference Using Child Health and Mortality Data</a></h4><p>This paper presents a benchmark for evaluating cause-of-death inference using child health and mortality data. Accepted to the <em>NeurIPS 2026 Evaluations &amp; Datasets Track</em>.</p></div>
+  </article>
+</div>
 
 [See all technical reports and working papers]({{ '/working-papers/' | relative_url }}).
 
