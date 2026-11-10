@@ -56,7 +56,7 @@ A link to our ENAR short course is [here](https://thmccormick.github.io/ipd-shor
     <div><h4><a href="https://www.medrxiv.org/content/10.64898/2026.07.13.26357980v1">A Multimodal Benchmark for Evaluating Cause-of-Death Inference Using Child Health and Mortality Data</a></h4><p>This paper presents a benchmark for evaluating cause-of-death inference using child health and mortality data. Accepted to the <em>NeurIPS 2026 Evaluations &amp; Datasets Track</em>.</p></div>
   </article>
   <article class="featured-work__item">
-    <img class="featured-work__image" src="{{ '/assets/census-to-sensors.png' | relative_url }}" alt="Table comparing bureaucratic and brokerage data regimes" />
+    <img class="featured-work__image" src="{{ '/assets/census-to-sensors-illustration.png' | relative_url }}" alt="Illustration of a census form connected to digital data sources" />
     <div><h4><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6773159">From Census to Sensors: The Bureaucratic Regime and the Data Revolution</a></h4><p>With Marion Fourcade, Adam Visokay, and Sarah Quinn, I examine how data collection is shifting from government surveys to digital traces and private data brokers, and what this means for state governance.</p></div>
   </article>
 </div>
