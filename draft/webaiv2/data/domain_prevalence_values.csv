@@ -1,0 +1,164 @@
+key,value,unit,source
+domain.latest.com.mean,29.5,percent,matched saved draws
+domain.latest.com.lo95,28.7,percent,matched saved draws
+domain.latest.com.hi95,30.2,percent,matched saved draws
+domain.latest.net.mean,20.4,percent,matched saved draws
+domain.latest.net.lo95,19.5,percent,matched saved draws
+domain.latest.net.hi95,21.4,percent,matched saved draws
+domain.latest.other.mean,20.2,percent,matched saved draws
+domain.latest.other.lo95,19.3,percent,matched saved draws
+domain.latest.other.hi95,21.0,percent,matched saved draws
+domain.latest.org.mean,14.6,percent,matched saved draws
+domain.latest.org.lo95,14.1,percent,matched saved draws
+domain.latest.org.hi95,15.0,percent,matched saved draws
+domain.latest.gov.mean,5.8,percent,matched saved draws
+domain.latest.gov.lo95,5.1,percent,matched saved draws
+domain.latest.gov.hi95,6.5,percent,matched saved draws
+domain.latest.edu.mean,6.1,percent,matched saved draws
+domain.latest.edu.lo95,5.4,percent,matched saved draws
+domain.latest.edu.hi95,6.9,percent,matched saved draws
+domain.baseline.com.mean,2.4,percent,matched saved draws
+domain.baseline.com.lo95,2.2,percent,matched saved draws
+domain.baseline.com.hi95,2.5,percent,matched saved draws
+domain.baseline.net.mean,1.5,percent,matched saved draws
+domain.baseline.net.lo95,1.4,percent,matched saved draws
+domain.baseline.net.hi95,1.6,percent,matched saved draws
+domain.baseline.other.mean,1.6,percent,matched saved draws
+domain.baseline.other.lo95,1.4,percent,matched saved draws
+domain.baseline.other.hi95,1.7,percent,matched saved draws
+domain.baseline.org.mean,1.8,percent,matched saved draws
+domain.baseline.org.lo95,1.7,percent,matched saved draws
+domain.baseline.org.hi95,1.9,percent,matched saved draws
+domain.baseline.gov.mean,1.8,percent,matched saved draws
+domain.baseline.gov.lo95,1.6,percent,matched saved draws
+domain.baseline.gov.hi95,2.0,percent,matched saved draws
+domain.baseline.edu.mean,1.2,percent,matched saved draws
+domain.baseline.edu.lo95,1.1,percent,matched saved draws
+domain.baseline.edu.hi95,1.4,percent,matched saved draws
+domain.growth.com.mean,27.1,percentage points,matched saved draws
+domain.growth.com.lo95,26.4,percentage points,matched saved draws
+domain.growth.com.hi95,27.8,percentage points,matched saved draws
+domain.growth.net.mean,18.9,percentage points,matched saved draws
+domain.growth.net.lo95,17.9,percentage points,matched saved draws
+domain.growth.net.hi95,19.9,percentage points,matched saved draws
+domain.growth.other.mean,18.6,percentage points,matched saved draws
+domain.growth.other.lo95,17.8,percentage points,matched saved draws
+domain.growth.other.hi95,19.4,percentage points,matched saved draws
+domain.growth.org.mean,12.8,percentage points,matched saved draws
+domain.growth.org.lo95,12.3,percentage points,matched saved draws
+domain.growth.org.hi95,13.2,percentage points,matched saved draws
+domain.growth.gov.mean,4.0,percentage points,matched saved draws
+domain.growth.gov.lo95,3.3,percentage points,matched saved draws
+domain.growth.gov.hi95,4.7,percentage points,matched saved draws
+domain.growth.edu.mean,4.9,percentage points,matched saved draws
+domain.growth.edu.lo95,4.2,percentage points,matched saved draws
+domain.growth.edu.hi95,5.7,percentage points,matched saved draws
+domain.standardized.com.mean,26.4,percent,matched saved draws
+domain.standardized.com.lo95,25.6,percent,matched saved draws
+domain.standardized.com.hi95,27.3,percent,matched saved draws
+domain.standardized.net.mean,21.0,percent,matched saved draws
+domain.standardized.net.lo95,20.0,percent,matched saved draws
+domain.standardized.net.hi95,21.9,percent,matched saved draws
+domain.standardized.other.mean,22.6,percent,matched saved draws
+domain.standardized.other.lo95,21.9,percent,matched saved draws
+domain.standardized.other.hi95,23.4,percent,matched saved draws
+domain.standardized.org.mean,13.4,percent,matched saved draws
+domain.standardized.org.lo95,12.9,percent,matched saved draws
+domain.standardized.org.hi95,13.9,percent,matched saved draws
+domain.standardized.gov.mean,7.5,percent,matched saved draws
+domain.standardized.gov.lo95,6.6,percent,matched saved draws
+domain.standardized.gov.hi95,8.5,percent,matched saved draws
+domain.standardized.edu.mean,7.0,percent,matched saved draws
+domain.standardized.edu.lo95,6.1,percent,matched saved draws
+domain.standardized.edu.hi95,7.9,percent,matched saved draws
+domain.shared.com.mean,27.5,percent,matched saved draws
+domain.shared.com.lo95,27.0,percent,matched saved draws
+domain.shared.com.hi95,28.0,percent,matched saved draws
+domain.shared.net.mean,21.8,percent,matched saved draws
+domain.shared.net.lo95,21.0,percent,matched saved draws
+domain.shared.net.hi95,22.7,percent,matched saved draws
+domain.shared.other.mean,23.5,percent,matched saved draws
+domain.shared.other.lo95,23.0,percent,matched saved draws
+domain.shared.other.hi95,24.1,percent,matched saved draws
+domain.shared.org.mean,13.9,percent,matched saved draws
+domain.shared.org.lo95,13.5,percent,matched saved draws
+domain.shared.org.hi95,14.3,percent,matched saved draws
+domain.shared.gov.mean,7.8,percent,matched saved draws
+domain.shared.gov.lo95,6.9,percent,matched saved draws
+domain.shared.gov.hi95,8.7,percent,matched saved draws
+domain.shared.edu.mean,7.2,percent,matched saved draws
+domain.shared.edu.lo95,6.4,percent,matched saved draws
+domain.shared.edu.hi95,8.1,percent,matched saved draws
+domain.gap.gov.actual.mean,23.6,percentage points,matched saved draws
+domain.gap.gov.actual.lo95,22.7,percentage points,matched saved draws
+domain.gap.gov.actual.hi95,24.6,percentage points,matched saved draws
+domain.gap.gov.standardized.mean,18.9,percentage points,matched saved draws
+domain.gap.gov.standardized.lo95,17.9,percentage points,matched saved draws
+domain.gap.gov.standardized.hi95,20.0,percentage points,matched saved draws
+domain.gap.gov.shared.mean,19.7,percentage points,matched saved draws
+domain.gap.gov.shared.lo95,18.8,percentage points,matched saved draws
+domain.gap.gov.shared.hi95,20.7,percentage points,matched saved draws
+domain.gap.gov.reduction.mean,4.7,percentage points,matched saved draws
+domain.gap.gov.reduction.lo95,4.5,percentage points,matched saved draws
+domain.gap.gov.reduction.hi95,4.9,percentage points,matched saved draws
+domain.gap.gov.fraction_remaining.mean,80.1,percent,matched saved draws
+domain.gap.gov.fraction_remaining.lo95,78.6,percent,matched saved draws
+domain.gap.gov.fraction_remaining.hi95,81.5,percent,matched saved draws
+domain.gap.edu.actual.mean,23.3,percentage points,matched saved draws
+domain.gap.edu.actual.lo95,22.3,percentage points,matched saved draws
+domain.gap.edu.actual.hi95,24.3,percentage points,matched saved draws
+domain.gap.edu.standardized.mean,19.5,percentage points,matched saved draws
+domain.gap.edu.standardized.lo95,18.4,percentage points,matched saved draws
+domain.gap.edu.standardized.hi95,20.5,percentage points,matched saved draws
+domain.gap.edu.shared.mean,20.3,percentage points,matched saved draws
+domain.gap.edu.shared.lo95,19.3,percentage points,matched saved draws
+domain.gap.edu.shared.hi95,21.2,percentage points,matched saved draws
+domain.gap.edu.reduction.mean,3.8,percentage points,matched saved draws
+domain.gap.edu.reduction.lo95,3.7,percentage points,matched saved draws
+domain.gap.edu.reduction.hi95,4.0,percentage points,matched saved draws
+domain.gap.edu.fraction_remaining.mean,83.6,percent,matched saved draws
+domain.gap.edu.fraction_remaining.lo95,82.5,percent,matched saved draws
+domain.gap.edu.fraction_remaining.hi95,84.6,percent,matched saved draws
+domain.gap.org.actual.mean,14.9,percentage points,matched saved draws
+domain.gap.org.actual.lo95,14.4,percentage points,matched saved draws
+domain.gap.org.actual.hi95,15.4,percentage points,matched saved draws
+domain.gap.org.standardized.mean,13.0,percentage points,matched saved draws
+domain.gap.org.standardized.lo95,12.5,percentage points,matched saved draws
+domain.gap.org.standardized.hi95,13.5,percentage points,matched saved draws
+domain.gap.org.shared.mean,13.6,percentage points,matched saved draws
+domain.gap.org.shared.lo95,13.2,percentage points,matched saved draws
+domain.gap.org.shared.hi95,14.0,percentage points,matched saved draws
+domain.gap.org.reduction.mean,1.9,percentage points,matched saved draws
+domain.gap.org.reduction.lo95,1.8,percentage points,matched saved draws
+domain.gap.org.reduction.hi95,1.9,percentage points,matched saved draws
+domain.gap.org.fraction_remaining.mean,87.6,percent,matched saved draws
+domain.gap.org.fraction_remaining.lo95,87.0,percent,matched saved draws
+domain.gap.org.fraction_remaining.hi95,88.1,percent,matched saved draws
+domain.coverage.com,100.0,percent,reference page counts
+domain.coverage.net,99.1,percent,reference page counts
+domain.coverage.other,99.8,percent,reference page counts
+domain.coverage.org,99.3,percent,reference page counts
+domain.coverage.gov,22.5,percent,reference page counts
+domain.coverage.edu,16.6,percent,reference page counts
+domain.shared_reference_share,14.1,percent,reference page counts
+domain.date.baseline,December 2021,text,phase1_sampling/crawl_manifest.json
+domain.date.latest,August 2026,text,phase1_sampling/crawl_manifest.json
+domain.date.earlier,February--March 2024,text,phase1_sampling/crawl_manifest.json
+domain.earlier.com.mean,7.0,percent,docs/phase3_analysis_tables/by_tld.csv
+domain.earlier.com.lo95,6.8,percent,docs/phase3_analysis_tables/by_tld.csv
+domain.earlier.com.hi95,7.2,percent,docs/phase3_analysis_tables/by_tld.csv
+domain.earlier.net.mean,5.1,percent,docs/phase3_analysis_tables/by_tld.csv
+domain.earlier.net.lo95,4.8,percent,docs/phase3_analysis_tables/by_tld.csv
+domain.earlier.net.hi95,5.3,percent,docs/phase3_analysis_tables/by_tld.csv
+domain.earlier.other.mean,4.3,percent,docs/phase3_analysis_tables/by_tld.csv
+domain.earlier.other.lo95,4.1,percent,docs/phase3_analysis_tables/by_tld.csv
+domain.earlier.other.hi95,4.5,percent,docs/phase3_analysis_tables/by_tld.csv
+domain.earlier.org.mean,3.9,percent,docs/phase3_analysis_tables/by_tld.csv
+domain.earlier.org.lo95,3.8,percent,docs/phase3_analysis_tables/by_tld.csv
+domain.earlier.org.hi95,4.1,percent,docs/phase3_analysis_tables/by_tld.csv
+domain.earlier.gov.mean,2.5,percent,docs/phase3_analysis_tables/by_tld.csv
+domain.earlier.gov.lo95,2.3,percent,docs/phase3_analysis_tables/by_tld.csv
+domain.earlier.gov.hi95,2.8,percent,docs/phase3_analysis_tables/by_tld.csv
+domain.earlier.edu.mean,2.1,percent,docs/phase3_analysis_tables/by_tld.csv
+domain.earlier.edu.lo95,1.9,percent,docs/phase3_analysis_tables/by_tld.csv
+domain.earlier.edu.hi95,2.3,percent,docs/phase3_analysis_tables/by_tld.csv

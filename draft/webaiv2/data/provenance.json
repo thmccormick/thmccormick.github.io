@@ -1,0 +1,20 @@
+{
+  "run_id": "sp_full",
+  "source_commit": "0599b7176d4567433e405684451a4d8625518e03",
+  "outcome": "Page contains fully AI-generated or AI-edited text",
+  "population": "Successfully captured pages with at least 500 characters of extracted text",
+  "scope": "Common Crawl snapshots, January 2019 to August 2026",
+  "source_hashes": {
+    "overall_prevalence.csv": "a0e2fc88b3c83d587f3be70cdb6e8b5e51b42b65a221825af48af6f76ed3e61b",
+    "overall_prevalence_rates_by_period.csv": "7461f7700529d170e11ff2eb190885aa4d9a2ef14f7cbc03f50cf38c8a2745ab",
+    "overall_prevalence_rate_comparison.csv": "e7666ccd173666d31acac716d49fcaa8b89d5cfb4ab28371cddfac07288e9721",
+    "centrality_prevalence.csv": "dc594c46e80a66ee109f4ce821bc3fffb988e47433a78cccef962edf3c61a7fa",
+    "centrality_prevalence_values.csv": "9737530b30d2ea3c9b62db4a4c104709c824b9ee5bf74053d5a91f5b7f918c7e",
+    "centrality_growth_decomposition_values.csv": "77b658156c07ca686abcedb32298508a2c4339481442af1de690322c96a71b88",
+    "language_prevalence.csv": "df5175d96905e19b2ef1465c6a31ddd1e41b44b52a2e5f8bc95d35cf2aa119f2",
+    "language_prevalence_growth_periods.csv": "0032bf905107b5feebd7f250b932a5fd95b3c0aa6d5c055d4da4046b275ae118",
+    "language_prevalence_endpoint_contrasts.csv": "4d6c8c9339db0cbbdee8d57b128009447094a560a0a26beefd5de39b7af84795",
+    "domain_prevalence_values.csv": "8bbcbda048de13b8f4a26f2d39eaaf03cf8b9f98d3d0f66fd7a6c766b6110215",
+    "by_tld.csv": "206d16686e4ee98fd5496c616e7d3177a37498ce10f86eae94a1554b108aa3fb"
+  }
+}

@@ -1,0 +1,22 @@
+key,value,unit,source
+centrality.decomp.overall0,1.9,percent or percentage points,centrality_growth_decomposition.json
+centrality.decomp.overall1,23.6,percent or percentage points,centrality_growth_decomposition.json
+centrality.decomp.overall_change,21.7,percent or percentage points,centrality_growth_decomposition.json
+centrality.decomp.total_within,21.2,percent or percentage points,centrality_growth_decomposition.json
+centrality.decomp.total_composition,0.5,percent or percentage points,centrality_growth_decomposition.json
+centrality.decomp.low_contribution,17.1,percent or percentage points,centrality_growth_decomposition.json
+centrality.decomp.low_share_of_increase,78.8,percent or percentage points,centrality_growth_decomposition.json
+centrality.decomp.low_within,15.7,percent or percentage points,centrality_growth_decomposition.json
+centrality.decomp.low_composition,1.4,percent or percentage points,centrality_growth_decomposition.json
+centrality.decomp.low_within_share_of_overall,72.3,percent or percentage points,centrality_growth_decomposition.json
+centrality.decomp.average_low_page_share,65.3,percent or percentage points,centrality_growth_decomposition.json
+centrality.decomp.low_within_rate,24.0,percent or percentage points,centrality_growth_decomposition.json
+centrality.decomp.other_within_rate,16.0,percent or percentage points,centrality_growth_decomposition.json
+centrality.decomp.within_rate_difference,8.0,percent or percentage points,centrality_growth_decomposition.json
+centrality.decomp.low_share_of_within,73.9,percent or percentage points,centrality_growth_decomposition.json
+centrality.decomp.low_page_share0,60.2,percent or percentage points,centrality_growth_decomposition.json
+centrality.decomp.low_page_share1,70.5,percent or percentage points,centrality_growth_decomposition.json
+centrality.decomp.low_share_export_mean,78.8,percent or percentage points,centrality_growth_decomposition.json
+centrality.decomp.low_share_conservative_lower,77.9,percent or percentage points,centrality_growth_decomposition.json
+centrality.decomp.baseline_date,December 2021,text,phase1_sampling/crawl_manifest.json
+centrality.decomp.latest_date,August 2026,text,phase1_sampling/crawl_manifest.json

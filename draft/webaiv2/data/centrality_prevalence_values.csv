@@ -1,0 +1,79 @@
+key,value,unit,source
+centrality.latest.top.page_share,2.7,percent,centrality_prevalence.csv
+centrality.latest.top.mean,11.6,percent,centrality_prevalence.csv
+centrality.latest.top.lo95,11.2,percent,centrality_prevalence.csv
+centrality.latest.top.hi95,11.9,percent,centrality_prevalence.csv
+centrality.latest.upper_mid.page_share,3.6,percent,centrality_prevalence.csv
+centrality.latest.upper_mid.mean,13.2,percent,centrality_prevalence.csv
+centrality.latest.upper_mid.lo95,12.7,percent,centrality_prevalence.csv
+centrality.latest.upper_mid.hi95,13.6,percent,centrality_prevalence.csv
+centrality.latest.mid.page_share,8.5,percent,centrality_prevalence.csv
+centrality.latest.mid.mean,16.6,percent,centrality_prevalence.csv
+centrality.latest.mid.lo95,16.1,percent,centrality_prevalence.csv
+centrality.latest.mid.hi95,17.1,percent,centrality_prevalence.csv
+centrality.latest.lower_mid.page_share,14.5,percent,centrality_prevalence.csv
+centrality.latest.lower_mid.mean,22.5,percent,centrality_prevalence.csv
+centrality.latest.lower_mid.lo95,21.8,percent,centrality_prevalence.csv
+centrality.latest.lower_mid.hi95,23.1,percent,centrality_prevalence.csv
+centrality.latest.tail.page_share,29.8,percent,centrality_prevalence.csv
+centrality.latest.tail.mean,23.3,percent,centrality_prevalence.csv
+centrality.latest.tail.lo95,22.5,percent,centrality_prevalence.csv
+centrality.latest.tail.hi95,24.1,percent,centrality_prevalence.csv
+centrality.latest.bottom.page_share,40.9,percent,centrality_prevalence.csv
+centrality.latest.bottom.mean,27.5,percent,centrality_prevalence.csv
+centrality.latest.bottom.lo95,26.5,percent,centrality_prevalence.csv
+centrality.latest.bottom.hi95,28.4,percent,centrality_prevalence.csv
+centrality.growth.top.weight_share_t1,2.7,percent,centrality_prevalence_growth.csv
+centrality.growth.top.domain_share,0.001,percent,centrality_prevalence_growth.csv
+centrality.growth.top.share_of_increase,0.7,percent,centrality_prevalence_growth.csv
+centrality.growth.top.share_of_increase_lo95,0.6,percent,centrality_prevalence_growth.csv
+centrality.growth.top.share_of_increase_hi95,0.7,percent,centrality_prevalence_growth.csv
+centrality.growth.top.excess_share_of_increase,-2.1,percentage points,centrality_prevalence_growth.csv
+centrality.growth.top.excess_share_of_increase_lo95,-2.1,percentage points,centrality_prevalence_growth.csv
+centrality.growth.top.excess_share_of_increase_hi95,-2.0,percentage points,centrality_prevalence_growth.csv
+centrality.growth.upper_mid.weight_share_t1,3.6,percent,centrality_prevalence_growth.csv
+centrality.growth.upper_mid.domain_share,0.009,percent,centrality_prevalence_growth.csv
+centrality.growth.upper_mid.share_of_increase,1.5,percent,centrality_prevalence_growth.csv
+centrality.growth.upper_mid.share_of_increase_lo95,1.5,percent,centrality_prevalence_growth.csv
+centrality.growth.upper_mid.share_of_increase_hi95,1.6,percent,centrality_prevalence_growth.csv
+centrality.growth.upper_mid.excess_share_of_increase,-2.0,percentage points,centrality_prevalence_growth.csv
+centrality.growth.upper_mid.excess_share_of_increase_lo95,-2.1,percentage points,centrality_prevalence_growth.csv
+centrality.growth.upper_mid.excess_share_of_increase_hi95,-2.0,percentage points,centrality_prevalence_growth.csv
+centrality.growth.mid.weight_share_t1,8.5,percent,centrality_prevalence_growth.csv
+centrality.growth.mid.domain_share,0.09,percent,centrality_prevalence_growth.csv
+centrality.growth.mid.share_of_increase,5.4,percent,centrality_prevalence_growth.csv
+centrality.growth.mid.share_of_increase_lo95,5.2,percent,centrality_prevalence_growth.csv
+centrality.growth.mid.share_of_increase_hi95,5.5,percent,centrality_prevalence_growth.csv
+centrality.growth.mid.excess_share_of_increase,-3.2,percentage points,centrality_prevalence_growth.csv
+centrality.growth.mid.excess_share_of_increase_lo95,-3.3,percentage points,centrality_prevalence_growth.csv
+centrality.growth.mid.excess_share_of_increase_hi95,-3.1,percentage points,centrality_prevalence_growth.csv
+centrality.growth.lower_mid.weight_share_t1,14.6,percent,centrality_prevalence_growth.csv
+centrality.growth.lower_mid.domain_share,0.9,percent,centrality_prevalence_growth.csv
+centrality.growth.lower_mid.share_of_increase,13.6,percent,centrality_prevalence_growth.csv
+centrality.growth.lower_mid.share_of_increase_lo95,13.4,percent,centrality_prevalence_growth.csv
+centrality.growth.lower_mid.share_of_increase_hi95,13.8,percent,centrality_prevalence_growth.csv
+centrality.growth.lower_mid.excess_share_of_increase,-1.0,percentage points,centrality_prevalence_growth.csv
+centrality.growth.lower_mid.excess_share_of_increase_lo95,-1.2,percentage points,centrality_prevalence_growth.csv
+centrality.growth.lower_mid.excess_share_of_increase_hi95,-0.8,percentage points,centrality_prevalence_growth.csv
+centrality.growth.tail.weight_share_t1,29.9,percent,centrality_prevalence_growth.csv
+centrality.growth.tail.domain_share,9,percent,centrality_prevalence_growth.csv
+centrality.growth.tail.share_of_increase,30.2,percent,centrality_prevalence_growth.csv
+centrality.growth.tail.share_of_increase_lo95,29.8,percent,centrality_prevalence_growth.csv
+centrality.growth.tail.share_of_increase_hi95,30.6,percent,centrality_prevalence_growth.csv
+centrality.growth.tail.excess_share_of_increase,0.3,percentage points,centrality_prevalence_growth.csv
+centrality.growth.tail.excess_share_of_increase_lo95,-0.2,percentage points,centrality_prevalence_growth.csv
+centrality.growth.tail.excess_share_of_increase_hi95,0.7,percentage points,centrality_prevalence_growth.csv
+centrality.growth.bottom.weight_share_t1,40.6,percent,centrality_prevalence_growth.csv
+centrality.growth.bottom.domain_share,90,percent,centrality_prevalence_growth.csv
+centrality.growth.bottom.share_of_increase,48.6,percent,centrality_prevalence_growth.csv
+centrality.growth.bottom.share_of_increase_lo95,48.1,percent,centrality_prevalence_growth.csv
+centrality.growth.bottom.share_of_increase_hi95,49.2,percent,centrality_prevalence_growth.csv
+centrality.growth.bottom.excess_share_of_increase,8.0,percentage points,centrality_prevalence_growth.csv
+centrality.growth.bottom.excess_share_of_increase_lo95,7.5,percentage points,centrality_prevalence_growth.csv
+centrality.growth.bottom.excess_share_of_increase_hi95,8.6,percentage points,centrality_prevalence_growth.csv
+centrality.growth.lowest_two.weight_share_t1,70.5,percent,centrality_prevalence_growth.csv
+centrality.growth.lowest_two.share_of_increase,78.8,percent,centrality_prevalence_growth.csv
+centrality.growth.lowest_two.excess_share_of_increase,8.3,percentage points,centrality_prevalence_growth.csv
+centrality.growth.baseline_date,December 2021,text,phase1_sampling/crawl_manifest.json
+centrality.growth.latest_date,August 2026,text,phase1_sampling/crawl_manifest.json
+centrality.growth.lowest_two.absolute_excess,8.3,percentage points,centrality_prevalence_growth.csv
