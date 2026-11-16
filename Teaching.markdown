@@ -8,7 +8,7 @@ permalink: /teaching/
 + [Soumyakanti Pan](https://span-18.github.io/) (current)
 + [Kentaro Hoffman](https://khoffm4.github.io/) (2023-2025), now AI Experimental Systems Research Scientist at 3M.
 + [Rrita Zejnullahi](https://rrita-zejnullahi.netlify.app/#about) (2021-2023), now Clinical Assistant Professor of Biostatistics · University of Illinois Chicago.
-+ [Tim Thomas](https://sociology.berkeley.edu/visiting-faculty/tim-thomas) (2017-2019), now Assistant Professional Researcher and founding director of the Eviction Research Network at UC Berkeley.
++ [Tim Thomas](https://sociology.berkeley.edu/visiting-faculty/tim-thomas) (2017-2019), now Assistant Professor Researcher and founding director of the Eviction Research Network at UC Berkeley.
 + [Gwen Eadie](http://www.gweneadie.com/) (2017-2019), now Assistant Professor of Statistics & Astronomy at the University of Toronto.
 + [Tsuyoshi Kunihama](https://sites.google.com/site/tsuyoshikunihama/) (2016-2017), now Assistant Professor in the Department of Economics at Kwansei Gakuin University.
 
